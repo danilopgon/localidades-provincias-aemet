@@ -6,7 +6,7 @@ Este repositorio contiene archivos JSON actualizados con información sobre las 
 
 ### Inspiración y Créditos
 
-Este repositorio se basa en los datos originales del proyecto [angular-consuming-aemet](https://github.com/ivanalbizu/angular-consuming-aemet), con modificaciones realizadas para mejorar la compatibilidad con la API de la AEMET.
+Este repositorio se basa en los datos originales del proyecto [angular-consuming-aemet](https://github.com/ivanalbizu/angular-consuming-aemet), con modificaciones realizadas para mejorar la compatibilidad con la API y facilitar la inserción de los datos mediante SQL.
 
 ### Cambios realizados
 
