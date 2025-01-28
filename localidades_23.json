@@ -1,267 +1,267 @@
 [
   {
     "id": "23001",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Albanchez de Mágina"
   },
   {
     "id": "23002",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Alcalá la Real"
   },
-  { "id": "23003", "id_provincia": "23", "name": "Alcaudete" },
+  { "id": "23003", "provinceId": "23", "name": "Alcaudete" },
   {
     "id": "23004",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Aldeaquemada"
   },
-  { "id": "23005", "id_provincia": "23", "name": "Andújar" },
-  { "id": "23006", "id_provincia": "23", "name": "Arjona" },
-  { "id": "23007", "id_provincia": "23", "name": "Arjonilla" },
-  { "id": "23008", "id_provincia": "23", "name": "Arquillos" },
+  { "id": "23005", "provinceId": "23", "name": "Andújar" },
+  { "id": "23006", "provinceId": "23", "name": "Arjona" },
+  { "id": "23007", "provinceId": "23", "name": "Arjonilla" },
+  { "id": "23008", "provinceId": "23", "name": "Arquillos" },
   {
     "id": "23905",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Arroyo del Ojanco"
   },
-  { "id": "23009", "id_provincia": "23", "name": "Baeza" },
-  { "id": "23010", "id_provincia": "23", "name": "Bailén" },
+  { "id": "23009", "provinceId": "23", "name": "Baeza" },
+  { "id": "23010", "provinceId": "23", "name": "Bailén" },
   {
     "id": "23011",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Baños de la Encina"
   },
   {
     "id": "23012",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Beas de Segura"
   },
   {
     "id": "23902",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Bedmar y Garcíez"
   },
-  { "id": "23014", "id_provincia": "23", "name": "Begíjar" },
+  { "id": "23014", "provinceId": "23", "name": "Begíjar" },
   {
     "id": "23015",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Bélmez de la Moraleda"
   },
-  { "id": "23016", "id_provincia": "23", "name": "Benatae" },
+  { "id": "23016", "provinceId": "23", "name": "Benatae" },
   {
     "id": "23017",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Cabra del Santo Cristo"
   },
-  { "id": "23018", "id_provincia": "23", "name": "Cambil" },
+  { "id": "23018", "provinceId": "23", "name": "Cambil" },
   {
     "id": "23019",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Campillo de Arenas"
   },
-  { "id": "23020", "id_provincia": "23", "name": "Canena" },
-  { "id": "23021", "id_provincia": "23", "name": "Carboneros" },
+  { "id": "23020", "provinceId": "23", "name": "Canena" },
+  { "id": "23021", "provinceId": "23", "name": "Carboneros" },
   {
     "id": "23901",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Cárcheles"
   },
-  { "id": "23024", "id_provincia": "23", "name": "Carolina, La" },
-  { "id": "23025", "id_provincia": "23", "name": "Castellar" },
+  { "id": "23024", "provinceId": "23", "name": "Carolina, La" },
+  { "id": "23025", "provinceId": "23", "name": "Castellar" },
   {
     "id": "23026",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Castillo de Locubín"
   },
-  { "id": "23027", "id_provincia": "23", "name": "Cazalilla" },
-  { "id": "23028", "id_provincia": "23", "name": "Cazorla" },
+  { "id": "23027", "provinceId": "23", "name": "Cazalilla" },
+  { "id": "23028", "provinceId": "23", "name": "Cazorla" },
   {
     "id": "23029",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Chiclana de Segura"
   },
   {
     "id": "23030",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Chilluévar"
   },
-  { "id": "23031", "id_provincia": "23", "name": "Escañuela" },
-  { "id": "23032", "id_provincia": "23", "name": "Espelúy" },
-  { "id": "23033", "id_provincia": "23", "name": "Frailes" },
+  { "id": "23031", "provinceId": "23", "name": "Escañuela" },
+  { "id": "23032", "provinceId": "23", "name": "Espelúy" },
+  { "id": "23033", "provinceId": "23", "name": "Frailes" },
   {
     "id": "23034",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Fuensanta de Martos"
   },
   {
     "id": "23035",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Fuerte del Rey"
   },
-  { "id": "23037", "id_provincia": "23", "name": "Génave" },
+  { "id": "23037", "provinceId": "23", "name": "Génave" },
   {
     "id": "23038",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Guardia de Jaén, La"
   },
-  { "id": "23039", "id_provincia": "23", "name": "Guarromán" },
+  { "id": "23039", "provinceId": "23", "name": "Guarromán" },
   {
     "id": "23041",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Higuera de Calatrava"
   },
-  { "id": "23042", "id_provincia": "23", "name": "Hinojares" },
-  { "id": "23043", "id_provincia": "23", "name": "Hornos" },
-  { "id": "23044", "id_provincia": "23", "name": "Huelma" },
-  { "id": "23045", "id_provincia": "23", "name": "Huesa" },
-  { "id": "23046", "id_provincia": "23", "name": "Ibros" },
-  { "id": "23047", "id_provincia": "23", "name": "Iruela, La" },
-  { "id": "23048", "id_provincia": "23", "name": "Iznatoraf" },
-  { "id": "23049", "id_provincia": "23", "name": "Jabalquinto" },
-  { "id": "23050", "id_provincia": "23", "name": "Jaén" },
-  { "id": "23051", "id_provincia": "23", "name": "Jamilena" },
-  { "id": "23052", "id_provincia": "23", "name": "Jimena" },
-  { "id": "23053", "id_provincia": "23", "name": "Jódar" },
-  { "id": "23040", "id_provincia": "23", "name": "Lahiguera" },
-  { "id": "23054", "id_provincia": "23", "name": "Larva" },
-  { "id": "23055", "id_provincia": "23", "name": "Linares" },
-  { "id": "23056", "id_provincia": "23", "name": "Lopera" },
-  { "id": "23057", "id_provincia": "23", "name": "Lupión" },
-  { "id": "23058", "id_provincia": "23", "name": "Mancha Real" },
-  { "id": "23059", "id_provincia": "23", "name": "Marmolejo" },
-  { "id": "23060", "id_provincia": "23", "name": "Martos" },
-  { "id": "23061", "id_provincia": "23", "name": "Mengíbar" },
-  { "id": "23062", "id_provincia": "23", "name": "Montizón" },
+  { "id": "23042", "provinceId": "23", "name": "Hinojares" },
+  { "id": "23043", "provinceId": "23", "name": "Hornos" },
+  { "id": "23044", "provinceId": "23", "name": "Huelma" },
+  { "id": "23045", "provinceId": "23", "name": "Huesa" },
+  { "id": "23046", "provinceId": "23", "name": "Ibros" },
+  { "id": "23047", "provinceId": "23", "name": "Iruela, La" },
+  { "id": "23048", "provinceId": "23", "name": "Iznatoraf" },
+  { "id": "23049", "provinceId": "23", "name": "Jabalquinto" },
+  { "id": "23050", "provinceId": "23", "name": "Jaén" },
+  { "id": "23051", "provinceId": "23", "name": "Jamilena" },
+  { "id": "23052", "provinceId": "23", "name": "Jimena" },
+  { "id": "23053", "provinceId": "23", "name": "Jódar" },
+  { "id": "23040", "provinceId": "23", "name": "Lahiguera" },
+  { "id": "23054", "provinceId": "23", "name": "Larva" },
+  { "id": "23055", "provinceId": "23", "name": "Linares" },
+  { "id": "23056", "provinceId": "23", "name": "Lopera" },
+  { "id": "23057", "provinceId": "23", "name": "Lupión" },
+  { "id": "23058", "provinceId": "23", "name": "Mancha Real" },
+  { "id": "23059", "provinceId": "23", "name": "Marmolejo" },
+  { "id": "23060", "provinceId": "23", "name": "Martos" },
+  { "id": "23061", "provinceId": "23", "name": "Mengíbar" },
+  { "id": "23062", "provinceId": "23", "name": "Montizón" },
   {
     "id": "23063",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Navas de San Juan"
   },
-  { "id": "23064", "id_provincia": "23", "name": "Noalejo" },
-  { "id": "23065", "id_provincia": "23", "name": "Orcera" },
+  { "id": "23064", "provinceId": "23", "name": "Noalejo" },
+  { "id": "23065", "provinceId": "23", "name": "Orcera" },
   {
     "id": "23066",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Peal de Becerro"
   },
-  { "id": "23067", "id_provincia": "23", "name": "Pegalajar" },
-  { "id": "23069", "id_provincia": "23", "name": "Porcuna" },
+  { "id": "23067", "provinceId": "23", "name": "Pegalajar" },
+  { "id": "23069", "provinceId": "23", "name": "Porcuna" },
   {
     "id": "23070",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Pozo Alcón"
   },
   {
     "id": "23071",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Puente de Génave"
   },
   {
     "id": "23072",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Puerta de Segura, La"
   },
-  { "id": "23073", "id_provincia": "23", "name": "Quesada" },
-  { "id": "23074", "id_provincia": "23", "name": "Rus" },
-  { "id": "23075", "id_provincia": "23", "name": "Sabiote" },
-  { "id": "23076", "id_provincia": "23", "name": "Santa Elena" },
+  { "id": "23073", "provinceId": "23", "name": "Quesada" },
+  { "id": "23074", "provinceId": "23", "name": "Rus" },
+  { "id": "23075", "provinceId": "23", "name": "Sabiote" },
+  { "id": "23076", "provinceId": "23", "name": "Santa Elena" },
   {
     "id": "23077",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Santiago de Calatrava"
   },
   {
     "id": "23904",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Santiago-Pontones"
   },
   {
     "id": "23079",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Santisteban del Puerto"
   },
   {
     "id": "23080",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Santo Tomé"
   },
   {
     "id": "23081",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Segura de la Sierra"
   },
-  { "id": "23082", "id_provincia": "23", "name": "Siles" },
+  { "id": "23082", "provinceId": "23", "name": "Siles" },
   {
     "id": "23084",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Sorihuela del Guadalimar"
   },
   {
     "id": "23085",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Torreblascopedro"
   },
   {
     "id": "23086",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Torredelcampo"
   },
   {
     "id": "23087",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Torredonjimeno"
   },
   {
     "id": "23088",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Torreperogil"
   },
-  { "id": "23090", "id_provincia": "23", "name": "Torres" },
+  { "id": "23090", "provinceId": "23", "name": "Torres" },
   {
     "id": "23091",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Torres de Albánchez"
   },
-  { "id": "23092", "id_provincia": "23", "name": "Úbeda" },
+  { "id": "23092", "provinceId": "23", "name": "Úbeda" },
   {
     "id": "23093",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Valdepeñas de Jaén"
   },
-  { "id": "23094", "id_provincia": "23", "name": "Vilches" },
+  { "id": "23094", "provinceId": "23", "name": "Vilches" },
   {
     "id": "23095",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Villacarrillo"
   },
   {
     "id": "23096",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Villanueva de la Reina"
   },
   {
     "id": "23097",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Villanueva del Arzobispo"
   },
   {
     "id": "23098",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Villardompardo"
   },
   {
     "id": "23099",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Villares, Los"
   },
   {
     "id": "23101",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Villarrodrigo"
   },
   {
     "id": "23903",
-    "id_provincia": "23",
+    "provinceId": "23",
     "name": "Villatorres"
   }
 ]

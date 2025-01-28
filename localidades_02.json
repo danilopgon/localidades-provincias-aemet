@@ -1,197 +1,197 @@
 [
-  { "id": "02001", "id_provincia": "02", "name": "Abengibre" },
-  { "id": "02002", "id_provincia": "02", "name": "Alatoz" },
-  { "id": "02003", "id_provincia": "02", "name": "Albacete" },
-  { "id": "02004", "id_provincia": "02", "name": "Albatana" },
-  { "id": "02005", "id_provincia": "02", "name": "Alborea" },
-  { "id": "02006", "id_provincia": "02", "name": "Alcadozo" },
+  { "id": "02001", "provinceId": "02", "name": "Abengibre" },
+  { "id": "02002", "provinceId": "02", "name": "Alatoz" },
+  { "id": "02003", "provinceId": "02", "name": "Albacete" },
+  { "id": "02004", "provinceId": "02", "name": "Albatana" },
+  { "id": "02005", "provinceId": "02", "name": "Alborea" },
+  { "id": "02006", "provinceId": "02", "name": "Alcadozo" },
   {
     "id": "02007",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Alcalá del Júcar"
   },
-  { "id": "02008", "id_provincia": "02", "name": "Alcaraz" },
-  { "id": "02009", "id_provincia": "02", "name": "Almansa" },
-  { "id": "02010", "id_provincia": "02", "name": "Alpera" },
-  { "id": "02011", "id_provincia": "02", "name": "Ayna" },
-  { "id": "02012", "id_provincia": "02", "name": "Balazote" },
+  { "id": "02008", "provinceId": "02", "name": "Alcaraz" },
+  { "id": "02009", "provinceId": "02", "name": "Almansa" },
+  { "id": "02010", "provinceId": "02", "name": "Alpera" },
+  { "id": "02011", "provinceId": "02", "name": "Ayna" },
+  { "id": "02012", "provinceId": "02", "name": "Balazote" },
   {
     "id": "02014",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Ballestero, El"
   },
   {
     "id": "02013",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Balsa de Ves"
   },
-  { "id": "02015", "id_provincia": "02", "name": "Barrax" },
-  { "id": "02016", "id_provincia": "02", "name": "Bienservida" },
-  { "id": "02017", "id_provincia": "02", "name": "Bogarra" },
-  { "id": "02018", "id_provincia": "02", "name": "Bonete" },
-  { "id": "02019", "id_provincia": "02", "name": "Bonillo, El" },
-  { "id": "02020", "id_provincia": "02", "name": "Carcelén" },
+  { "id": "02015", "provinceId": "02", "name": "Barrax" },
+  { "id": "02016", "provinceId": "02", "name": "Bienservida" },
+  { "id": "02017", "provinceId": "02", "name": "Bogarra" },
+  { "id": "02018", "provinceId": "02", "name": "Bonete" },
+  { "id": "02019", "provinceId": "02", "name": "Bonillo, El" },
+  { "id": "02020", "provinceId": "02", "name": "Carcelén" },
   {
     "id": "02021",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Casas de Juan Núñez"
   },
   {
     "id": "02022",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Casas de Lázaro"
   },
   {
     "id": "02023",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Casas de Ves"
   },
   {
     "id": "02024",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Casas-Ibáñez"
   },
-  { "id": "02025", "id_provincia": "02", "name": "Caudete" },
-  { "id": "02026", "id_provincia": "02", "name": "Cenizate" },
+  { "id": "02025", "provinceId": "02", "name": "Caudete" },
+  { "id": "02026", "provinceId": "02", "name": "Cenizate" },
   {
     "id": "02029",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Chinchilla de Monte-Aragón"
   },
   {
     "id": "02027",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Corral-Rubio"
   },
-  { "id": "02028", "id_provincia": "02", "name": "Cotillas" },
+  { "id": "02028", "provinceId": "02", "name": "Cotillas" },
   {
     "id": "02030",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Elche de la Sierra"
   },
-  { "id": "02031", "id_provincia": "02", "name": "Férez" },
-  { "id": "02032", "id_provincia": "02", "name": "Fuensanta" },
+  { "id": "02031", "provinceId": "02", "name": "Férez" },
+  { "id": "02032", "provinceId": "02", "name": "Fuensanta" },
   {
     "id": "02033",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Fuente-Álamo"
   },
   {
     "id": "02034",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Fuentealbilla"
   },
-  { "id": "02035", "id_provincia": "02", "name": "Gineta, La" },
-  { "id": "02036", "id_provincia": "02", "name": "Golosalvo" },
-  { "id": "02037", "id_provincia": "02", "name": "Hellín" },
-  { "id": "02038", "id_provincia": "02", "name": "Herrera, La" },
-  { "id": "02039", "id_provincia": "02", "name": "Higueruela" },
+  { "id": "02035", "provinceId": "02", "name": "Gineta, La" },
+  { "id": "02036", "provinceId": "02", "name": "Golosalvo" },
+  { "id": "02037", "provinceId": "02", "name": "Hellín" },
+  { "id": "02038", "provinceId": "02", "name": "Herrera, La" },
+  { "id": "02039", "provinceId": "02", "name": "Higueruela" },
   {
     "id": "02040",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Hoya-Gonzalo"
   },
-  { "id": "02041", "id_provincia": "02", "name": "Jorquera" },
-  { "id": "02042", "id_provincia": "02", "name": "Letur" },
-  { "id": "02043", "id_provincia": "02", "name": "Lezuza" },
-  { "id": "02044", "id_provincia": "02", "name": "Liétor" },
-  { "id": "02045", "id_provincia": "02", "name": "Madrigueras" },
-  { "id": "02046", "id_provincia": "02", "name": "Mahora" },
-  { "id": "02047", "id_provincia": "02", "name": "Masegoso" },
-  { "id": "02048", "id_provincia": "02", "name": "Minaya" },
-  { "id": "02049", "id_provincia": "02", "name": "Molinicos" },
-  { "id": "02050", "id_provincia": "02", "name": "Montalvos" },
+  { "id": "02041", "provinceId": "02", "name": "Jorquera" },
+  { "id": "02042", "provinceId": "02", "name": "Letur" },
+  { "id": "02043", "provinceId": "02", "name": "Lezuza" },
+  { "id": "02044", "provinceId": "02", "name": "Liétor" },
+  { "id": "02045", "provinceId": "02", "name": "Madrigueras" },
+  { "id": "02046", "provinceId": "02", "name": "Mahora" },
+  { "id": "02047", "provinceId": "02", "name": "Masegoso" },
+  { "id": "02048", "provinceId": "02", "name": "Minaya" },
+  { "id": "02049", "provinceId": "02", "name": "Molinicos" },
+  { "id": "02050", "provinceId": "02", "name": "Montalvos" },
   {
     "id": "02051",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Montealegre del Castillo"
   },
-  { "id": "02052", "id_provincia": "02", "name": "Motilleja" },
-  { "id": "02053", "id_provincia": "02", "name": "Munera" },
+  { "id": "02052", "provinceId": "02", "name": "Motilleja" },
+  { "id": "02053", "provinceId": "02", "name": "Munera" },
   {
     "id": "02054",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Navas de Jorquera"
   },
-  { "id": "02055", "id_provincia": "02", "name": "Nerpio" },
-  { "id": "02056", "id_provincia": "02", "name": "Ontur" },
+  { "id": "02055", "provinceId": "02", "name": "Nerpio" },
+  { "id": "02056", "provinceId": "02", "name": "Ontur" },
   {
     "id": "02057",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Ossa de Montiel"
   },
   {
     "id": "02058",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Paterna del Madera"
   },
-  { "id": "02059", "id_provincia": "02", "name": "Peñascosa" },
+  { "id": "02059", "provinceId": "02", "name": "Peñascosa" },
   {
     "id": "02060",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Peñas de San Pedro"
   },
-  { "id": "02061", "id_provincia": "02", "name": "Pétrola" },
-  { "id": "02062", "id_provincia": "02", "name": "Povedilla" },
+  { "id": "02061", "provinceId": "02", "name": "Pétrola" },
+  { "id": "02062", "provinceId": "02", "name": "Povedilla" },
   {
     "id": "02901",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Pozo Cañada"
   },
-  { "id": "02063", "id_provincia": "02", "name": "Pozohondo" },
+  { "id": "02063", "provinceId": "02", "name": "Pozohondo" },
   {
     "id": "02064",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Pozo-Lorente"
   },
-  { "id": "02065", "id_provincia": "02", "name": "Pozuelo" },
-  { "id": "02066", "id_provincia": "02", "name": "Recueja, La" },
-  { "id": "02067", "id_provincia": "02", "name": "Riópar" },
-  { "id": "02068", "id_provincia": "02", "name": "Robledo" },
-  { "id": "02069", "id_provincia": "02", "name": "Roda, La" },
-  { "id": "02070", "id_provincia": "02", "name": "Salobre" },
-  { "id": "02071", "id_provincia": "02", "name": "San Pedro" },
-  { "id": "02072", "id_provincia": "02", "name": "Socovos" },
+  { "id": "02065", "provinceId": "02", "name": "Pozuelo" },
+  { "id": "02066", "provinceId": "02", "name": "Recueja, La" },
+  { "id": "02067", "provinceId": "02", "name": "Riópar" },
+  { "id": "02068", "provinceId": "02", "name": "Robledo" },
+  { "id": "02069", "provinceId": "02", "name": "Roda, La" },
+  { "id": "02070", "provinceId": "02", "name": "Salobre" },
+  { "id": "02071", "provinceId": "02", "name": "San Pedro" },
+  { "id": "02072", "provinceId": "02", "name": "Socovos" },
   {
     "id": "02073",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Tarazona de la Mancha"
   },
-  { "id": "02074", "id_provincia": "02", "name": "Tobarra" },
-  { "id": "02075", "id_provincia": "02", "name": "Valdeganga" },
-  { "id": "02076", "id_provincia": "02", "name": "Vianos" },
+  { "id": "02074", "provinceId": "02", "name": "Tobarra" },
+  { "id": "02075", "provinceId": "02", "name": "Valdeganga" },
+  { "id": "02076", "provinceId": "02", "name": "Vianos" },
   {
     "id": "02077",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Villa de Ves"
   },
   {
     "id": "02078",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Villalgordo del Júcar"
   },
-  { "id": "02079", "id_provincia": "02", "name": "Villamalea" },
+  { "id": "02079", "provinceId": "02", "name": "Villamalea" },
   {
     "id": "02080",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Villapalacios"
   },
   {
     "id": "02081",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Villarrobledo"
   },
-  { "id": "02082", "id_provincia": "02", "name": "Villatoya" },
+  { "id": "02082", "provinceId": "02", "name": "Villatoya" },
   {
     "id": "02083",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Villavaliente"
   },
   {
     "id": "02084",
-    "id_provincia": "02",
+    "provinceId": "02",
     "name": "Villaverde de Guadalimar"
   },
-  { "id": "02085", "id_provincia": "02", "name": "Viveros" },
-  { "id": "02086", "id_provincia": "02", "name": "Yeste" }
+  { "id": "02085", "provinceId": "02", "name": "Viveros" },
+  { "id": "02086", "provinceId": "02", "name": "Yeste" }
 ]

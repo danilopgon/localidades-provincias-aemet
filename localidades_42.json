@@ -1,545 +1,545 @@
 [
-  { "id": "42001", "id_provincia": "42", "name": "Abejar" },
-  { "id": "42003", "id_provincia": "42", "name": "Adradas" },
-  { "id": "42004", "id_provincia": "42", "name": "Ágreda" },
-  { "id": "42006", "id_provincia": "42", "name": "Alconaba" },
+  { "id": "42001", "provinceId": "42", "name": "Abejar" },
+  { "id": "42003", "provinceId": "42", "name": "Adradas" },
+  { "id": "42004", "provinceId": "42", "name": "Ágreda" },
+  { "id": "42006", "provinceId": "42", "name": "Alconaba" },
   {
     "id": "42007",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Alcubilla de Avellaneda"
   },
   {
     "id": "42008",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Alcubilla de las Peñas"
   },
   {
     "id": "42009",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Aldealafuente"
   },
-  { "id": "42010", "id_provincia": "42", "name": "Aldealices" },
-  { "id": "42011", "id_provincia": "42", "name": "Aldealpozo" },
+  { "id": "42010", "provinceId": "42", "name": "Aldealices" },
+  { "id": "42011", "provinceId": "42", "name": "Aldealpozo" },
   {
     "id": "42012",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Aldealseñor"
   },
   {
     "id": "42013",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Aldehuela de Periáñez"
   },
   {
     "id": "42014",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Aldehuelas, Las"
   },
-  { "id": "42015", "id_provincia": "42", "name": "Alentisque" },
-  { "id": "42016", "id_provincia": "42", "name": "Aliud" },
-  { "id": "42017", "id_provincia": "42", "name": "Almajano" },
-  { "id": "42018", "id_provincia": "42", "name": "Almaluez" },
-  { "id": "42019", "id_provincia": "42", "name": "Almarza" },
-  { "id": "42020", "id_provincia": "42", "name": "Almazán" },
-  { "id": "42021", "id_provincia": "42", "name": "Almazul" },
+  { "id": "42015", "provinceId": "42", "name": "Alentisque" },
+  { "id": "42016", "provinceId": "42", "name": "Aliud" },
+  { "id": "42017", "provinceId": "42", "name": "Almajano" },
+  { "id": "42018", "provinceId": "42", "name": "Almaluez" },
+  { "id": "42019", "provinceId": "42", "name": "Almarza" },
+  { "id": "42020", "provinceId": "42", "name": "Almazán" },
+  { "id": "42021", "provinceId": "42", "name": "Almazul" },
   {
     "id": "42022",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Almenar de Soria"
   },
-  { "id": "42023", "id_provincia": "42", "name": "Alpanseque" },
-  { "id": "42024", "id_provincia": "42", "name": "Arancón" },
+  { "id": "42023", "provinceId": "42", "name": "Alpanseque" },
+  { "id": "42024", "provinceId": "42", "name": "Arancón" },
   {
     "id": "42025",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Arcos de Jalón"
   },
-  { "id": "42026", "id_provincia": "42", "name": "Arenillas" },
+  { "id": "42026", "provinceId": "42", "name": "Arenillas" },
   {
     "id": "42027",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Arévalo de la Sierra"
   },
   {
     "id": "42028",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Ausejo de la Sierra"
   },
-  { "id": "42029", "id_provincia": "42", "name": "Baraona" },
-  { "id": "42030", "id_provincia": "42", "name": "Barca" },
-  { "id": "42031", "id_provincia": "42", "name": "Barcones" },
+  { "id": "42029", "provinceId": "42", "name": "Baraona" },
+  { "id": "42030", "provinceId": "42", "name": "Barca" },
+  { "id": "42031", "provinceId": "42", "name": "Barcones" },
   {
     "id": "42032",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Bayubas de Abajo"
   },
   {
     "id": "42033",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Bayubas de Arriba"
   },
-  { "id": "42034", "id_provincia": "42", "name": "Beratón" },
+  { "id": "42034", "provinceId": "42", "name": "Beratón" },
   {
     "id": "42035",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Berlanga de Duero"
   },
-  { "id": "42036", "id_provincia": "42", "name": "Blacos" },
-  { "id": "42037", "id_provincia": "42", "name": "Bliecos" },
-  { "id": "42038", "id_provincia": "42", "name": "Borjabad" },
-  { "id": "42039", "id_provincia": "42", "name": "Borobia" },
-  { "id": "42041", "id_provincia": "42", "name": "Buberos" },
-  { "id": "42042", "id_provincia": "42", "name": "Buitrago" },
+  { "id": "42036", "provinceId": "42", "name": "Blacos" },
+  { "id": "42037", "provinceId": "42", "name": "Bliecos" },
+  { "id": "42038", "provinceId": "42", "name": "Borjabad" },
+  { "id": "42039", "provinceId": "42", "name": "Borobia" },
+  { "id": "42041", "provinceId": "42", "name": "Buberos" },
+  { "id": "42042", "provinceId": "42", "name": "Buitrago" },
   {
     "id": "42043",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Burgo de Osma-Ciudad de Osma"
   },
   {
     "id": "42044",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Cabrejas del Campo"
   },
   {
     "id": "42045",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Cabrejas del Pinar"
   },
   {
     "id": "42046",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Calatañazor"
   },
-  { "id": "42048", "id_provincia": "42", "name": "Caltojar" },
+  { "id": "42048", "provinceId": "42", "name": "Caltojar" },
   {
     "id": "42049",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Candilichera"
   },
-  { "id": "42050", "id_provincia": "42", "name": "Cañamaque" },
-  { "id": "42051", "id_provincia": "42", "name": "Carabantes" },
-  { "id": "42052", "id_provincia": "42", "name": "Caracena" },
+  { "id": "42050", "provinceId": "42", "name": "Cañamaque" },
+  { "id": "42051", "provinceId": "42", "name": "Carabantes" },
+  { "id": "42052", "provinceId": "42", "name": "Caracena" },
   {
     "id": "42053",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Carrascosa de Abajo"
   },
   {
     "id": "42054",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Carrascosa de la Sierra"
   },
-  { "id": "42055", "id_provincia": "42", "name": "Casarejos" },
+  { "id": "42055", "provinceId": "42", "name": "Casarejos" },
   {
     "id": "42056",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Castilfrío de la Sierra"
   },
   {
     "id": "42058",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Castillejo de Robledo"
   },
-  { "id": "42057", "id_provincia": "42", "name": "Castilruiz" },
+  { "id": "42057", "provinceId": "42", "name": "Castilruiz" },
   {
     "id": "42059",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Centenera de Andaluz"
   },
-  { "id": "42060", "id_provincia": "42", "name": "Cerbón" },
-  { "id": "42061", "id_provincia": "42", "name": "Cidones" },
-  { "id": "42062", "id_provincia": "42", "name": "Cigudosa" },
-  { "id": "42063", "id_provincia": "42", "name": "Cihuela" },
-  { "id": "42064", "id_provincia": "42", "name": "Ciria" },
+  { "id": "42060", "provinceId": "42", "name": "Cerbón" },
+  { "id": "42061", "provinceId": "42", "name": "Cidones" },
+  { "id": "42062", "provinceId": "42", "name": "Cigudosa" },
+  { "id": "42063", "provinceId": "42", "name": "Cihuela" },
+  { "id": "42064", "provinceId": "42", "name": "Ciria" },
   {
     "id": "42065",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Cirujales del Río"
   },
-  { "id": "42068", "id_provincia": "42", "name": "Coscurita" },
-  { "id": "42069", "id_provincia": "42", "name": "Covaleda" },
-  { "id": "42070", "id_provincia": "42", "name": "Cubilla" },
+  { "id": "42068", "provinceId": "42", "name": "Coscurita" },
+  { "id": "42069", "provinceId": "42", "name": "Covaleda" },
+  { "id": "42070", "provinceId": "42", "name": "Cubilla" },
   {
     "id": "42071",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Cubo de la Solana"
   },
   {
     "id": "42073",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Cueva de Ágreda"
   },
-  { "id": "42075", "id_provincia": "42", "name": "Dévanos" },
-  { "id": "42076", "id_provincia": "42", "name": "Deza" },
+  { "id": "42075", "provinceId": "42", "name": "Dévanos" },
+  { "id": "42076", "provinceId": "42", "name": "Deza" },
   {
     "id": "42078",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Duruelo de la Sierra"
   },
   {
     "id": "42079",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Escobosa de Almazán"
   },
   {
     "id": "42080",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Espeja de San Marcelino"
   },
-  { "id": "42081", "id_provincia": "42", "name": "Espejón" },
+  { "id": "42081", "provinceId": "42", "name": "Espejón" },
   {
     "id": "42082",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Estepa de San Juan"
   },
   {
     "id": "42083",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Frechilla de Almazán"
   },
   {
     "id": "42084",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fresno de Caracena"
   },
   {
     "id": "42085",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fuentearmegil"
   },
   {
     "id": "42086",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fuentecambrón"
   },
   {
     "id": "42087",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fuentecantos"
   },
   {
     "id": "42088",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fuentelmonge"
   },
   {
     "id": "42089",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fuentelsaz de Soria"
   },
   {
     "id": "42090",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fuentepinilla"
   },
   {
     "id": "42092",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fuentes de Magaña"
   },
   {
     "id": "42093",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Fuentestrún"
   },
-  { "id": "42094", "id_provincia": "42", "name": "Garray" },
-  { "id": "42095", "id_provincia": "42", "name": "Golmayo" },
-  { "id": "42096", "id_provincia": "42", "name": "Gómara" },
-  { "id": "42097", "id_provincia": "42", "name": "Gormaz" },
+  { "id": "42094", "provinceId": "42", "name": "Garray" },
+  { "id": "42095", "provinceId": "42", "name": "Golmayo" },
+  { "id": "42096", "provinceId": "42", "name": "Gómara" },
+  { "id": "42097", "provinceId": "42", "name": "Gormaz" },
   {
     "id": "42098",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Herrera de Soria"
   },
   {
     "id": "42100",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Hinojosa del Campo"
   },
   {
     "id": "42103",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Langa de Duero"
   },
-  { "id": "42105", "id_provincia": "42", "name": "Liceras" },
-  { "id": "42106", "id_provincia": "42", "name": "Losilla, La" },
-  { "id": "42107", "id_provincia": "42", "name": "Magaña" },
-  { "id": "42108", "id_provincia": "42", "name": "Maján" },
+  { "id": "42105", "provinceId": "42", "name": "Liceras" },
+  { "id": "42106", "provinceId": "42", "name": "Losilla, La" },
+  { "id": "42107", "provinceId": "42", "name": "Magaña" },
+  { "id": "42108", "provinceId": "42", "name": "Maján" },
   {
     "id": "42110",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Matalebreras"
   },
   {
     "id": "42111",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Matamala de Almazán"
   },
-  { "id": "42113", "id_provincia": "42", "name": "Medinaceli" },
+  { "id": "42113", "provinceId": "42", "name": "Medinaceli" },
   {
     "id": "42115",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Miño de Medinaceli"
   },
   {
     "id": "42116",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Miño de San Esteban"
   },
   {
     "id": "42117",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Molinos de Duero"
   },
-  { "id": "42118", "id_provincia": "42", "name": "Momblona" },
+  { "id": "42118", "provinceId": "42", "name": "Momblona" },
   {
     "id": "42119",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Monteagudo de las Vicarías"
   },
   {
     "id": "42120",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Montejo de Tiermes"
   },
   {
     "id": "42121",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Montenegro de Cameros"
   },
   {
     "id": "42123",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Morón de Almazán"
   },
   {
     "id": "42124",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Muriel de la Fuente"
   },
   {
     "id": "42125",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Muriel Viejo"
   },
   {
     "id": "42127",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Nafría de Ucero"
   },
-  { "id": "42128", "id_provincia": "42", "name": "Narros" },
-  { "id": "42129", "id_provincia": "42", "name": "Navaleno" },
-  { "id": "42130", "id_provincia": "42", "name": "Nepas" },
-  { "id": "42131", "id_provincia": "42", "name": "Nolay" },
-  { "id": "42132", "id_provincia": "42", "name": "Noviercas" },
-  { "id": "42134", "id_provincia": "42", "name": "Ólvega" },
-  { "id": "42135", "id_provincia": "42", "name": "Oncala" },
+  { "id": "42128", "provinceId": "42", "name": "Narros" },
+  { "id": "42129", "provinceId": "42", "name": "Navaleno" },
+  { "id": "42130", "provinceId": "42", "name": "Nepas" },
+  { "id": "42131", "provinceId": "42", "name": "Nolay" },
+  { "id": "42132", "provinceId": "42", "name": "Noviercas" },
+  { "id": "42134", "provinceId": "42", "name": "Ólvega" },
+  { "id": "42135", "provinceId": "42", "name": "Oncala" },
   {
     "id": "42139",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Pinilla del Campo"
   },
   {
     "id": "42140",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Portillo de Soria"
   },
   {
     "id": "42141",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Póveda de Soria, La"
   },
-  { "id": "42142", "id_provincia": "42", "name": "Pozalmuro" },
+  { "id": "42142", "provinceId": "42", "name": "Pozalmuro" },
   {
     "id": "42144",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Quintana Redonda"
   },
   {
     "id": "42145",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Quintanas de Gormaz"
   },
   {
     "id": "42148",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Quiñonería"
   },
   {
     "id": "42149",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Rábanos, Los"
   },
-  { "id": "42151", "id_provincia": "42", "name": "Rebollar" },
-  { "id": "42152", "id_provincia": "42", "name": "Recuerda" },
-  { "id": "42153", "id_provincia": "42", "name": "Rello" },
-  { "id": "42154", "id_provincia": "42", "name": "Renieblas" },
+  { "id": "42151", "provinceId": "42", "name": "Rebollar" },
+  { "id": "42152", "provinceId": "42", "name": "Recuerda" },
+  { "id": "42153", "provinceId": "42", "name": "Rello" },
+  { "id": "42154", "provinceId": "42", "name": "Renieblas" },
   {
     "id": "42155",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Retortillo de Soria"
   },
-  { "id": "42156", "id_provincia": "42", "name": "Reznos" },
+  { "id": "42156", "provinceId": "42", "name": "Reznos" },
   {
     "id": "42157",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Riba de Escalote, La"
   },
   {
     "id": "42158",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Rioseco de Soria"
   },
-  { "id": "42159", "id_provincia": "42", "name": "Rollamienta" },
-  { "id": "42160", "id_provincia": "42", "name": "Royo, El" },
-  { "id": "42161", "id_provincia": "42", "name": "Salduero" },
+  { "id": "42159", "provinceId": "42", "name": "Rollamienta" },
+  { "id": "42160", "provinceId": "42", "name": "Royo, El" },
+  { "id": "42161", "provinceId": "42", "name": "Salduero" },
   {
     "id": "42162",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "San Esteban de Gormaz"
   },
-  { "id": "42163", "id_provincia": "42", "name": "San Felices" },
+  { "id": "42163", "provinceId": "42", "name": "San Felices" },
   {
     "id": "42164",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "San Leonardo de Yagüe"
   },
   {
     "id": "42165",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "San Pedro Manrique"
   },
   {
     "id": "42166",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Santa Cruz de Yanguas"
   },
   {
     "id": "42167",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Santa María de Huerta"
   },
   {
     "id": "42168",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Santa María de las Hoyas"
   },
   {
     "id": "42171",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Serón de Nágima"
   },
-  { "id": "42172", "id_provincia": "42", "name": "Soliedra" },
-  { "id": "42173", "id_provincia": "42", "name": "Soria" },
+  { "id": "42172", "provinceId": "42", "name": "Soliedra" },
+  { "id": "42173", "provinceId": "42", "name": "Soria" },
   {
     "id": "42174",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Sotillo del Rincón"
   },
   {
     "id": "42175",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Suellacabras"
   },
-  { "id": "42176", "id_provincia": "42", "name": "Tajahuerce" },
-  { "id": "42177", "id_provincia": "42", "name": "Tajueco" },
-  { "id": "42178", "id_provincia": "42", "name": "Talveila" },
+  { "id": "42176", "provinceId": "42", "name": "Tajahuerce" },
+  { "id": "42177", "provinceId": "42", "name": "Tajueco" },
+  { "id": "42178", "provinceId": "42", "name": "Talveila" },
   {
     "id": "42181",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Tardelcuende"
   },
-  { "id": "42182", "id_provincia": "42", "name": "Taroda" },
-  { "id": "42183", "id_provincia": "42", "name": "Tejado" },
-  { "id": "42184", "id_provincia": "42", "name": "Torlengua" },
-  { "id": "42185", "id_provincia": "42", "name": "Torreblacos" },
+  { "id": "42182", "provinceId": "42", "name": "Taroda" },
+  { "id": "42183", "provinceId": "42", "name": "Tejado" },
+  { "id": "42184", "provinceId": "42", "name": "Torlengua" },
+  { "id": "42185", "provinceId": "42", "name": "Torreblacos" },
   {
     "id": "42187",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Torrubia de Soria"
   },
-  { "id": "42188", "id_provincia": "42", "name": "Trévago" },
-  { "id": "42189", "id_provincia": "42", "name": "Ucero" },
-  { "id": "42190", "id_provincia": "42", "name": "Vadillo" },
+  { "id": "42188", "provinceId": "42", "name": "Trévago" },
+  { "id": "42189", "provinceId": "42", "name": "Ucero" },
+  { "id": "42190", "provinceId": "42", "name": "Vadillo" },
   {
     "id": "42191",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Valdeavellano de Tera"
   },
-  { "id": "42192", "id_provincia": "42", "name": "Valdegeña" },
+  { "id": "42192", "provinceId": "42", "name": "Valdegeña" },
   {
     "id": "42193",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Valdelagua del Cerro"
   },
   {
     "id": "42194",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Valdemaluque"
   },
-  { "id": "42195", "id_provincia": "42", "name": "Valdenebro" },
-  { "id": "42196", "id_provincia": "42", "name": "Valdeprado" },
+  { "id": "42195", "provinceId": "42", "name": "Valdenebro" },
+  { "id": "42196", "provinceId": "42", "name": "Valdeprado" },
   {
     "id": "42197",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Valderrodilla"
   },
-  { "id": "42198", "id_provincia": "42", "name": "Valtajeros" },
-  { "id": "42200", "id_provincia": "42", "name": "Velamazán" },
+  { "id": "42198", "provinceId": "42", "name": "Valtajeros" },
+  { "id": "42200", "provinceId": "42", "name": "Velamazán" },
   {
     "id": "42201",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Velilla de la Sierra"
   },
   {
     "id": "42202",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Velilla de los Ajos"
   },
   {
     "id": "42204",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Viana de Duero"
   },
   {
     "id": "42205",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Villaciervos"
   },
   {
     "id": "42206",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Villanueva de Gormaz"
   },
   {
     "id": "42207",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Villar del Ala"
   },
   {
     "id": "42208",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Villar del Campo"
   },
   {
     "id": "42209",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Villar del Río"
   },
   {
     "id": "42211",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Villares de Soria, Los"
   },
-  { "id": "42212", "id_provincia": "42", "name": "Villasayas" },
+  { "id": "42212", "provinceId": "42", "name": "Villasayas" },
   {
     "id": "42213",
-    "id_provincia": "42",
+    "provinceId": "42",
     "name": "Villaseca de Arciel"
   },
-  { "id": "42215", "id_provincia": "42", "name": "Vinuesa" },
-  { "id": "42216", "id_provincia": "42", "name": "Vizmanos" },
-  { "id": "42217", "id_provincia": "42", "name": "Vozmediano" },
-  { "id": "42218", "id_provincia": "42", "name": "Yanguas" },
-  { "id": "42219", "id_provincia": "42", "name": "Yelo" }
+  { "id": "42215", "provinceId": "42", "name": "Vinuesa" },
+  { "id": "42216", "provinceId": "42", "name": "Vizmanos" },
+  { "id": "42217", "provinceId": "42", "name": "Vozmediano" },
+  { "id": "42218", "provinceId": "42", "name": "Yanguas" },
+  { "id": "42219", "provinceId": "42", "name": "Yelo" }
 ]

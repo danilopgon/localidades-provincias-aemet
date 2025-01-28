@@ -1,392 +1,392 @@
 [
-  { "id": "18001", "id_provincia": "18", "name": "Agrón" },
-  { "id": "18002", "id_provincia": "18", "name": "Alamedilla" },
-  { "id": "18003", "id_provincia": "18", "name": "Albolote" },
-  { "id": "18004", "id_provincia": "18", "name": "Albondón" },
+  { "id": "18001", "provinceId": "18", "name": "Agrón" },
+  { "id": "18002", "provinceId": "18", "name": "Alamedilla" },
+  { "id": "18003", "provinceId": "18", "name": "Albolote" },
+  { "id": "18004", "provinceId": "18", "name": "Albondón" },
   {
     "id": "18005",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Albuñán"
   },
-  { "id": "18006", "id_provincia": "18", "name": "Albuñol" },
+  { "id": "18006", "provinceId": "18", "name": "Albuñol" },
   {
     "id": "18007",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Albuñuelas"
   },
-  { "id": "18010", "id_provincia": "18", "name": "Aldeire" },
-  { "id": "18011", "id_provincia": "18", "name": "Alfacar" },
-  { "id": "18012", "id_provincia": "18", "name": "Algarinejo" },
+  { "id": "18010", "provinceId": "18", "name": "Aldeire" },
+  { "id": "18011", "provinceId": "18", "name": "Alfacar" },
+  { "id": "18012", "provinceId": "18", "name": "Algarinejo" },
   {
     "id": "18013",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Alhama de Granada"
   },
-  { "id": "18014", "id_provincia": "18", "name": "Alhendín" },
+  { "id": "18014", "provinceId": "18", "name": "Alhendín" },
   {
     "id": "18015",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Alicún de Ortega"
   },
-  { "id": "18016", "id_provincia": "18", "name": "Almegíjar" },
+  { "id": "18016", "provinceId": "18", "name": "Almegíjar" },
   {
     "id": "18017",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Almuñécar"
   },
   {
     "id": "18904",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Alpujarra de la Sierra"
   },
-  { "id": "18018", "id_provincia": "18", "name": "Alquife" },
+  { "id": "18018", "provinceId": "18", "name": "Alquife" },
   {
     "id": "18020",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Arenas del Rey"
   },
-  { "id": "18021", "id_provincia": "18", "name": "Armilla" },
-  { "id": "18022", "id_provincia": "18", "name": "Atarfe" },
-  { "id": "18023", "id_provincia": "18", "name": "Baza" },
+  { "id": "18021", "provinceId": "18", "name": "Armilla" },
+  { "id": "18022", "provinceId": "18", "name": "Atarfe" },
+  { "id": "18023", "provinceId": "18", "name": "Baza" },
   {
     "id": "18024",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Beas de Granada"
   },
   {
     "id": "18025",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Beas de Guadix"
   },
-  { "id": "18027", "id_provincia": "18", "name": "Benalúa" },
+  { "id": "18027", "provinceId": "18", "name": "Benalúa" },
   {
     "id": "18028",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Benalúa de las Villas"
   },
-  { "id": "18029", "id_provincia": "18", "name": "Benamaurel" },
-  { "id": "18030", "id_provincia": "18", "name": "Bérchules" },
-  { "id": "18032", "id_provincia": "18", "name": "Bubión" },
+  { "id": "18029", "provinceId": "18", "name": "Benamaurel" },
+  { "id": "18030", "provinceId": "18", "name": "Bérchules" },
+  { "id": "18032", "provinceId": "18", "name": "Bubión" },
   {
     "id": "18033",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Busquístar"
   },
-  { "id": "18034", "id_provincia": "18", "name": "Cacín" },
-  { "id": "18035", "id_provincia": "18", "name": "Cádiar" },
-  { "id": "18036", "id_provincia": "18", "name": "Cájar" },
+  { "id": "18034", "provinceId": "18", "name": "Cacín" },
+  { "id": "18035", "provinceId": "18", "name": "Cádiar" },
+  { "id": "18036", "provinceId": "18", "name": "Cájar" },
   {
     "id": "18114",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Calahorra, La"
   },
-  { "id": "18037", "id_provincia": "18", "name": "Calicasas" },
+  { "id": "18037", "provinceId": "18", "name": "Calicasas" },
   {
     "id": "18038",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Campotéjar"
   },
-  { "id": "18039", "id_provincia": "18", "name": "Caniles" },
-  { "id": "18040", "id_provincia": "18", "name": "Cáñar" },
-  { "id": "18042", "id_provincia": "18", "name": "Capileira" },
-  { "id": "18043", "id_provincia": "18", "name": "Carataunas" },
-  { "id": "18044", "id_provincia": "18", "name": "Cástaras" },
+  { "id": "18039", "provinceId": "18", "name": "Caniles" },
+  { "id": "18040", "provinceId": "18", "name": "Cáñar" },
+  { "id": "18042", "provinceId": "18", "name": "Capileira" },
+  { "id": "18043", "provinceId": "18", "name": "Carataunas" },
+  { "id": "18044", "provinceId": "18", "name": "Cástaras" },
   {
     "id": "18045",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Castilléjar"
   },
-  { "id": "18046", "id_provincia": "18", "name": "Castril" },
+  { "id": "18046", "provinceId": "18", "name": "Castril" },
   {
     "id": "18047",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Cenes de la Vega"
   },
-  { "id": "18059", "id_provincia": "18", "name": "Chauchina" },
-  { "id": "18061", "id_provincia": "18", "name": "Chimeneas" },
+  { "id": "18059", "provinceId": "18", "name": "Chauchina" },
+  { "id": "18061", "provinceId": "18", "name": "Chimeneas" },
   {
     "id": "18062",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Churriana de la Vega"
   },
-  { "id": "18048", "id_provincia": "18", "name": "Cijuela" },
+  { "id": "18048", "provinceId": "18", "name": "Cijuela" },
   {
     "id": "18049",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Cogollos de Guadix"
   },
   {
     "id": "18050",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Cogollos de la Vega"
   },
-  { "id": "18051", "id_provincia": "18", "name": "Colomera" },
+  { "id": "18051", "provinceId": "18", "name": "Colomera" },
   {
     "id": "18053",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Cortes de Baza"
   },
   {
     "id": "18054",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Cortes y Graena"
   },
   {
     "id": "18912",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Cuevas del Campo"
   },
-  { "id": "18056", "id_provincia": "18", "name": "Cúllar" },
+  { "id": "18056", "provinceId": "18", "name": "Cúllar" },
   {
     "id": "18057",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Cúllar Vega"
   },
-  { "id": "18063", "id_provincia": "18", "name": "Darro" },
+  { "id": "18063", "provinceId": "18", "name": "Darro" },
   {
     "id": "18064",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Dehesas de Guadix"
   },
   {
     "id": "18065",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Dehesas Viejas"
   },
-  { "id": "18066", "id_provincia": "18", "name": "Deifontes" },
-  { "id": "18067", "id_provincia": "18", "name": "Diezma" },
-  { "id": "18068", "id_provincia": "18", "name": "Dílar" },
-  { "id": "18069", "id_provincia": "18", "name": "Dólar" },
-  { "id": "18070", "id_provincia": "18", "name": "Dúdar" },
-  { "id": "18071", "id_provincia": "18", "name": "Dúrcal" },
-  { "id": "18072", "id_provincia": "18", "name": "Escúzar" },
-  { "id": "18074", "id_provincia": "18", "name": "Ferreira" },
-  { "id": "18076", "id_provincia": "18", "name": "Fonelas" },
-  { "id": "18078", "id_provincia": "18", "name": "Freila" },
+  { "id": "18066", "provinceId": "18", "name": "Deifontes" },
+  { "id": "18067", "provinceId": "18", "name": "Diezma" },
+  { "id": "18068", "provinceId": "18", "name": "Dílar" },
+  { "id": "18069", "provinceId": "18", "name": "Dólar" },
+  { "id": "18070", "provinceId": "18", "name": "Dúdar" },
+  { "id": "18071", "provinceId": "18", "name": "Dúrcal" },
+  { "id": "18072", "provinceId": "18", "name": "Escúzar" },
+  { "id": "18074", "provinceId": "18", "name": "Ferreira" },
+  { "id": "18076", "provinceId": "18", "name": "Fonelas" },
+  { "id": "18078", "provinceId": "18", "name": "Freila" },
   {
     "id": "18079",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Fuente Vaqueros"
   },
   {
     "id": "18905",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Gabias, Las"
   },
-  { "id": "18082", "id_provincia": "18", "name": "Galera" },
-  { "id": "18083", "id_provincia": "18", "name": "Gobernador" },
-  { "id": "18084", "id_provincia": "18", "name": "Gójar" },
-  { "id": "18085", "id_provincia": "18", "name": "Gor" },
-  { "id": "18086", "id_provincia": "18", "name": "Gorafe" },
-  { "id": "18087", "id_provincia": "18", "name": "Granada" },
+  { "id": "18082", "provinceId": "18", "name": "Galera" },
+  { "id": "18083", "provinceId": "18", "name": "Gobernador" },
+  { "id": "18084", "provinceId": "18", "name": "Gójar" },
+  { "id": "18085", "provinceId": "18", "name": "Gor" },
+  { "id": "18086", "provinceId": "18", "name": "Gorafe" },
+  { "id": "18087", "provinceId": "18", "name": "Granada" },
   {
     "id": "18088",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Guadahortuna"
   },
-  { "id": "18089", "id_provincia": "18", "name": "Guadix" },
+  { "id": "18089", "provinceId": "18", "name": "Guadix" },
   {
     "id": "18906",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Guajares, Los"
   },
   {
     "id": "18093",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Gualchos"
   },
   {
     "id": "18094",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Güejar Sierra"
   },
   {
     "id": "18095",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Güevéjar"
   },
-  { "id": "18096", "id_provincia": "18", "name": "Huélago" },
-  { "id": "18097", "id_provincia": "18", "name": "Huéneja" },
-  { "id": "18098", "id_provincia": "18", "name": "Huéscar" },
+  { "id": "18096", "provinceId": "18", "name": "Huélago" },
+  { "id": "18097", "provinceId": "18", "name": "Huéneja" },
+  { "id": "18098", "provinceId": "18", "name": "Huéscar" },
   {
     "id": "18099",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Huétor de Santillán"
   },
   {
     "id": "18100",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Huétor Tájar"
   },
   {
     "id": "18101",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Huétor Vega"
   },
-  { "id": "18102", "id_provincia": "18", "name": "Illora" },
-  { "id": "18103", "id_provincia": "18", "name": "Itrabo" },
-  { "id": "18105", "id_provincia": "18", "name": "Iznalloz" },
-  { "id": "18107", "id_provincia": "18", "name": "Jayena" },
+  { "id": "18102", "provinceId": "18", "name": "Illora" },
+  { "id": "18103", "provinceId": "18", "name": "Itrabo" },
+  { "id": "18105", "provinceId": "18", "name": "Iznalloz" },
+  { "id": "18107", "provinceId": "18", "name": "Jayena" },
   {
     "id": "18108",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Jerez del Marquesado"
   },
-  { "id": "18109", "id_provincia": "18", "name": "Jete" },
-  { "id": "18111", "id_provincia": "18", "name": "Jun" },
-  { "id": "18112", "id_provincia": "18", "name": "Juviles" },
-  { "id": "18115", "id_provincia": "18", "name": "Láchar" },
-  { "id": "18116", "id_provincia": "18", "name": "Lanjarón" },
-  { "id": "18117", "id_provincia": "18", "name": "Lanteira" },
-  { "id": "18119", "id_provincia": "18", "name": "Lecrín" },
-  { "id": "18120", "id_provincia": "18", "name": "Lentegí" },
-  { "id": "18121", "id_provincia": "18", "name": "Lobras" },
-  { "id": "18122", "id_provincia": "18", "name": "Loja" },
-  { "id": "18123", "id_provincia": "18", "name": "Lugros" },
-  { "id": "18124", "id_provincia": "18", "name": "Lújar" },
+  { "id": "18109", "provinceId": "18", "name": "Jete" },
+  { "id": "18111", "provinceId": "18", "name": "Jun" },
+  { "id": "18112", "provinceId": "18", "name": "Juviles" },
+  { "id": "18115", "provinceId": "18", "name": "Láchar" },
+  { "id": "18116", "provinceId": "18", "name": "Lanjarón" },
+  { "id": "18117", "provinceId": "18", "name": "Lanteira" },
+  { "id": "18119", "provinceId": "18", "name": "Lecrín" },
+  { "id": "18120", "provinceId": "18", "name": "Lentegí" },
+  { "id": "18121", "provinceId": "18", "name": "Lobras" },
+  { "id": "18122", "provinceId": "18", "name": "Loja" },
+  { "id": "18123", "provinceId": "18", "name": "Lugros" },
+  { "id": "18124", "provinceId": "18", "name": "Lújar" },
   {
     "id": "18126",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Malahá, La"
   },
-  { "id": "18127", "id_provincia": "18", "name": "Maracena" },
-  { "id": "18128", "id_provincia": "18", "name": "Marchal" },
-  { "id": "18132", "id_provincia": "18", "name": "Moclín" },
-  { "id": "18133", "id_provincia": "18", "name": "Molvízar" },
-  { "id": "18134", "id_provincia": "18", "name": "Monachil" },
-  { "id": "18135", "id_provincia": "18", "name": "Montefrío" },
+  { "id": "18127", "provinceId": "18", "name": "Maracena" },
+  { "id": "18128", "provinceId": "18", "name": "Marchal" },
+  { "id": "18132", "provinceId": "18", "name": "Moclín" },
+  { "id": "18133", "provinceId": "18", "name": "Molvízar" },
+  { "id": "18134", "provinceId": "18", "name": "Monachil" },
+  { "id": "18135", "provinceId": "18", "name": "Montefrío" },
   {
     "id": "18136",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Montejícar"
   },
-  { "id": "18137", "id_provincia": "18", "name": "Montillana" },
+  { "id": "18137", "provinceId": "18", "name": "Montillana" },
   {
     "id": "18138",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Moraleda de Zafayona"
   },
   {
     "id": "18909",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Morelábor"
   },
-  { "id": "18140", "id_provincia": "18", "name": "Motril" },
-  { "id": "18141", "id_provincia": "18", "name": "Murtas" },
-  { "id": "18903", "id_provincia": "18", "name": "Nevada" },
-  { "id": "18143", "id_provincia": "18", "name": "Nigüelas" },
-  { "id": "18144", "id_provincia": "18", "name": "Nívar" },
-  { "id": "18145", "id_provincia": "18", "name": "Ogíjares" },
-  { "id": "18146", "id_provincia": "18", "name": "Orce" },
-  { "id": "18147", "id_provincia": "18", "name": "Órgiva" },
-  { "id": "18148", "id_provincia": "18", "name": "Otívar" },
-  { "id": "18150", "id_provincia": "18", "name": "Padul" },
-  { "id": "18151", "id_provincia": "18", "name": "Pampaneira" },
+  { "id": "18140", "provinceId": "18", "name": "Motril" },
+  { "id": "18141", "provinceId": "18", "name": "Murtas" },
+  { "id": "18903", "provinceId": "18", "name": "Nevada" },
+  { "id": "18143", "provinceId": "18", "name": "Nigüelas" },
+  { "id": "18144", "provinceId": "18", "name": "Nívar" },
+  { "id": "18145", "provinceId": "18", "name": "Ogíjares" },
+  { "id": "18146", "provinceId": "18", "name": "Orce" },
+  { "id": "18147", "provinceId": "18", "name": "Órgiva" },
+  { "id": "18148", "provinceId": "18", "name": "Otívar" },
+  { "id": "18150", "provinceId": "18", "name": "Padul" },
+  { "id": "18151", "provinceId": "18", "name": "Pampaneira" },
   {
     "id": "18152",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Pedro Martínez"
   },
-  { "id": "18153", "id_provincia": "18", "name": "Peligros" },
-  { "id": "18154", "id_provincia": "18", "name": "Peza, La" },
-  { "id": "18910", "id_provincia": "18", "name": "Pinar, El" },
-  { "id": "18157", "id_provincia": "18", "name": "Pinos Genil" },
+  { "id": "18153", "provinceId": "18", "name": "Peligros" },
+  { "id": "18154", "provinceId": "18", "name": "Peza, La" },
+  { "id": "18910", "provinceId": "18", "name": "Pinar, El" },
+  { "id": "18157", "provinceId": "18", "name": "Pinos Genil" },
   {
     "id": "18158",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Pinos Puente"
   },
-  { "id": "18159", "id_provincia": "18", "name": "Píñar" },
-  { "id": "18161", "id_provincia": "18", "name": "Polícar" },
+  { "id": "18159", "provinceId": "18", "name": "Píñar" },
+  { "id": "18161", "provinceId": "18", "name": "Polícar" },
   {
     "id": "18162",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Polopos"
   },
-  { "id": "18163", "id_provincia": "18", "name": "Pórtugos" },
+  { "id": "18163", "provinceId": "18", "name": "Pórtugos" },
   {
     "id": "18164",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Puebla de Don Fadrique"
   },
-  { "id": "18165", "id_provincia": "18", "name": "Pulianas" },
-  { "id": "18167", "id_provincia": "18", "name": "Purullena" },
-  { "id": "18168", "id_provincia": "18", "name": "Quéntar" },
-  { "id": "18170", "id_provincia": "18", "name": "Rubite" },
-  { "id": "18171", "id_provincia": "18", "name": "Salar" },
-  { "id": "18173", "id_provincia": "18", "name": "Salobreña" },
+  { "id": "18165", "provinceId": "18", "name": "Pulianas" },
+  { "id": "18167", "provinceId": "18", "name": "Purullena" },
+  { "id": "18168", "provinceId": "18", "name": "Quéntar" },
+  { "id": "18170", "provinceId": "18", "name": "Rubite" },
+  { "id": "18171", "provinceId": "18", "name": "Salar" },
+  { "id": "18173", "provinceId": "18", "name": "Salobreña" },
   {
     "id": "18174",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Santa Cruz del Comercio"
   },
-  { "id": "18175", "id_provincia": "18", "name": "Santa Fe" },
+  { "id": "18175", "provinceId": "18", "name": "Santa Fe" },
   {
     "id": "18176",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Soportújar"
   },
-  { "id": "18177", "id_provincia": "18", "name": "Sorvilán" },
-  { "id": "18901", "id_provincia": "18", "name": "Taha, La" },
+  { "id": "18177", "provinceId": "18", "name": "Sorvilán" },
+  { "id": "18901", "provinceId": "18", "name": "Taha, La" },
   {
     "id": "18178",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Torre-Cardela"
   },
-  { "id": "18179", "id_provincia": "18", "name": "Torvizcón" },
-  { "id": "18180", "id_provincia": "18", "name": "Trevélez" },
-  { "id": "18181", "id_provincia": "18", "name": "Turón" },
-  { "id": "18182", "id_provincia": "18", "name": "Ugíjar" },
-  { "id": "18914", "id_provincia": "18", "name": "Valderrubio" },
+  { "id": "18179", "provinceId": "18", "name": "Torvizcón" },
+  { "id": "18180", "provinceId": "18", "name": "Trevélez" },
+  { "id": "18181", "provinceId": "18", "name": "Turón" },
+  { "id": "18182", "provinceId": "18", "name": "Ugíjar" },
+  { "id": "18914", "provinceId": "18", "name": "Valderrubio" },
   {
     "id": "18902",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Valle, El"
   },
   {
     "id": "18907",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Valle del Zalabí"
   },
-  { "id": "18183", "id_provincia": "18", "name": "Válor" },
+  { "id": "18183", "provinceId": "18", "name": "Válor" },
   {
     "id": "18911",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Vegas del Genil"
   },
   {
     "id": "18184",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Vélez de Benaudalla"
   },
   {
     "id": "18185",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Ventas de Huelma"
   },
   {
     "id": "18149",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Villa de Otura"
   },
   {
     "id": "18908",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Villamena"
   },
   {
     "id": "18187",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Villanueva de las Torres"
   },
   {
     "id": "18188",
-    "id_provincia": "18",
+    "provinceId": "18",
     "name": "Villanueva Mesía"
   },
-  { "id": "18189", "id_provincia": "18", "name": "Víznar" },
-  { "id": "18192", "id_provincia": "18", "name": "Zafarraya" },
-  { "id": "18913", "id_provincia": "18", "name": "Zagra" },
-  { "id": "18193", "id_provincia": "18", "name": "Zubia, La" },
-  { "id": "18194", "id_provincia": "18", "name": "Zújar" }
+  { "id": "18189", "provinceId": "18", "name": "Víznar" },
+  { "id": "18192", "provinceId": "18", "name": "Zafarraya" },
+  { "id": "18913", "provinceId": "18", "name": "Zagra" },
+  { "id": "18193", "provinceId": "18", "name": "Zubia, La" },
+  { "id": "18194", "provinceId": "18", "name": "Zújar" }
 ]

@@ -1,302 +1,302 @@
 [
   {
     "id": "48001",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Abadiño"
   },
   {
     "id": "48002",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Abanto y Ciérvana-Abanto Zierbena"
   },
-  { "id": "48911", "id_provincia": "48", "name": "Ajangiz" },
-  { "id": "48912", "id_provincia": "48", "name": "Alonsotegi" },
+  { "id": "48911", "provinceId": "48", "name": "Ajangiz" },
+  { "id": "48912", "provinceId": "48", "name": "Alonsotegi" },
   {
     "id": "48003",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Amorebieta-Etxano"
   },
-  { "id": "48004", "id_provincia": "48", "name": "Amoroto" },
+  { "id": "48004", "provinceId": "48", "name": "Amoroto" },
   {
     "id": "48005",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Arakaldo"
   },
   {
     "id": "48006",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Arantzazu"
   },
-  { "id": "48093", "id_provincia": "48", "name": "Areatza" },
+  { "id": "48093", "provinceId": "48", "name": "Areatza" },
   {
     "id": "48009",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Arrankudiaga"
   },
-  { "id": "48914", "id_provincia": "48", "name": "Arratzu" },
-  { "id": "48010", "id_provincia": "48", "name": "Arrieta" },
+  { "id": "48914", "provinceId": "48", "name": "Arratzu" },
+  { "id": "48010", "provinceId": "48", "name": "Arrieta" },
   {
     "id": "48011",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Arrigorriaga"
   },
   {
     "id": "48023",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Artea"
   },
   {
     "id": "48008",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Artzentales"
   },
   {
     "id": "48091",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Atxondo"
   },
-  { "id": "48070", "id_provincia": "48", "name": "Aulesti" },
-  { "id": "48012", "id_provincia": "48", "name": "Bakio" },
-  { "id": "48090", "id_provincia": "48", "name": "Balmaseda" },
+  { "id": "48070", "provinceId": "48", "name": "Aulesti" },
+  { "id": "48012", "provinceId": "48", "name": "Bakio" },
+  { "id": "48090", "provinceId": "48", "name": "Balmaseda" },
   {
     "id": "48013",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Barakaldo"
   },
-  { "id": "48014", "id_provincia": "48", "name": "Barrika" },
+  { "id": "48014", "provinceId": "48", "name": "Barrika" },
   {
     "id": "48015",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Basauri"
   },
-  { "id": "48092", "id_provincia": "48", "name": "Bedia" },
-  { "id": "48016", "id_provincia": "48", "name": "Berango" },
-  { "id": "48017", "id_provincia": "48", "name": "Bermeo" },
+  { "id": "48092", "provinceId": "48", "name": "Bedia" },
+  { "id": "48016", "provinceId": "48", "name": "Berango" },
+  { "id": "48017", "provinceId": "48", "name": "Bermeo" },
   {
     "id": "48018",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Berriatua"
   },
-  { "id": "48019", "id_provincia": "48", "name": "Berriz" },
-  { "id": "48020", "id_provincia": "48", "name": "Bilbao" },
+  { "id": "48019", "provinceId": "48", "name": "Berriz" },
+  { "id": "48020", "provinceId": "48", "name": "Bilbao" },
   {
     "id": "48021",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Busturia"
   },
-  { "id": "48901", "id_provincia": "48", "name": "Derio" },
-  { "id": "48026", "id_provincia": "48", "name": "Dima" },
-  { "id": "48027", "id_provincia": "48", "name": "Durango" },
-  { "id": "48028", "id_provincia": "48", "name": "Ea" },
-  { "id": "48031", "id_provincia": "48", "name": "Elantxobe" },
-  { "id": "48032", "id_provincia": "48", "name": "Elorrio" },
-  { "id": "48902", "id_provincia": "48", "name": "Erandio" },
+  { "id": "48901", "provinceId": "48", "name": "Derio" },
+  { "id": "48026", "provinceId": "48", "name": "Dima" },
+  { "id": "48027", "provinceId": "48", "name": "Durango" },
+  { "id": "48028", "provinceId": "48", "name": "Ea" },
+  { "id": "48031", "provinceId": "48", "name": "Elantxobe" },
+  { "id": "48032", "provinceId": "48", "name": "Elorrio" },
+  { "id": "48902", "provinceId": "48", "name": "Erandio" },
   {
     "id": "48033",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Ereño"
   },
-  { "id": "48034", "id_provincia": "48", "name": "Ermua" },
-  { "id": "48079", "id_provincia": "48", "name": "Errigoiti" },
+  { "id": "48034", "provinceId": "48", "name": "Ermua" },
+  { "id": "48079", "provinceId": "48", "name": "Errigoiti" },
   {
     "id": "48029",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Etxebarri"
   },
   {
     "id": "48030",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Etxebarria"
   },
   {
     "id": "48906",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Forua"
   },
-  { "id": "48035", "id_provincia": "48", "name": "Fruiz" },
+  { "id": "48035", "provinceId": "48", "name": "Fruiz" },
   {
     "id": "48036",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Galdakao"
   },
   {
     "id": "48037",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Galdames"
   },
   {
     "id": "48038",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Gamiz-Fika"
   },
   {
     "id": "48039",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Garai"
   },
-  { "id": "48040", "id_provincia": "48", "name": "Gatika" },
+  { "id": "48040", "provinceId": "48", "name": "Gatika" },
   {
     "id": "48041",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Gautegiz Arteaga"
   },
   {
     "id": "48046",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Gernika-Lumo"
   },
-  { "id": "48044", "id_provincia": "48", "name": "Getxo" },
+  { "id": "48044", "provinceId": "48", "name": "Getxo" },
   {
     "id": "48047",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Gizaburuaga"
   },
   {
     "id": "48042",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Gordexola"
   },
-  { "id": "48043", "id_provincia": "48", "name": "Gorliz" },
-  { "id": "48045", "id_provincia": "48", "name": "Güeñes" },
+  { "id": "48043", "provinceId": "48", "name": "Gorliz" },
+  { "id": "48045", "provinceId": "48", "name": "Güeñes" },
   {
     "id": "48048",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Ibarrangelu"
   },
-  { "id": "48094", "id_provincia": "48", "name": "Igorre" },
+  { "id": "48094", "provinceId": "48", "name": "Igorre" },
   {
     "id": "48049",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Ispaster"
   },
-  { "id": "48910", "id_provincia": "48", "name": "Iurreta" },
-  { "id": "48050", "id_provincia": "48", "name": "Izurtza" },
+  { "id": "48910", "provinceId": "48", "name": "Iurreta" },
+  { "id": "48050", "provinceId": "48", "name": "Izurtza" },
   {
     "id": "48022",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Karrantza Harana/Valle de Carranza"
   },
   {
     "id": "48907",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Kortezubi"
   },
-  { "id": "48051", "id_provincia": "48", "name": "Lanestosa" },
+  { "id": "48051", "provinceId": "48", "name": "Lanestosa" },
   {
     "id": "48052",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Larrabetzu"
   },
-  { "id": "48053", "id_provincia": "48", "name": "Laukiz" },
-  { "id": "48054", "id_provincia": "48", "name": "Leioa" },
-  { "id": "48057", "id_provincia": "48", "name": "Lekeitio" },
-  { "id": "48055", "id_provincia": "48", "name": "Lemoa" },
-  { "id": "48056", "id_provincia": "48", "name": "Lemoiz" },
-  { "id": "48081", "id_provincia": "48", "name": "Lezama" },
-  { "id": "48903", "id_provincia": "48", "name": "Loiu" },
-  { "id": "48058", "id_provincia": "48", "name": "Mallabia" },
-  { "id": "48059", "id_provincia": "48", "name": "Mañaria" },
+  { "id": "48053", "provinceId": "48", "name": "Laukiz" },
+  { "id": "48054", "provinceId": "48", "name": "Leioa" },
+  { "id": "48057", "provinceId": "48", "name": "Lekeitio" },
+  { "id": "48055", "provinceId": "48", "name": "Lemoa" },
+  { "id": "48056", "provinceId": "48", "name": "Lemoiz" },
+  { "id": "48081", "provinceId": "48", "name": "Lezama" },
+  { "id": "48903", "provinceId": "48", "name": "Loiu" },
+  { "id": "48058", "provinceId": "48", "name": "Mallabia" },
+  { "id": "48059", "provinceId": "48", "name": "Mañaria" },
   {
     "id": "48060",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Markina-Xemein"
   },
   {
     "id": "48061",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Maruri-Jatabe"
   },
-  { "id": "48062", "id_provincia": "48", "name": "Mendata" },
-  { "id": "48063", "id_provincia": "48", "name": "Mendexa" },
+  { "id": "48062", "provinceId": "48", "name": "Mendata" },
+  { "id": "48063", "provinceId": "48", "name": "Mendexa" },
   {
     "id": "48064",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Meñaka"
   },
-  { "id": "48066", "id_provincia": "48", "name": "Morga" },
-  { "id": "48068", "id_provincia": "48", "name": "Mundaka" },
-  { "id": "48069", "id_provincia": "48", "name": "Mungia" },
+  { "id": "48066", "provinceId": "48", "name": "Morga" },
+  { "id": "48068", "provinceId": "48", "name": "Mundaka" },
+  { "id": "48069", "provinceId": "48", "name": "Mungia" },
   {
     "id": "48007",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Munitibar-Arbatzegi Gerrikaitz"
   },
   {
     "id": "48908",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Murueta"
   },
-  { "id": "48071", "id_provincia": "48", "name": "Muskiz" },
+  { "id": "48071", "provinceId": "48", "name": "Muskiz" },
   {
     "id": "48067",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Muxika"
   },
   {
     "id": "48909",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Nabarniz"
   },
-  { "id": "48073", "id_provincia": "48", "name": "Ondarroa" },
-  { "id": "48075", "id_provincia": "48", "name": "Orozko" },
-  { "id": "48083", "id_provincia": "48", "name": "Ortuella" },
-  { "id": "48072", "id_provincia": "48", "name": "Otxandio" },
-  { "id": "48077", "id_provincia": "48", "name": "Plentzia" },
-  { "id": "48078", "id_provincia": "48", "name": "Portugalete" },
-  { "id": "48082", "id_provincia": "48", "name": "Santurtzi" },
-  { "id": "48084", "id_provincia": "48", "name": "Sestao" },
+  { "id": "48073", "provinceId": "48", "name": "Ondarroa" },
+  { "id": "48075", "provinceId": "48", "name": "Orozko" },
+  { "id": "48083", "provinceId": "48", "name": "Ortuella" },
+  { "id": "48072", "provinceId": "48", "name": "Otxandio" },
+  { "id": "48077", "provinceId": "48", "name": "Plentzia" },
+  { "id": "48078", "provinceId": "48", "name": "Portugalete" },
+  { "id": "48082", "provinceId": "48", "name": "Santurtzi" },
+  { "id": "48084", "provinceId": "48", "name": "Sestao" },
   {
     "id": "48904",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Sondika"
   },
-  { "id": "48085", "id_provincia": "48", "name": "Sopela" },
+  { "id": "48085", "provinceId": "48", "name": "Sopela" },
   {
     "id": "48086",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Sopuerta"
   },
-  { "id": "48076", "id_provincia": "48", "name": "Sukarrieta" },
+  { "id": "48076", "provinceId": "48", "name": "Sukarrieta" },
   {
     "id": "48087",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Trucios-Turtzioz"
   },
-  { "id": "48088", "id_provincia": "48", "name": "Ubide" },
+  { "id": "48088", "provinceId": "48", "name": "Ubide" },
   {
     "id": "48065",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Ugao-Miraballes"
   },
-  { "id": "48089", "id_provincia": "48", "name": "Urduliz" },
+  { "id": "48089", "provinceId": "48", "name": "Urduliz" },
   {
     "id": "48074",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Urduña/Orduña"
   },
   {
     "id": "48080",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Valle de Trápaga-Trapagaran"
   },
-  { "id": "48095", "id_provincia": "48", "name": "Zaldibar" },
-  { "id": "48096", "id_provincia": "48", "name": "Zalla" },
+  { "id": "48095", "provinceId": "48", "name": "Zaldibar" },
+  { "id": "48096", "provinceId": "48", "name": "Zalla" },
   {
     "id": "48905",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Zamudio"
   },
-  { "id": "48097", "id_provincia": "48", "name": "Zaratamo" },
-  { "id": "48024", "id_provincia": "48", "name": "Zeanuri" },
-  { "id": "48025", "id_provincia": "48", "name": "Zeberio" },
+  { "id": "48097", "provinceId": "48", "name": "Zaratamo" },
+  { "id": "48024", "provinceId": "48", "name": "Zeanuri" },
+  { "id": "48025", "provinceId": "48", "name": "Zeberio" },
   {
     "id": "48913",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Zierbena"
   },
   {
     "id": "48915",
-    "id_provincia": "48",
+    "provinceId": "48",
     "name": "Ziortza-Bolibar"
   }
 ]

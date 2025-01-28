@@ -1,193 +1,193 @@
 [
   {
     "id": "01001",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Alegría-Dulantzi"
   },
-  { "id": "01002", "id_provincia": "01", "name": "Amurrio" },
+  { "id": "01002", "provinceId": "01", "name": "Amurrio" },
   {
     "id": "01049",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Añana"
   },
-  { "id": "01003", "id_provincia": "01", "name": "Aramaio" },
+  { "id": "01003", "provinceId": "01", "name": "Aramaio" },
   {
     "id": "01006",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Armiñón"
   },
   {
     "id": "01037",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Arraia-Maeztu"
   },
   {
     "id": "01008",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Arratzua-Ubarrundia"
   },
-  { "id": "01004", "id_provincia": "01", "name": "Artziniega" },
+  { "id": "01004", "provinceId": "01", "name": "Artziniega" },
   {
     "id": "01009",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Asparrena"
   },
   {
     "id": "01010",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Ayala/Aiara"
   },
   {
     "id": "01011",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Baños de Ebro/Mañueta"
   },
   {
     "id": "01013",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Barrundia"
   },
   {
     "id": "01014",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Berantevilla"
   },
-  { "id": "01016", "id_provincia": "01", "name": "Bernedo" },
+  { "id": "01016", "provinceId": "01", "name": "Bernedo" },
   {
     "id": "01017",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Campezo/Kanpezu"
   },
   {
     "id": "01021",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Elburgo/Burgelu"
   },
-  { "id": "01022", "id_provincia": "01", "name": "Elciego" },
+  { "id": "01022", "provinceId": "01", "name": "Elciego" },
   {
     "id": "01023",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Elvillar/Bilar"
   },
   {
     "id": "01046",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Erriberagoitia/Ribera Alta"
   },
   {
     "id": "01056",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Harana/Valle de Arana"
   },
   {
     "id": "01901",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Iruña Oka/Iruña de Oca"
   },
   {
     "id": "01027",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Iruraiz-Gauna"
   },
-  { "id": "01019", "id_provincia": "01", "name": "Kripan" },
+  { "id": "01019", "provinceId": "01", "name": "Kripan" },
   {
     "id": "01020",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Kuartango"
   },
   {
     "id": "01028",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Labastida/Bastida"
   },
-  { "id": "01030", "id_provincia": "01", "name": "Lagrán" },
+  { "id": "01030", "provinceId": "01", "name": "Lagrán" },
   {
     "id": "01031",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Laguardia"
   },
   {
     "id": "01032",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Lanciego/Lantziego"
   },
   {
     "id": "01902",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Lantarón"
   },
   {
     "id": "01033",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Lapuebla de Labarca"
   },
   {
     "id": "01036",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Laudio/Llodio"
   },
-  { "id": "01058", "id_provincia": "01", "name": "Legutio" },
-  { "id": "01034", "id_provincia": "01", "name": "Leza" },
+  { "id": "01058", "provinceId": "01", "name": "Legutio" },
+  { "id": "01034", "provinceId": "01", "name": "Leza" },
   {
     "id": "01039",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Moreda de Álava/Moreda Araba"
   },
-  { "id": "01041", "id_provincia": "01", "name": "Navaridas" },
+  { "id": "01041", "provinceId": "01", "name": "Navaridas" },
   {
     "id": "01042",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Okondo"
   },
-  { "id": "01043", "id_provincia": "01", "name": "Oyón-Oion" },
+  { "id": "01043", "provinceId": "01", "name": "Oyón-Oion" },
   {
     "id": "01044",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Peñacerrada-Urizaharra"
   },
   {
     "id": "01047",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Ribera Baja/Erribera Beitia"
   },
   {
     "id": "01051",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Salvatierra/Agurain"
   },
-  { "id": "01052", "id_provincia": "01", "name": "Samaniego" },
+  { "id": "01052", "provinceId": "01", "name": "Samaniego" },
   {
     "id": "01053",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "San Millán/Donemiliaga"
   },
   {
     "id": "01054",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Urkabustaiz"
   },
   {
     "id": "01055",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Valdegovía/Gaubea"
   },
   {
     "id": "01057",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Villabuena de Álava/Eskuernaga"
   },
   {
     "id": "01059",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Vitoria-Gasteiz"
   },
   {
     "id": "01060",
-    "id_provincia": "01",
+    "provinceId": "01",
     "name": "Yécora/Iekora"
   },
-  { "id": "01061", "id_provincia": "01", "name": "Zalduondo" },
-  { "id": "01062", "id_provincia": "01", "name": "Zambrana" },
-  { "id": "01018", "id_provincia": "01", "name": "Zigoitia" },
-  { "id": "01063", "id_provincia": "01", "name": "Zuia" }
+  { "id": "01061", "provinceId": "01", "name": "Zalduondo" },
+  { "id": "01062", "provinceId": "01", "name": "Zambrana" },
+  { "id": "01018", "provinceId": "01", "name": "Zigoitia" },
+  { "id": "01063", "provinceId": "01", "name": "Zuia" }
 ]

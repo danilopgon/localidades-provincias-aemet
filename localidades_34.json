@@ -1,765 +1,765 @@
 [
   {
     "id": "34001",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Abarca de Campos"
   },
   {
     "id": "34003",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Abia de las Torres"
   },
   {
     "id": "34004",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Aguilar de Campoo"
   },
   {
     "id": "34005",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Alar del Rey"
   },
   {
     "id": "34006",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Alba de Cerrato"
   },
   {
     "id": "34009",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Amayuelas de Arriba"
   },
-  { "id": "34010", "id_provincia": "34", "name": "Ampudia" },
-  { "id": "34011", "id_provincia": "34", "name": "Amusco" },
+  { "id": "34010", "provinceId": "34", "name": "Ampudia" },
+  { "id": "34011", "provinceId": "34", "name": "Amusco" },
   {
     "id": "34012",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Antigüedad"
   },
-  { "id": "34015", "id_provincia": "34", "name": "Arconada" },
-  { "id": "34017", "id_provincia": "34", "name": "Astudillo" },
+  { "id": "34015", "provinceId": "34", "name": "Arconada" },
+  { "id": "34017", "provinceId": "34", "name": "Astudillo" },
   {
     "id": "34018",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Autilla del Pino"
   },
   {
     "id": "34019",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Autillo de Campos"
   },
-  { "id": "34020", "id_provincia": "34", "name": "Ayuela" },
-  { "id": "34022", "id_provincia": "34", "name": "Baltanás" },
+  { "id": "34020", "provinceId": "34", "name": "Ayuela" },
+  { "id": "34022", "provinceId": "34", "name": "Baltanás" },
   {
     "id": "34024",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Baquerín de Campos"
   },
   {
     "id": "34025",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Bárcena de Campos"
   },
   {
     "id": "34027",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Barruelo de Santullán"
   },
   {
     "id": "34028",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Báscones de Ojeda"
   },
   {
     "id": "34029",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Becerril de Campos"
   },
   {
     "id": "34031",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Belmonte de Campos"
   },
-  { "id": "34032", "id_provincia": "34", "name": "Berzosilla" },
+  { "id": "34032", "provinceId": "34", "name": "Berzosilla" },
   {
     "id": "34033",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Boada de Campos"
   },
   {
     "id": "34034",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Boadilla del Camino"
   },
   {
     "id": "34035",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Boadilla de Rioseco"
   },
-  { "id": "34036", "id_provincia": "34", "name": "Brañosera" },
+  { "id": "34036", "provinceId": "34", "name": "Brañosera" },
   {
     "id": "34037",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Buenavista de Valdavia"
   },
   {
     "id": "34038",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Bustillo de la Vega"
   },
   {
     "id": "34039",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Bustillo del Páramo de Carrión"
   },
   {
     "id": "34041",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Calahorra de Boedo"
   },
   {
     "id": "34042",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Calzada de los Molinos"
   },
-  { "id": "34045", "id_provincia": "34", "name": "Capillas" },
+  { "id": "34045", "provinceId": "34", "name": "Capillas" },
   {
     "id": "34046",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Cardeñosa de Volpejera"
   },
   {
     "id": "34047",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Carrión de los Condes"
   },
   {
     "id": "34048",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Castil de Vela"
   },
   {
     "id": "34049",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Castrejón de la Peña"
   },
   {
     "id": "34050",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Castrillo de Don Juan"
   },
   {
     "id": "34051",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Castrillo de Onielo"
   },
   {
     "id": "34052",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Castrillo de Villavega"
   },
-  { "id": "34053", "id_provincia": "34", "name": "Castromocho" },
+  { "id": "34053", "provinceId": "34", "name": "Castromocho" },
   {
     "id": "34055",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Cervatos de la Cueza"
   },
   {
     "id": "34056",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Cervera de Pisuerga"
   },
   {
     "id": "34057",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Cevico de la Torre"
   },
   {
     "id": "34058",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Cevico Navero"
   },
-  { "id": "34059", "id_provincia": "34", "name": "Cisneros" },
+  { "id": "34059", "provinceId": "34", "name": "Cisneros" },
   {
     "id": "34060",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Cobos de Cerrato"
   },
   {
     "id": "34061",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Collazos de Boedo"
   },
   {
     "id": "34062",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Congosto de Valdavia"
   },
   {
     "id": "34063",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Cordovilla la Real"
   },
   {
     "id": "34066",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Cubillas de Cerrato"
   },
   {
     "id": "34067",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Dehesa de Montejo"
   },
   {
     "id": "34068",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Dehesa de Romanos"
   },
-  { "id": "34069", "id_provincia": "34", "name": "Dueñas" },
+  { "id": "34069", "provinceId": "34", "name": "Dueñas" },
   {
     "id": "34070",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Espinosa de Cerrato"
   },
   {
     "id": "34071",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Espinosa de Villagonzalo"
   },
-  { "id": "34072", "id_provincia": "34", "name": "Frechilla" },
+  { "id": "34072", "provinceId": "34", "name": "Frechilla" },
   {
     "id": "34073",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Fresno del Río"
   },
-  { "id": "34074", "id_provincia": "34", "name": "Frómista" },
+  { "id": "34074", "provinceId": "34", "name": "Frómista" },
   {
     "id": "34076",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Fuentes de Nava"
   },
   {
     "id": "34077",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Fuentes de Valdepero"
   },
-  { "id": "34079", "id_provincia": "34", "name": "Grijota" },
-  { "id": "34080", "id_provincia": "34", "name": "Guardo" },
+  { "id": "34079", "provinceId": "34", "name": "Grijota" },
+  { "id": "34080", "provinceId": "34", "name": "Guardo" },
   {
     "id": "34081",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Guaza de Campos"
   },
   {
     "id": "34082",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Hérmedes de Cerrato"
   },
   {
     "id": "34083",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Herrera de Pisuerga"
   },
   {
     "id": "34084",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Herrera de Valdecañas"
   },
   {
     "id": "34086",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Hontoria de Cerrato"
   },
   {
     "id": "34087",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Hornillos de Cerrato"
   },
-  { "id": "34088", "id_provincia": "34", "name": "Husillos" },
+  { "id": "34088", "provinceId": "34", "name": "Husillos" },
   {
     "id": "34089",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Itero de la Vega"
   },
-  { "id": "34091", "id_provincia": "34", "name": "Lagartos" },
-  { "id": "34092", "id_provincia": "34", "name": "Lantadilla" },
-  { "id": "34094", "id_provincia": "34", "name": "Ledigos" },
+  { "id": "34091", "provinceId": "34", "name": "Lagartos" },
+  { "id": "34092", "provinceId": "34", "name": "Lantadilla" },
+  { "id": "34094", "provinceId": "34", "name": "Ledigos" },
   {
     "id": "34903",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Loma de Ucieza"
   },
-  { "id": "34096", "id_provincia": "34", "name": "Lomas" },
+  { "id": "34096", "provinceId": "34", "name": "Lomas" },
   {
     "id": "34098",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Magaz de Pisuerga"
   },
-  { "id": "34099", "id_provincia": "34", "name": "Manquillos" },
-  { "id": "34100", "id_provincia": "34", "name": "Mantinos" },
+  { "id": "34099", "provinceId": "34", "name": "Manquillos" },
+  { "id": "34100", "provinceId": "34", "name": "Mantinos" },
   {
     "id": "34101",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Marcilla de Campos"
   },
-  { "id": "34102", "id_provincia": "34", "name": "Mazariegos" },
+  { "id": "34102", "provinceId": "34", "name": "Mazariegos" },
   {
     "id": "34103",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Mazuecos de Valdeginate"
   },
   {
     "id": "34104",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Melgar de Yuso"
   },
   {
     "id": "34106",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Meneses de Campos"
   },
   {
     "id": "34107",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Micieces de Ojeda"
   },
   {
     "id": "34108",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Monzón de Campos"
   },
-  { "id": "34109", "id_provincia": "34", "name": "Moratinos" },
-  { "id": "34110", "id_provincia": "34", "name": "Mudá" },
+  { "id": "34109", "provinceId": "34", "name": "Moratinos" },
+  { "id": "34110", "provinceId": "34", "name": "Mudá" },
   {
     "id": "34112",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Nogal de las Huertas"
   },
   {
     "id": "34113",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Olea de Boedo"
   },
   {
     "id": "34114",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Olmos de Ojeda"
   },
-  { "id": "34116", "id_provincia": "34", "name": "Osornillo" },
+  { "id": "34116", "provinceId": "34", "name": "Osornillo" },
   {
     "id": "34901",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Osorno la Mayor"
   },
-  { "id": "34120", "id_provincia": "34", "name": "Palencia" },
-  { "id": "34121", "id_provincia": "34", "name": "Palenzuela" },
+  { "id": "34120", "provinceId": "34", "name": "Palencia" },
+  { "id": "34121", "provinceId": "34", "name": "Palenzuela" },
   {
     "id": "34122",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Páramo de Boedo"
   },
   {
     "id": "34123",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Paredes de Nava"
   },
   {
     "id": "34124",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Payo de Ojeda"
   },
   {
     "id": "34125",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Pedraza de Campos"
   },
   {
     "id": "34126",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Pedrosa de la Vega"
   },
-  { "id": "34127", "id_provincia": "34", "name": "Perales" },
+  { "id": "34127", "provinceId": "34", "name": "Perales" },
   {
     "id": "34904",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Pernía, La"
   },
   {
     "id": "34129",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Pino del Río"
   },
   {
     "id": "34130",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Piña de Campos"
   },
   {
     "id": "34131",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Población de Arroyo"
   },
   {
     "id": "34132",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Población de Campos"
   },
   {
     "id": "34133",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Población de Cerrato"
   },
-  { "id": "34134", "id_provincia": "34", "name": "Polentinos" },
+  { "id": "34134", "provinceId": "34", "name": "Polentinos" },
   {
     "id": "34135",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Pomar de Valdivia"
   },
   {
     "id": "34136",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Poza de la Vega"
   },
   {
     "id": "34137",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Pozo de Urama"
   },
   {
     "id": "34139",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Prádanos de Ojeda"
   },
   {
     "id": "34140",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Puebla de Valdavia, La"
   },
   {
     "id": "34141",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Quintana del Puente"
   },
   {
     "id": "34143",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Quintanilla de Onsoña"
   },
   {
     "id": "34146",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Reinoso de Cerrato"
   },
   {
     "id": "34147",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Renedo de la Vega"
   },
   {
     "id": "34149",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Requena de Campos"
   },
   {
     "id": "34151",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Respenda de la Peña"
   },
   {
     "id": "34152",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Revenga de Campos"
   },
   {
     "id": "34154",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Revilla de Collazos"
   },
   {
     "id": "34155",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Ribas de Campos"
   },
   {
     "id": "34156",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Riberos de la Cueza"
   },
-  { "id": "34157", "id_provincia": "34", "name": "Saldaña" },
+  { "id": "34157", "provinceId": "34", "name": "Saldaña" },
   {
     "id": "34158",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Salinas de Pisuerga"
   },
   {
     "id": "34159",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "San Cebrián de Campos"
   },
   {
     "id": "34160",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "San Cebrián de Mudá"
   },
   {
     "id": "34161",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "San Cristóbal de Boedo"
   },
   {
     "id": "34163",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "San Mamés de Campos"
   },
   {
     "id": "34165",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "San Román de la Cuba"
   },
   {
     "id": "34167",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Santa Cecilia del Alcor"
   },
   {
     "id": "34168",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Santa Cruz de Boedo"
   },
   {
     "id": "34169",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Santervás de la Vega"
   },
   {
     "id": "34170",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Santibáñez de Ecla"
   },
   {
     "id": "34171",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Santibáñez de la Peña"
   },
-  { "id": "34174", "id_provincia": "34", "name": "Santoyo" },
-  { "id": "34175", "id_provincia": "34", "name": "Serna, La" },
+  { "id": "34174", "provinceId": "34", "name": "Santoyo" },
+  { "id": "34175", "provinceId": "34", "name": "Serna, La" },
   {
     "id": "34176",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Sotobañado y Priorato"
   },
   {
     "id": "34177",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Soto de Cerrato"
   },
   {
     "id": "34178",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Tabanera de Cerrato"
   },
   {
     "id": "34179",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Tabanera de Valdavia"
   },
   {
     "id": "34180",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Támara de Campos"
   },
   {
     "id": "34181",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Tariego de Cerrato"
   },
-  { "id": "34182", "id_provincia": "34", "name": "Torquemada" },
+  { "id": "34182", "provinceId": "34", "name": "Torquemada" },
   {
     "id": "34184",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Torremormojón"
   },
-  { "id": "34185", "id_provincia": "34", "name": "Triollo" },
+  { "id": "34185", "provinceId": "34", "name": "Triollo" },
   {
     "id": "34186",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Valbuena de Pisuerga"
   },
   {
     "id": "34189",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Valdeolmillos"
   },
   {
     "id": "34190",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Valderrábano"
   },
   {
     "id": "34192",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Valde-Ucieza"
   },
   {
     "id": "34196",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Valle de Cerrato"
   },
   {
     "id": "34902",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Valle del Retortillo"
   },
   {
     "id": "34199",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Velilla del Río Carrión"
   },
   {
     "id": "34023",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Venta de Baños"
   },
-  { "id": "34201", "id_provincia": "34", "name": "Vertavillo" },
+  { "id": "34201", "provinceId": "34", "name": "Vertavillo" },
   {
     "id": "34093",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Vid de Ojeda, La"
   },
   {
     "id": "34202",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villabasta de Valdavia"
   },
   {
     "id": "34204",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villacidaler"
   },
   {
     "id": "34205",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villaconancio"
   },
-  { "id": "34206", "id_provincia": "34", "name": "Villada" },
+  { "id": "34206", "provinceId": "34", "name": "Villada" },
   {
     "id": "34208",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villaeles de Valdavia"
   },
-  { "id": "34210", "id_provincia": "34", "name": "Villahán" },
+  { "id": "34210", "provinceId": "34", "name": "Villahán" },
   {
     "id": "34211",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villaherreros"
   },
-  { "id": "34213", "id_provincia": "34", "name": "Villalaco" },
+  { "id": "34213", "provinceId": "34", "name": "Villalaco" },
   {
     "id": "34214",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villalba de Guardo"
   },
   {
     "id": "34215",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villalcázar de Sirga"
   },
-  { "id": "34216", "id_provincia": "34", "name": "Villalcón" },
+  { "id": "34216", "provinceId": "34", "name": "Villalcón" },
   {
     "id": "34217",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villalobón"
   },
   {
     "id": "34218",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villaluenga de la Vega"
   },
   {
     "id": "34220",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villamartín de Campos"
   },
   {
     "id": "34221",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villamediana"
   },
-  { "id": "34222", "id_provincia": "34", "name": "Villameriel" },
+  { "id": "34222", "provinceId": "34", "name": "Villameriel" },
   {
     "id": "34223",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villamoronta"
   },
   {
     "id": "34224",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villamuera de la Cueza"
   },
   {
     "id": "34225",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villamuriel de Cerrato"
   },
   {
     "id": "34227",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villanueva del Rebollar"
   },
   {
     "id": "34228",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villanuño de Valdavia"
   },
   {
     "id": "34229",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villaprovedo"
   },
   {
     "id": "34230",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villarmentero de Campos"
   },
   {
     "id": "34231",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villarrabé"
   },
   {
     "id": "34232",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villarramiel"
   },
   {
     "id": "34233",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villasarracino"
   },
   {
     "id": "34234",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villasila de Valdavia"
   },
-  { "id": "34236", "id_provincia": "34", "name": "Villaturde" },
+  { "id": "34236", "provinceId": "34", "name": "Villaturde" },
   {
     "id": "34237",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villaumbrales"
   },
-  { "id": "34238", "id_provincia": "34", "name": "Villaviudas" },
+  { "id": "34238", "provinceId": "34", "name": "Villaviudas" },
   {
     "id": "34240",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villerías de Campos"
   },
-  { "id": "34241", "id_provincia": "34", "name": "Villodre" },
-  { "id": "34242", "id_provincia": "34", "name": "Villodrigo" },
-  { "id": "34243", "id_provincia": "34", "name": "Villoldo" },
+  { "id": "34241", "provinceId": "34", "name": "Villodre" },
+  { "id": "34242", "provinceId": "34", "name": "Villodrigo" },
+  { "id": "34243", "provinceId": "34", "name": "Villoldo" },
   {
     "id": "34245",
-    "id_provincia": "34",
+    "provinceId": "34",
     "name": "Villota del Páramo"
   },
-  { "id": "34246", "id_provincia": "34", "name": "Villovieco" }
+  { "id": "34246", "provinceId": "34", "name": "Villovieco" }
 ]

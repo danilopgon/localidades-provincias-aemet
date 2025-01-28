@@ -61,12 +61,12 @@ Archivo: `localidades_16.json`
 [
   {
     "id": "16023",
-    "id_provincia": "16",
+    "provinceId": "16",
     "name": "Tarancón"
   },
   {
     "id": "16078",
-    "id_provincia": "16",
+    "provinceId": "16",
     "name": "Cuenca"
   }
 ]

@@ -1,332 +1,332 @@
 [
-  { "id": "13001", "id_provincia": "13", "name": "Abenójar" },
-  { "id": "13002", "id_provincia": "13", "name": "Agudo" },
-  { "id": "13003", "id_provincia": "13", "name": "Alamillo" },
-  { "id": "13004", "id_provincia": "13", "name": "Albaladejo" },
+  { "id": "13001", "provinceId": "13", "name": "Abenójar" },
+  { "id": "13002", "provinceId": "13", "name": "Agudo" },
+  { "id": "13003", "provinceId": "13", "name": "Alamillo" },
+  { "id": "13004", "provinceId": "13", "name": "Albaladejo" },
   {
     "id": "13005",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Alcázar de San Juan"
   },
-  { "id": "13006", "id_provincia": "13", "name": "Alcoba" },
+  { "id": "13006", "provinceId": "13", "name": "Alcoba" },
   {
     "id": "13007",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Alcolea de Calatrava"
   },
-  { "id": "13008", "id_provincia": "13", "name": "Alcubillas" },
+  { "id": "13008", "provinceId": "13", "name": "Alcubillas" },
   {
     "id": "13009",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Aldea del Rey"
   },
-  { "id": "13010", "id_provincia": "13", "name": "Alhambra" },
-  { "id": "13011", "id_provincia": "13", "name": "Almadén" },
-  { "id": "13012", "id_provincia": "13", "name": "Almadenejos" },
-  { "id": "13013", "id_provincia": "13", "name": "Almagro" },
-  { "id": "13014", "id_provincia": "13", "name": "Almedina" },
+  { "id": "13010", "provinceId": "13", "name": "Alhambra" },
+  { "id": "13011", "provinceId": "13", "name": "Almadén" },
+  { "id": "13012", "provinceId": "13", "name": "Almadenejos" },
+  { "id": "13013", "provinceId": "13", "name": "Almagro" },
+  { "id": "13014", "provinceId": "13", "name": "Almedina" },
   {
     "id": "13015",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Almodóvar del Campo"
   },
-  { "id": "13016", "id_provincia": "13", "name": "Almuradiel" },
-  { "id": "13017", "id_provincia": "13", "name": "Anchuras" },
+  { "id": "13016", "provinceId": "13", "name": "Almuradiel" },
+  { "id": "13017", "provinceId": "13", "name": "Anchuras" },
   {
     "id": "13903",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Arenales de San Gregorio"
   },
   {
     "id": "13018",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Arenas de San Juan"
   },
   {
     "id": "13019",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Argamasilla de Alba"
   },
   {
     "id": "13020",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Argamasilla de Calatrava"
   },
   {
     "id": "13021",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Arroba de los Montes"
   },
   {
     "id": "13022",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Ballesteros de Calatrava"
   },
   {
     "id": "13023",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Bolaños de Calatrava"
   },
-  { "id": "13024", "id_provincia": "13", "name": "Brazatortas" },
-  { "id": "13025", "id_provincia": "13", "name": "Cabezarados" },
+  { "id": "13024", "provinceId": "13", "name": "Brazatortas" },
+  { "id": "13025", "provinceId": "13", "name": "Cabezarados" },
   {
     "id": "13026",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Cabezarrubias del Puerto"
   },
   {
     "id": "13027",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Calzada de Calatrava"
   },
   {
     "id": "13028",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Campo de Criptana"
   },
   {
     "id": "13029",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Cañada de Calatrava"
   },
   {
     "id": "13030",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Caracuel de Calatrava"
   },
   {
     "id": "13031",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Carrión de Calatrava"
   },
-  { "id": "13032", "id_provincia": "13", "name": "Carrizosa" },
+  { "id": "13032", "provinceId": "13", "name": "Carrizosa" },
   {
     "id": "13033",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Castellar de Santiago"
   },
-  { "id": "13038", "id_provincia": "13", "name": "Chillón" },
-  { "id": "13034", "id_provincia": "13", "name": "Ciudad Real" },
+  { "id": "13038", "provinceId": "13", "name": "Chillón" },
+  { "id": "13034", "provinceId": "13", "name": "Ciudad Real" },
   {
     "id": "13035",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Corral de Calatrava"
   },
   {
     "id": "13036",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Cortijos, Los"
   },
-  { "id": "13037", "id_provincia": "13", "name": "Cózar" },
-  { "id": "13039", "id_provincia": "13", "name": "Daimiel" },
+  { "id": "13037", "provinceId": "13", "name": "Cózar" },
+  { "id": "13039", "provinceId": "13", "name": "Daimiel" },
   {
     "id": "13040",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Fernán Caballero"
   },
-  { "id": "13041", "id_provincia": "13", "name": "Fontanarejo" },
+  { "id": "13041", "provinceId": "13", "name": "Fontanarejo" },
   {
     "id": "13042",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Fuencaliente"
   },
-  { "id": "13043", "id_provincia": "13", "name": "Fuenllana" },
+  { "id": "13043", "provinceId": "13", "name": "Fuenllana" },
   {
     "id": "13044",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Fuente el Fresno"
   },
   {
     "id": "13045",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Granátula de Calatrava"
   },
-  { "id": "13046", "id_provincia": "13", "name": "Guadalmez" },
-  { "id": "13047", "id_provincia": "13", "name": "Herencia" },
+  { "id": "13046", "provinceId": "13", "name": "Guadalmez" },
+  { "id": "13047", "provinceId": "13", "name": "Herencia" },
   {
     "id": "13048",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Hinojosas de Calatrava"
   },
   {
     "id": "13049",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Horcajo de los Montes"
   },
-  { "id": "13050", "id_provincia": "13", "name": "Labores, Las" },
+  { "id": "13050", "provinceId": "13", "name": "Labores, Las" },
   {
     "id": "13904",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Llanos del Caudillo"
   },
-  { "id": "13051", "id_provincia": "13", "name": "Luciana" },
-  { "id": "13052", "id_provincia": "13", "name": "Malagón" },
-  { "id": "13053", "id_provincia": "13", "name": "Manzanares" },
-  { "id": "13054", "id_provincia": "13", "name": "Membrilla" },
-  { "id": "13055", "id_provincia": "13", "name": "Mestanza" },
-  { "id": "13056", "id_provincia": "13", "name": "Miguelturra" },
-  { "id": "13057", "id_provincia": "13", "name": "Montiel" },
+  { "id": "13051", "provinceId": "13", "name": "Luciana" },
+  { "id": "13052", "provinceId": "13", "name": "Malagón" },
+  { "id": "13053", "provinceId": "13", "name": "Manzanares" },
+  { "id": "13054", "provinceId": "13", "name": "Membrilla" },
+  { "id": "13055", "provinceId": "13", "name": "Mestanza" },
+  { "id": "13056", "provinceId": "13", "name": "Miguelturra" },
+  { "id": "13057", "provinceId": "13", "name": "Montiel" },
   {
     "id": "13058",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Moral de Calatrava"
   },
-  { "id": "13059", "id_provincia": "13", "name": "Navalpino" },
+  { "id": "13059", "provinceId": "13", "name": "Navalpino" },
   {
     "id": "13060",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Navas de Estena"
   },
   {
     "id": "13061",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Pedro Muñoz"
   },
-  { "id": "13062", "id_provincia": "13", "name": "Picón" },
-  { "id": "13063", "id_provincia": "13", "name": "Piedrabuena" },
-  { "id": "13064", "id_provincia": "13", "name": "Poblete" },
-  { "id": "13065", "id_provincia": "13", "name": "Porzuna" },
+  { "id": "13062", "provinceId": "13", "name": "Picón" },
+  { "id": "13063", "provinceId": "13", "name": "Piedrabuena" },
+  { "id": "13064", "provinceId": "13", "name": "Poblete" },
+  { "id": "13065", "provinceId": "13", "name": "Porzuna" },
   {
     "id": "13066",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Pozuelo de Calatrava"
   },
   {
     "id": "13067",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Pozuelos de Calatrava, Los"
   },
   {
     "id": "13068",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Puebla de Don Rodrigo"
   },
   {
     "id": "13069",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Puebla del Príncipe"
   },
   {
     "id": "13070",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Puerto Lápice"
   },
-  { "id": "13071", "id_provincia": "13", "name": "Puertollano" },
+  { "id": "13071", "provinceId": "13", "name": "Puertollano" },
   {
     "id": "13072",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Retuerta del Bullaque"
   },
-  { "id": "13901", "id_provincia": "13", "name": "Robledo, El" },
-  { "id": "13902", "id_provincia": "13", "name": "Ruidera" },
-  { "id": "13073", "id_provincia": "13", "name": "Saceruela" },
+  { "id": "13901", "provinceId": "13", "name": "Robledo, El" },
+  { "id": "13902", "provinceId": "13", "name": "Ruidera" },
+  { "id": "13073", "provinceId": "13", "name": "Saceruela" },
   {
     "id": "13074",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "San Carlos del Valle"
   },
   {
     "id": "13075",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "San Lorenzo de Calatrava"
   },
   {
     "id": "13076",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Santa Cruz de los Cáñamos"
   },
   {
     "id": "13077",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Santa Cruz de Mudela"
   },
   {
     "id": "13078",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Socuéllamos"
   },
-  { "id": "13079", "id_provincia": "13", "name": "Solana, La" },
+  { "id": "13079", "provinceId": "13", "name": "Solana, La" },
   {
     "id": "13080",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Solana del Pino"
   },
-  { "id": "13081", "id_provincia": "13", "name": "Terrinches" },
-  { "id": "13082", "id_provincia": "13", "name": "Tomelloso" },
+  { "id": "13081", "provinceId": "13", "name": "Terrinches" },
+  { "id": "13082", "provinceId": "13", "name": "Tomelloso" },
   {
     "id": "13083",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Torralba de Calatrava"
   },
   {
     "id": "13084",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Torre de Juan Abad"
   },
-  { "id": "13085", "id_provincia": "13", "name": "Torrenueva" },
+  { "id": "13085", "provinceId": "13", "name": "Torrenueva" },
   {
     "id": "13086",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Valdemanco del Esteras"
   },
   {
     "id": "13087",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Valdepeñas"
   },
   {
     "id": "13088",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Valenzuela de Calatrava"
   },
   {
     "id": "13089",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villahermosa"
   },
   {
     "id": "13090",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villamanrique"
   },
   {
     "id": "13091",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villamayor de Calatrava"
   },
   {
     "id": "13092",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villanueva de la Fuente"
   },
   {
     "id": "13093",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villanueva de los Infantes"
   },
   {
     "id": "13094",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villanueva de San Carlos"
   },
   {
     "id": "13095",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villar del Pozo"
   },
   {
     "id": "13096",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villarrubia de los Ojos"
   },
   {
     "id": "13097",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Villarta de San Juan"
   },
   {
     "id": "13098",
-    "id_provincia": "13",
+    "provinceId": "13",
     "name": "Viso del Marqués"
   }
 ]
