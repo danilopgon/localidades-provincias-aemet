@@ -44,7 +44,7 @@
   {
     "id": "43021",
     "provinceId": "43",
-    "name": "Barber\u00e0 de la Conca"
+    "name": "Barberà de la Conca"
   },
   { "id": "43022", "provinceId": "43", "name": "Batea" },
   {
@@ -74,7 +74,7 @@
   },
   { "id": "43032", "provinceId": "43", "name": "Bot" },
   { "id": "43033", "provinceId": "43", "name": "Botarell" },
-  { "id": "43034", "provinceId": "43", "name": "Br\u00e0fim" },
+  { "id": "43034", "provinceId": "43", "name": "Bràfim" },
   { "id": "43035", "provinceId": "43", "name": "Cabacés" },
   {
     "id": "43036",
@@ -164,7 +164,7 @@
     "provinceId": "43",
     "name": "Lloren\u00e7 del Pened\u00e8s"
   },
-  { "id": "43076", "provinceId": "43", "name": "Mar\u00e7\u00e0" },
+  { "id": "43076", "provinceId": "43", "name": "Mar\u00e7à" },
   { "id": "43075", "provinceId": "43", "name": "Margalef" },
   {
     "id": "43077",
@@ -180,7 +180,7 @@
   { "id": "43080", "provinceId": "43", "name": "Masó, La" },
   { "id": "43081", "provinceId": "43", "name": "Maspujols" },
   { "id": "43082", "provinceId": "43", "name": "Masroig, El" },
-  { "id": "43083", "provinceId": "43", "name": "Mil\u00e0, El" },
+  { "id": "43083", "provinceId": "43", "name": "Milà, El" },
   { "id": "43084", "provinceId": "43", "name": "Miravet" },
   { "id": "43085", "provinceId": "43", "name": "Molar, El" },
   { "id": "43086", "provinceId": "43", "name": "Montblanc" },
@@ -220,7 +220,7 @@
   {
     "id": "43097",
     "provinceId": "43",
-    "name": "Nou de Gai\u00e0, La"
+    "name": "Nou de Gaià, La"
   },
   { "id": "43098", "provinceId": "43", "name": "Nulles" },
   {
@@ -306,7 +306,7 @@
   {
     "id": "43126",
     "provinceId": "43",
-    "name": "Riera de Gai\u00e0, La"
+    "name": "Riera de Gaià, La"
   },
   { "id": "43127", "provinceId": "43", "name": "Riudecanyes" },
   { "id": "43128", "provinceId": "43", "name": "Riudecols" },
@@ -319,9 +319,9 @@
   {
     "id": "43131",
     "provinceId": "43",
-    "name": "Roda de Ber\u00e0"
+    "name": "Roda de Berà"
   },
-  { "id": "43132", "provinceId": "43", "name": "Rodony\u00e0" },
+  { "id": "43132", "provinceId": "43", "name": "Rodonyà" },
   { "id": "43133", "provinceId": "43", "name": "Roquetes" },
   { "id": "43134", "provinceId": "43", "name": "Rourell, El" },
   { "id": "43135", "provinceId": "43", "name": "Salomó" },
@@ -329,7 +329,7 @@
   {
     "id": "43138",
     "provinceId": "43",
-    "name": "Santa B\u00e0rbara"
+    "name": "Santa Bàrbara"
   },
   {
     "id": "43139",
@@ -340,7 +340,7 @@
   {
     "id": "43136",
     "provinceId": "43",
-    "name": "Sant Carles de la R\u00e0pita"
+    "name": "Sant Carles de la Ràpita"
   },
   {
     "id": "43902",
@@ -356,7 +356,7 @@
   {
     "id": "43143",
     "provinceId": "43",
-    "name": "Savall\u00e0 del Comtat"
+    "name": "Savallà del Comtat"
   },
   { "id": "43144", "provinceId": "43", "name": "Secuita, La" },
   {
@@ -410,7 +410,7 @@
   {
     "id": "43164",
     "provinceId": "43",
-    "name": "Vespella de Gai\u00e0"
+    "name": "Vespella de Gaià"
   },
   { "id": "43165", "provinceId": "43", "name": "Vilabella" },
   {

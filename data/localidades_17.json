@@ -1,7 +1,7 @@
 [
   { "id": "17001", "provinceId": "17", "name": "Agullana" },
   { "id": "17002", "provinceId": "17", "name": "Aiguaviva" },
-  { "id": "17003", "provinceId": "17", "name": "Albany\u00e0" },
+  { "id": "17003", "provinceId": "17", "name": "Albanyà" },
   { "id": "17004", "provinceId": "17", "name": "Albons" },
   { "id": "17006", "provinceId": "17", "name": "Alp" },
   { "id": "17007", "provinceId": "17", "name": "Amer" },
@@ -19,12 +19,12 @@
     "name": "Avinyonet de Puigventós"
   },
   { "id": "17015", "provinceId": "17", "name": "Banyoles" },
-  { "id": "17016", "provinceId": "17", "name": "B\u00e0scara" },
+  { "id": "17016", "provinceId": "17", "name": "Bàscara" },
   { "id": "17013", "provinceId": "17", "name": "Begur" },
   {
     "id": "17018",
     "provinceId": "17",
-    "name": "Bellcaire d'Empord\u00e0"
+    "name": "Bellcaire d'Empordà"
   },
   { "id": "17019", "provinceId": "17", "name": "Besalú" },
   { "id": "17020", "provinceId": "17", "name": "Bescanó" },
@@ -32,7 +32,7 @@
   {
     "id": "17022",
     "provinceId": "17",
-    "name": "Bisbal d'Empord\u00e0, La"
+    "name": "Bisbal d'Empordà, La"
   },
   { "id": "17234", "provinceId": "17", "name": "Biure" },
   { "id": "17023", "provinceId": "17", "name": "Blanes" },
@@ -43,7 +43,7 @@
   },
   { "id": "17024", "provinceId": "17", "name": "Bolvir" },
   { "id": "17025", "provinceId": "17", "name": "Bordils" },
-  { "id": "17026", "provinceId": "17", "name": "Borrass\u00e0" },
+  { "id": "17026", "provinceId": "17", "name": "Borrassà" },
   { "id": "17027", "provinceId": "17", "name": "Breda" },
   { "id": "17028", "provinceId": "17", "name": "Brunyola" },
   { "id": "17031", "provinceId": "17", "name": "Cabanelles" },
@@ -59,7 +59,7 @@
   {
     "id": "17036",
     "provinceId": "17",
-    "name": "Campdev\u00e0nol"
+    "name": "Campdevànol"
   },
   { "id": "17037", "provinceId": "17", "name": "Campelles" },
   { "id": "17038", "provinceId": "17", "name": "Campllong" },
@@ -74,7 +74,7 @@
   {
     "id": "17044",
     "provinceId": "17",
-    "name": "Cass\u00e0 de la Selva"
+    "name": "Cassà de la Selva"
   },
   {
     "id": "17046",
@@ -96,22 +96,22 @@
     "provinceId": "17",
     "name": "Cellera de Ter, La"
   },
-  { "id": "17049", "provinceId": "17", "name": "Celr\u00e0" },
+  { "id": "17049", "provinceId": "17", "name": "Celrà" },
   {
     "id": "17050",
     "provinceId": "17",
-    "name": "Cervi\u00e0 de Ter"
+    "name": "Cervià de Ter"
   },
   { "id": "17051", "provinceId": "17", "name": "Cistella" },
   { "id": "17054", "provinceId": "17", "name": "Colera" },
   { "id": "17055", "provinceId": "17", "name": "Colomers" },
-  { "id": "17057", "provinceId": "17", "name": "Cor\u00e7\u00e0" },
+  { "id": "17057", "provinceId": "17", "name": "Cor\u00e7à" },
   {
     "id": "17056",
     "provinceId": "17",
-    "name": "Cornell\u00e0 del Terri"
+    "name": "Cornellà del Terri"
   },
-  { "id": "17058", "provinceId": "17", "name": "Crespi\u00e0" },
+  { "id": "17058", "provinceId": "17", "name": "Crespià" },
   {
     "id": "17901",
     "provinceId": "17",
@@ -122,15 +122,15 @@
   { "id": "17062", "provinceId": "17", "name": "Escala, L'" },
   { "id": "17063", "provinceId": "17", "name": "Espinelves" },
   { "id": "17064", "provinceId": "17", "name": "Espolla" },
-  { "id": "17065", "provinceId": "17", "name": "Esponell\u00e0" },
+  { "id": "17065", "provinceId": "17", "name": "Esponellà" },
   {
     "id": "17005",
     "provinceId": "17",
-    "name": "Far d'Empord\u00e0, El"
+    "name": "Far d'Empordà, El"
   },
   { "id": "17066", "provinceId": "17", "name": "Figueres" },
-  { "id": "17067", "provinceId": "17", "name": "Fla\u00e7\u00e0" },
-  { "id": "17068", "provinceId": "17", "name": "Foix\u00e0" },
+  { "id": "17067", "provinceId": "17", "name": "Fla\u00e7à" },
+  { "id": "17068", "provinceId": "17", "name": "Foixà" },
   {
     "id": "17069",
     "provinceId": "17",
@@ -148,8 +148,8 @@
     "provinceId": "17",
     "name": "Fornells de la Selva"
   },
-  { "id": "17074", "provinceId": "17", "name": "Forti\u00e0" },
-  { "id": "17075", "provinceId": "17", "name": "Garrig\u00e0s" },
+  { "id": "17074", "provinceId": "17", "name": "Fortià" },
+  { "id": "17075", "provinceId": "17", "name": "Garrigàs" },
   { "id": "17076", "provinceId": "17", "name": "Garrigoles" },
   { "id": "17077", "provinceId": "17", "name": "Garriguella" },
   { "id": "17078", "provinceId": "17", "name": "Ger" },
@@ -165,12 +165,12 @@
   { "id": "17084", "provinceId": "17", "name": "Is\u00f2vol" },
   { "id": "17085", "provinceId": "17", "name": "Jafre" },
   { "id": "17086", "provinceId": "17", "name": "Jonquera, La" },
-  { "id": "17087", "provinceId": "17", "name": "Jui\u00e0" },
+  { "id": "17087", "provinceId": "17", "name": "Juià" },
   { "id": "17088", "provinceId": "17", "name": "Lladó" },
   { "id": "17089", "provinceId": "17", "name": "Llagostera" },
   { "id": "17090", "provinceId": "17", "name": "Llambilles" },
   { "id": "17091", "provinceId": "17", "name": "Llanars" },
-  { "id": "17092", "provinceId": "17", "name": "Llan\u00e7\u00e0" },
+  { "id": "17092", "provinceId": "17", "name": "Llan\u00e7à" },
   { "id": "17093", "provinceId": "17", "name": "Llers" },
   { "id": "17094", "provinceId": "17", "name": "Llívia" },
   {
@@ -193,7 +193,7 @@
   {
     "id": "17098",
     "provinceId": "17",
-    "name": "Mai\u00e0 de Montcal"
+    "name": "Maià de Montcal"
   },
   { "id": "17100", "provinceId": "17", "name": "Masarac" },
   { "id": "17101", "provinceId": "17", "name": "Massanes" },
@@ -221,7 +221,7 @@
   {
     "id": "17119",
     "provinceId": "17",
-    "name": "Palau de Santa Eul\u00e0lia"
+    "name": "Palau de Santa Eulàlia"
   },
   { "id": "17121", "provinceId": "17", "name": "Palau-sator" },
   {
@@ -236,12 +236,12 @@
   },
   { "id": "17124", "provinceId": "17", "name": "Pals" },
   { "id": "17125", "provinceId": "17", "name": "Pardines" },
-  { "id": "17126", "provinceId": "17", "name": "Parlav\u00e0" },
+  { "id": "17126", "provinceId": "17", "name": "Parlavà" },
   { "id": "17128", "provinceId": "17", "name": "Pau" },
   {
     "id": "17129",
     "provinceId": "17",
-    "name": "Pedret i Marz\u00e0"
+    "name": "Pedret i Marzà"
   },
   { "id": "17130", "provinceId": "17", "name": "Pera, La" },
   { "id": "17132", "provinceId": "17", "name": "Peralada" },
@@ -265,7 +265,7 @@
     "name": "Port de la Selva, El"
   },
   { "id": "17139", "provinceId": "17", "name": "Preses, Les" },
-  { "id": "17141", "provinceId": "17", "name": "Puigcerd\u00e0" },
+  { "id": "17141", "provinceId": "17", "name": "Puigcerdà" },
   { "id": "17142", "provinceId": "17", "name": "Quart" },
   { "id": "17043", "provinceId": "17", "name": "Queralbs" },
   { "id": "17143", "provinceId": "17", "name": "Rabós" },
@@ -290,7 +290,7 @@
   },
   { "id": "17151", "provinceId": "17", "name": "Riumors" },
   { "id": "17152", "provinceId": "17", "name": "Roses" },
-  { "id": "17153", "provinceId": "17", "name": "Rupi\u00e0" },
+  { "id": "17153", "provinceId": "17", "name": "Rupià" },
   {
     "id": "17154",
     "provinceId": "17",
@@ -386,12 +386,12 @@
   {
     "id": "17903",
     "provinceId": "17",
-    "name": "Sant Juli\u00e0 del Llor i Bonmatí"
+    "name": "Sant Julià del Llor i Bonmatí"
   },
   {
     "id": "17169",
     "provinceId": "17",
-    "name": "Sant Juli\u00e0 de Ramis"
+    "name": "Sant Julià de Ramis"
   },
   {
     "id": "17171",
@@ -416,7 +416,7 @@
   {
     "id": "17175",
     "provinceId": "17",
-    "name": "Sant Miquel de Fluvi\u00e0"
+    "name": "Sant Miquel de Fluvià"
   },
   { "id": "17176", "provinceId": "17", "name": "Sant Mori" },
   {
@@ -432,7 +432,7 @@
   {
     "id": "17186",
     "provinceId": "17",
-    "name": "Sarri\u00e0 de Ter"
+    "name": "Sarrià de Ter"
   },
   {
     "id": "17187",
@@ -444,7 +444,7 @@
     "provinceId": "17",
     "name": "Selva de Mar, La"
   },
-  { "id": "17190", "provinceId": "17", "name": "Seriny\u00e0" },
+  { "id": "17190", "provinceId": "17", "name": "Serinyà" },
   {
     "id": "17191",
     "provinceId": "17",
@@ -461,28 +461,28 @@
   {
     "id": "17195",
     "provinceId": "17",
-    "name": "Tallada d'Empord\u00e0, La"
+    "name": "Tallada d'Empordà, La"
   },
   { "id": "17196", "provinceId": "17", "name": "Terrades" },
   { "id": "17197", "provinceId": "17", "name": "Torrent" },
   {
     "id": "17198",
     "provinceId": "17",
-    "name": "Torroella de Fluvi\u00e0"
+    "name": "Torroella de Fluvià"
   },
   {
     "id": "17199",
     "provinceId": "17",
     "name": "Torroella de Montgrí"
   },
-  { "id": "17200", "provinceId": "17", "name": "Tortell\u00e0" },
+  { "id": "17200", "provinceId": "17", "name": "Tortellà" },
   { "id": "17201", "provinceId": "17", "name": "Toses" },
   {
     "id": "17202",
     "provinceId": "17",
     "name": "Tossa de Mar"
   },
-  { "id": "17204", "provinceId": "17", "name": "Ull\u00e0" },
+  { "id": "17204", "provinceId": "17", "name": "Ullà" },
   { "id": "17205", "provinceId": "17", "name": "Ullastret" },
   { "id": "17203", "provinceId": "17", "name": "Ultramort" },
   { "id": "17206", "provinceId": "17", "name": "Urús" },
@@ -509,7 +509,7 @@
   },
   { "id": "17210", "provinceId": "17", "name": "Ventalló" },
   { "id": "17211", "provinceId": "17", "name": "Verges" },
-  { "id": "17212", "provinceId": "17", "name": "Vidr\u00e0" },
+  { "id": "17212", "provinceId": "17", "name": "Vidrà" },
   { "id": "17213", "provinceId": "17", "name": "Vidreres" },
   { "id": "17214", "provinceId": "17", "name": "Vilabertran" },
   { "id": "17215", "provinceId": "17", "name": "Vilablareix" },

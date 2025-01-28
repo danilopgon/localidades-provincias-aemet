@@ -15,7 +15,7 @@
   {
     "id": "25005",
     "provinceId": "25",
-    "name": "Al\u00e0s i Cerc"
+    "name": "Alàs i Cerc"
   },
   {
     "id": "25006",
@@ -25,14 +25,14 @@
   {
     "id": "25007",
     "provinceId": "25",
-    "name": "Albat\u00e0rrec"
+    "name": "Albatàrrec"
   },
   { "id": "25008", "provinceId": "25", "name": "Albesa" },
   { "id": "25009", "provinceId": "25", "name": "Albi, L'" },
   { "id": "25010", "provinceId": "25", "name": "Alcanó" },
-  { "id": "25011", "provinceId": "25", "name": "Alcarr\u00e0s" },
+  { "id": "25011", "provinceId": "25", "name": "Alcarràs" },
   { "id": "25012", "provinceId": "25", "name": "Alcoletge" },
-  { "id": "25013", "provinceId": "25", "name": "Alfarr\u00e0s" },
+  { "id": "25013", "provinceId": "25", "name": "Alfarràs" },
   { "id": "25014", "provinceId": "25", "name": "Alfés" },
   { "id": "25015", "provinceId": "25", "name": "Algerri" },
   { "id": "25016", "provinceId": "25", "name": "Alguaire" },
@@ -112,7 +112,7 @@
   {
     "id": "25053",
     "provinceId": "25",
-    "name": "Benavent de Segri\u00e0"
+    "name": "Benavent de Segrià"
   },
   { "id": "25055", "provinceId": "25", "name": "Biosca" },
   {
@@ -155,14 +155,14 @@
   {
     "id": "25070",
     "provinceId": "25",
-    "name": "Castellser\u00e0"
+    "name": "Castellserà"
   },
   { "id": "25071", "provinceId": "25", "name": "Cava" },
   { "id": "25072", "provinceId": "25", "name": "Cervera" },
   {
     "id": "25073",
     "provinceId": "25",
-    "name": "Cervi\u00e0 de les Garrigues"
+    "name": "Cervià de les Garrigues"
   },
   { "id": "25074", "provinceId": "25", "name": "Ciutadilla" },
   {
@@ -195,7 +195,7 @@
   },
   { "id": "25082", "provinceId": "25", "name": "Espot" },
   { "id": "25088", "provinceId": "25", "name": "Estamariu" },
-  { "id": "25085", "provinceId": "25", "name": "Estar\u00e0s" },
+  { "id": "25085", "provinceId": "25", "name": "Estaràs" },
   {
     "id": "25086",
     "provinceId": "25",
@@ -210,7 +210,7 @@
   {
     "id": "25908",
     "provinceId": "25",
-    "name": "Fígols i Aliny\u00e0"
+    "name": "Fígols i Alinyà"
   },
   { "id": "25092", "provinceId": "25", "name": "Floresta, La" },
   { "id": "25093", "provinceId": "25", "name": "Fondarella" },
@@ -254,7 +254,7 @@
     "provinceId": "25",
     "name": "Granyena de Segarra"
   },
-  { "id": "25109", "provinceId": "25", "name": "Guimer\u00e0" },
+  { "id": "25109", "provinceId": "25", "name": "Guimerà" },
   {
     "id": "25903",
     "provinceId": "25",
@@ -265,7 +265,7 @@
   {
     "id": "25115",
     "provinceId": "25",
-    "name": "Isona i Conca Dell\u00e0"
+    "name": "Isona i Conca Dellà"
   },
   {
     "id": "25113",
@@ -300,7 +300,7 @@
   { "id": "25128", "provinceId": "25", "name": "Llimiana" },
   { "id": "25129", "provinceId": "25", "name": "Llobera" },
   { "id": "25133", "provinceId": "25", "name": "Maials" },
-  { "id": "25130", "provinceId": "25", "name": "Mald\u00e0" },
+  { "id": "25130", "provinceId": "25", "name": "Maldà" },
   {
     "id": "25131",
     "provinceId": "25",
@@ -310,7 +310,7 @@
   {
     "id": "25134",
     "provinceId": "25",
-    "name": "Men\u00e0rguens"
+    "name": "Menàrguens"
   },
   { "id": "25135", "provinceId": "25", "name": "Miralcamp" },
   { "id": "25137", "provinceId": "25", "name": "Mollerussa" },
@@ -318,7 +318,7 @@
   {
     "id": "25139",
     "provinceId": "25",
-    "name": "Montell\u00e0 i Martinet"
+    "name": "Montellà i Martinet"
   },
   {
     "id": "25140",
@@ -367,7 +367,7 @@
     "provinceId": "25",
     "name": "Omells de na Gaia, Els"
   },
-  { "id": "25155", "provinceId": "25", "name": "Organy\u00e0" },
+  { "id": "25155", "provinceId": "25", "name": "Organyà" },
   {
     "id": "25156",
     "provinceId": "25",
@@ -459,7 +459,7 @@
   {
     "id": "25190",
     "provinceId": "25",
-    "name": "Sal\u00e0s de Pallars"
+    "name": "Salàs de Pallars"
   },
   { "id": "25191", "provinceId": "25", "name": "Sanaüja" },
   {
@@ -514,7 +514,7 @@
   {
     "id": "25206",
     "provinceId": "25",
-    "name": "Soler\u00e0s, El"
+    "name": "Soleràs, El"
   },
   { "id": "25207", "provinceId": "25", "name": "Solsona" },
   {
@@ -528,7 +528,7 @@
   { "id": "25212", "provinceId": "25", "name": "Sunyer" },
   { "id": "25215", "provinceId": "25", "name": "Talarn" },
   { "id": "25216", "provinceId": "25", "name": "Talavera" },
-  { "id": "25217", "provinceId": "25", "name": "T\u00e0rrega" },
+  { "id": "25217", "provinceId": "25", "name": "Tàrrega" },
   { "id": "25218", "provinceId": "25", "name": "Tarrés" },
   {
     "id": "25219",
@@ -538,7 +538,7 @@
   { "id": "25220", "provinceId": "25", "name": "Térmens" },
   { "id": "25221", "provinceId": "25", "name": "Tírvia" },
   { "id": "25222", "provinceId": "25", "name": "Tiurana" },
-  { "id": "25223", "provinceId": "25", "name": "Tor\u00e0" },
+  { "id": "25223", "provinceId": "25", "name": "Torà" },
   { "id": "25224", "provinceId": "25", "name": "Torms, Els" },
   { "id": "25225", "provinceId": "25", "name": "Tornabous" },
   { "id": "25226", "provinceId": "25", "name": "Torrebesses" },
@@ -632,12 +632,12 @@
   {
     "id": "25250",
     "provinceId": "25",
-    "name": "Vilanova de Mei\u00e0"
+    "name": "Vilanova de Meià"
   },
   {
     "id": "25251",
     "provinceId": "25",
-    "name": "Vilanova de Segri\u00e0"
+    "name": "Vilanova de Segrià"
   },
   { "id": "25252", "provinceId": "25", "name": "Vila-sana" },
   { "id": "25253", "provinceId": "25", "name": "Vilosell, El" },

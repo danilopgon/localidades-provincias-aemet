@@ -5,12 +5,12 @@
   { "id": "07004", "provinceId": "07", "name": "Algaida" },
   { "id": "07005", "provinceId": "07", "name": "Andratx" },
   { "id": "07901", "provinceId": "07", "name": "Ariany" },
-  { "id": "07006", "provinceId": "07", "name": "Art\u00e0" },
+  { "id": "07006", "provinceId": "07", "name": "Artà" },
   { "id": "07007", "provinceId": "07", "name": "Banyalbufar" },
   { "id": "07008", "provinceId": "07", "name": "Binissalem" },
   { "id": "07009", "provinceId": "07", "name": "Búger" },
   { "id": "07010", "provinceId": "07", "name": "Bunyola" },
-  { "id": "07011", "provinceId": "07", "name": "Calvi\u00e0" },
+  { "id": "07011", "provinceId": "07", "name": "Calvià" },
   { "id": "07012", "provinceId": "07", "name": "Campanet" },
   { "id": "07013", "provinceId": "07", "name": "Campos" },
   { "id": "07014", "provinceId": "07", "name": "Capdepera" },
@@ -22,7 +22,7 @@
   },
   { "id": "07016", "provinceId": "07", "name": "Consell" },
   { "id": "07017", "provinceId": "07", "name": "Costitx" },
-  { "id": "07018", "provinceId": "07", "name": "Dei\u00e0" },
+  { "id": "07018", "provinceId": "07", "name": "Deià" },
   { "id": "07026", "provinceId": "07", "name": "Eivissa" },
   { "id": "07019", "provinceId": "07", "name": "Escorca" },
   { "id": "07020", "provinceId": "07", "name": "Esporles" },
@@ -88,7 +88,7 @@
   {
     "id": "07054",
     "provinceId": "07",
-    "name": "Santa Eul\u00e0ria des Riu"
+    "name": "Santa Eulària des Riu"
   },
   {
     "id": "07055",

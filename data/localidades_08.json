@@ -26,7 +26,7 @@
   { "id": "08008", "provinceId": "08", "name": "Argen\u00e7ola" },
   { "id": "08009", "provinceId": "08", "name": "Argentona" },
   { "id": "08010", "provinceId": "08", "name": "Artés" },
-  { "id": "08011", "provinceId": "08", "name": "Avi\u00e0" },
+  { "id": "08011", "provinceId": "08", "name": "Avià" },
   { "id": "08012", "provinceId": "08", "name": "Avinyó" },
   {
     "id": "08013",
@@ -39,17 +39,17 @@
     "provinceId": "08",
     "name": "Badia del Vall\u00e8s"
   },
-  { "id": "08016", "provinceId": "08", "name": "Bag\u00e0" },
+  { "id": "08016", "provinceId": "08", "name": "Bagà" },
   {
     "id": "08017",
     "provinceId": "08",
-    "name": "Baleny\u00e0"
+    "name": "Balenyà"
   },
   { "id": "08018", "provinceId": "08", "name": "Balsareny" },
   {
     "id": "08252",
     "provinceId": "08",
-    "name": "Barber\u00e0 del Vall\u00e8s"
+    "name": "Barberà del Vall\u00e8s"
   },
   { "id": "08019", "provinceId": "08", "name": "Barcelona" },
   { "id": "08020", "provinceId": "08", "name": "Begues" },
@@ -60,7 +60,7 @@
     "provinceId": "08",
     "name": "Bigues i Riells"
   },
-  { "id": "08024", "provinceId": "08", "name": "Borred\u00e0" },
+  { "id": "08024", "provinceId": "08", "name": "Borredà" },
   { "id": "08025", "provinceId": "08", "name": "Bruc, El" },
   { "id": "08026", "provinceId": "08", "name": "Brull, El" },
   {
@@ -109,7 +109,7 @@
   {
     "id": "08042",
     "provinceId": "08",
-    "name": "C\u00e0noves i Samalús"
+    "name": "Cànoves i Samalús"
   },
   { "id": "08043", "provinceId": "08", "name": "Canyelles" },
   { "id": "08044", "provinceId": "08", "name": "Capellades" },
@@ -218,7 +218,7 @@
   {
     "id": "08073",
     "provinceId": "08",
-    "name": "Cornell\u00e0 de Llobregat"
+    "name": "Cornellà de Llobregat"
   },
   { "id": "08074", "provinceId": "08", "name": "Cubelles" },
   { "id": "08075", "provinceId": "08", "name": "Dosrius" },
@@ -267,10 +267,10 @@
     "provinceId": "08",
     "name": "Franqueses del Vall\u00e8s, Les"
   },
-  { "id": "08090", "provinceId": "08", "name": "Gai\u00e0" },
+  { "id": "08090", "provinceId": "08", "name": "Gaià" },
   { "id": "08087", "provinceId": "08", "name": "Gallifa" },
   { "id": "08088", "provinceId": "08", "name": "Garriga, La" },
-  { "id": "08089", "provinceId": "08", "name": "Gav\u00e0" },
+  { "id": "08089", "provinceId": "08", "name": "Gavà" },
   { "id": "08091", "provinceId": "08", "name": "Gelida" },
   { "id": "08092", "provinceId": "08", "name": "Gironella" },
   { "id": "08093", "provinceId": "08", "name": "Gisclareny" },
@@ -281,7 +281,7 @@
   {
     "id": "08099",
     "provinceId": "08",
-    "name": "Guardiola de Bergued\u00e0"
+    "name": "Guardiola de Berguedà"
   },
   { "id": "08100", "provinceId": "08", "name": "Gurb" },
   {
@@ -301,12 +301,12 @@
   {
     "id": "08107",
     "provinceId": "08",
-    "name": "Lli\u00e7\u00e0 d'Amunt"
+    "name": "Lli\u00e7à d'Amunt"
   },
   {
     "id": "08108",
     "provinceId": "08",
-    "name": "Lli\u00e7\u00e0 de Vall"
+    "name": "Lli\u00e7à de Vall"
   },
   {
     "id": "08106",
@@ -316,7 +316,7 @@
   {
     "id": "08109",
     "provinceId": "08",
-    "name": "Llu\u00e7\u00e0"
+    "name": "Llu\u00e7à"
   },
   {
     "id": "08110",
@@ -337,7 +337,7 @@
   {
     "id": "08117",
     "provinceId": "08",
-    "name": "Masies de Voltreg\u00e0, Les"
+    "name": "Masies de Voltregà, Les"
   },
   { "id": "08118", "provinceId": "08", "name": "Masnou, El" },
   { "id": "08119", "provinceId": "08", "name": "Masquefa" },
@@ -348,7 +348,7 @@
     "provinceId": "08",
     "name": "Mediona"
   },
-  { "id": "08138", "provinceId": "08", "name": "Moi\u00e0" },
+  { "id": "08138", "provinceId": "08", "name": "Moià" },
   {
     "id": "08123",
     "provinceId": "08",
@@ -389,11 +389,11 @@
   { "id": "08129", "provinceId": "08", "name": "Muntanyola" },
   { "id": "08139", "provinceId": "08", "name": "Mura" },
   { "id": "08140", "provinceId": "08", "name": "Navarcles" },
-  { "id": "08141", "provinceId": "08", "name": "Nav\u00e0s" },
+  { "id": "08141", "provinceId": "08", "name": "Navàs" },
   {
     "id": "08142",
     "provinceId": "08",
-    "name": "Nou de Bergued\u00e0, La"
+    "name": "Nou de Berguedà, La"
   },
   { "id": "08143", "provinceId": "08", "name": "\u00d2dena" },
   {
@@ -419,7 +419,7 @@
     "provinceId": "08",
     "name": "Orís"
   },
-  { "id": "08151", "provinceId": "08", "name": "Orist\u00e0" },
+  { "id": "08151", "provinceId": "08", "name": "Oristà" },
   { "id": "08152", "provinceId": "08", "name": "Orpí" },
   { "id": "08153", "provinceId": "08", "name": "\u00d2rrius" },
   {
@@ -431,9 +431,9 @@
   {
     "id": "08156",
     "provinceId": "08",
-    "name": "Palau-solit\u00e0 i Plegamans"
+    "name": "Palau-solità i Plegamans"
   },
-  { "id": "08157", "provinceId": "08", "name": "Pallej\u00e0" },
+  { "id": "08157", "provinceId": "08", "name": "Pallejà" },
   {
     "id": "08905",
     "provinceId": "08",
@@ -467,7 +467,7 @@
     "provinceId": "08",
     "name": "Pobla de Lillet, La"
   },
-  { "id": "08167", "provinceId": "08", "name": "Poliny\u00e0" },
+  { "id": "08167", "provinceId": "08", "name": "Polinyà" },
   {
     "id": "08182",
     "provinceId": "08",
@@ -492,17 +492,17 @@
   {
     "id": "08230",
     "provinceId": "08",
-    "name": "Premi\u00e0 de Dalt"
+    "name": "Premià de Dalt"
   },
   {
     "id": "08172",
     "provinceId": "08",
-    "name": "Premi\u00e0 de Mar"
+    "name": "Premià de Mar"
   },
   {
     "id": "08174",
     "provinceId": "08",
-    "name": "Puigd\u00e0lber"
+    "name": "Puigdàlber"
   },
   { "id": "08175", "provinceId": "08", "name": "Puig-reig" },
   { "id": "08176", "provinceId": "08", "name": "Pujalt" },
@@ -524,13 +524,13 @@
     "name": "Rupit i Pruit"
   },
   { "id": "08187", "provinceId": "08", "name": "Sabadell" },
-  { "id": "08188", "provinceId": "08", "name": "Sag\u00e0s" },
+  { "id": "08188", "provinceId": "08", "name": "Sagàs" },
   { "id": "08190", "provinceId": "08", "name": "Saldes" },
   { "id": "08191", "provinceId": "08", "name": "Sallent" },
   {
     "id": "08243",
     "provinceId": "08",
-    "name": "Santa Cecília de Voltreg\u00e0"
+    "name": "Santa Cecília de Voltregà"
   },
   {
     "id": "08244",
@@ -545,7 +545,7 @@
   {
     "id": "08194",
     "provinceId": "08",
-    "name": "Sant Adri\u00e0 de Bes\u00f2s"
+    "name": "Sant Adrià de Bes\u00f2s"
   },
   {
     "id": "08246",
@@ -555,12 +555,12 @@
   {
     "id": "08247",
     "provinceId": "08",
-    "name": "Santa Eul\u00e0lia de Riuprimer"
+    "name": "Santa Eulàlia de Riuprimer"
   },
   {
     "id": "08248",
     "provinceId": "08",
-    "name": "Santa Eul\u00e0lia de Ron\u00e7ana"
+    "name": "Santa Eulàlia de Ron\u00e7ana"
   },
   {
     "id": "08249",
@@ -655,7 +655,7 @@
   {
     "id": "08203",
     "provinceId": "08",
-    "name": "Sant Cebri\u00e0 de Vallalta"
+    "name": "Sant Cebrià de Vallalta"
   },
   { "id": "08202", "provinceId": "08", "name": "Sant Celoni" },
   {
@@ -711,7 +711,7 @@
   {
     "id": "08215",
     "provinceId": "08",
-    "name": "Sant Hip\u00f2lit de Voltreg\u00e0"
+    "name": "Sant Hip\u00f2lit de Voltregà"
   },
   {
     "id": "08193",
@@ -721,7 +721,7 @@
   {
     "id": "08216",
     "provinceId": "08",
-    "name": "Sant Jaume de Frontany\u00e0"
+    "name": "Sant Jaume de Frontanyà"
   },
   {
     "id": "08217",
@@ -736,12 +736,12 @@
   {
     "id": "08903",
     "provinceId": "08",
-    "name": "Sant Juli\u00e0 de Cerdanyola"
+    "name": "Sant Julià de Cerdanyola"
   },
   {
     "id": "08220",
     "provinceId": "08",
-    "name": "Sant Juli\u00e0 de Vilatorta"
+    "name": "Sant Julià de Vilatorta"
   },
   {
     "id": "08221",
@@ -894,7 +894,7 @@
     "name": "Tav\u00e8rnoles"
   },
   { "id": "08280", "provinceId": "08", "name": "Tavertet" },
-  { "id": "08281", "provinceId": "08", "name": "Tei\u00e0" },
+  { "id": "08281", "provinceId": "08", "name": "Teià" },
   { "id": "08279", "provinceId": "08", "name": "Terrassa" },
   { "id": "08282", "provinceId": "08", "name": "Tiana" },
   { "id": "08283", "provinceId": "08", "name": "Tona" },

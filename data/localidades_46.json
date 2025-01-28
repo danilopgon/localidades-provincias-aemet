@@ -12,7 +12,7 @@
     "provinceId": "46",
     "name": "Aielo de Rugat"
   },
-  { "id": "46005", "provinceId": "46", "name": "Alaqu\u00e0s" },
+  { "id": "46005", "provinceId": "46", "name": "Alaquàs" },
   { "id": "46006", "provinceId": "46", "name": "Albaida" },
   { "id": "46007", "provinceId": "46", "name": "Albal" },
   {
@@ -37,9 +37,9 @@
   {
     "id": "46016",
     "provinceId": "46",
-    "name": "Alc\u00e0ntera de Xúquer"
+    "name": "Alcàntera de Xúquer"
   },
-  { "id": "46015", "provinceId": "46", "name": "Alc\u00e0sser" },
+  { "id": "46015", "provinceId": "46", "name": "Alcàsser" },
   { "id": "46018", "provinceId": "46", "name": "Alcublas" },
   {
     "id": "46019",
@@ -78,8 +78,8 @@
     "name": "Algimia de Alfara"
   },
   { "id": "46031", "provinceId": "46", "name": "Alginet" },
-  { "id": "46032", "provinceId": "46", "name": "Alm\u00e0ssera" },
-  { "id": "46033", "provinceId": "46", "name": "Almiser\u00e0" },
+  { "id": "46032", "provinceId": "46", "name": "Almàssera" },
+  { "id": "46033", "provinceId": "46", "name": "Almiserà" },
   { "id": "46034", "provinceId": "46", "name": "Almoines" },
   { "id": "46035", "provinceId": "46", "name": "Almussafes" },
   { "id": "46036", "provinceId": "46", "name": "Alpuente" },
@@ -137,14 +137,14 @@
     "name": "Benifairó de les Valls"
   },
   { "id": "46061", "provinceId": "46", "name": "Beniflá" },
-  { "id": "46062", "provinceId": "46", "name": "Benig\u00e0nim" },
+  { "id": "46062", "provinceId": "46", "name": "Benigànim" },
   { "id": "46063", "provinceId": "46", "name": "Benimodo" },
   { "id": "46064", "provinceId": "46", "name": "Benimuslem" },
   { "id": "46065", "provinceId": "46", "name": "Beniparrell" },
   {
     "id": "46066",
     "provinceId": "46",
-    "name": "Benirredr\u00e0"
+    "name": "Benirredrà"
   },
   { "id": "46067", "provinceId": "46", "name": "Benisanó" },
   { "id": "46068", "provinceId": "46", "name": "Benissoda" },
@@ -175,7 +175,7 @@
     "name": "Canet d'En Berenguer"
   },
   { "id": "46083", "provinceId": "46", "name": "Carcaixent" },
-  { "id": "46084", "provinceId": "46", "name": "C\u00e0rcer" },
+  { "id": "46084", "provinceId": "46", "name": "Càrcer" },
   { "id": "46085", "provinceId": "46", "name": "Carlet" },
   { "id": "46086", "provinceId": "46", "name": "Carrícola" },
   { "id": "46087", "provinceId": "46", "name": "Casas Altas" },
@@ -203,7 +203,7 @@
     "provinceId": "46",
     "name": "Caudete de las Fuentes"
   },
-  { "id": "46096", "provinceId": "46", "name": "Cerd\u00e0" },
+  { "id": "46096", "provinceId": "46", "name": "Cerdà" },
   { "id": "46107", "provinceId": "46", "name": "Chella" },
   { "id": "46106", "provinceId": "46", "name": "Chelva" },
   { "id": "46108", "provinceId": "46", "name": "Chera" },
@@ -408,7 +408,7 @@
   {
     "id": "46197",
     "provinceId": "46",
-    "name": "Poliny\u00e0 de Xúquer"
+    "name": "Polinyà de Xúquer"
   },
   { "id": "46198", "provinceId": "46", "name": "Potries" },
   { "id": "46205", "provinceId": "46", "name": "Pu\u00e7ol" },
@@ -460,7 +460,7 @@
   {
     "id": "46217",
     "provinceId": "46",
-    "name": "Rotgl\u00e0 i Corber\u00e0"
+    "name": "Rotglà i Corberà"
   },
   { "id": "46218", "provinceId": "46", "name": "Rótova" },
   { "id": "46219", "provinceId": "46", "name": "Rugat" },
@@ -500,7 +500,7 @@
   {
     "id": "46236",
     "provinceId": "46",
-    "name": "Sumac\u00e0rcer"
+    "name": "Sumacàrcer"
   },
   {
     "id": "46237",
@@ -562,7 +562,7 @@
     "name": "Villargordo del Cabriel"
   },
   { "id": "46260", "provinceId": "46", "name": "Vinalesa" },
-  { "id": "46145", "provinceId": "46", "name": "X\u00e0tiva" },
+  { "id": "46145", "provinceId": "46", "name": "Xàtiva" },
   { "id": "46143", "provinceId": "46", "name": "Xeraco" },
   { "id": "46146", "provinceId": "46", "name": "Xeresa" },
   { "id": "46110", "provinceId": "46", "name": "Xirivella" },

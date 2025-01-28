@@ -20,6 +20,11 @@ Este repositorio se basa en los datos originales del proyecto [angular-consuming
    - Original: `"Alegr\u00eda-Dulantzi"`
    - Actualizado: `"Alegría-Dulantzi"`
 
+3. **Organización en carpetas**:
+
+   - Los datos JSON ahora se encuentran en la carpeta `/data`.
+   - Scripts de Python en la carpeta `/scripts` generan consultas SQL para usar los JSON y rellenar tablas en bases de datos.
+
 ### Estructura de los datos
 
 Cada archivo JSON incluye la relación entre:
@@ -29,12 +34,13 @@ Cada archivo JSON incluye la relación entre:
 
 ### Uso de los datos
 
-Estos datos pueden ser utilizados para facilitar la interacción con la API de la AEMET, especialmente para construir consultas relacionadas con municipios específicos o para mostrar información en interfaces de usuario.
+Estos datos pueden ser utilizados para facilitar la interacción con la API de la AEMET, especialmente para construir consultas relacionadas con municipios específicos o para mostrar información en interfaces de usuario. Adicionalmente, los scripts de Python pueden automatizar la creación de consultas SQL para insertar esta información en bases de datos.
 
 ## Estructura del repositorio
 
-- `/provincias.json`: Lista de todas las provincias con su código.
-- `/localidades_{codigo_provincia}.json`: Archivos con la lista de localidades para cada provincia. El sufijo `{codigo_provincia}` corresponde al código de la provincia.
+- `/data/provincias.json`: Lista de todas las provincias con su código.
+- `/data/localidades_{codigo_provincia}.json`: Archivos con la lista de localidades para cada provincia. El sufijo `{codigo_provincia}` corresponde al código de la provincia.
+- `/scripts`: Scripts en Python para generar consultas SQL basadas en los datos JSON.
 
 ## Ejemplo de los datos
 
@@ -55,18 +61,18 @@ Estos datos pueden ser utilizados para facilitar la interacción con la API de l
 
 ### Localidades
 
-Archivo: `localidades_16.json`
+Archivo: `data/localidades_16.json`
 
 ```json
 [
   {
     "id": "16023",
-    "provinceId": "16",
+    "id_provincia": "16",
     "name": "Tarancón"
   },
   {
     "id": "16078",
-    "provinceId": "16",
+    "id_provincia": "16",
     "name": "Cuenca"
   }
 ]
@@ -74,7 +80,7 @@ Archivo: `localidades_16.json`
 
 ## Contribuciones
 
-Si encuentras errores en los datos o quieres mejorar el repositorio, eres bienvenido a crear un *issue* o enviar un *pull request*.
+Si encuentras errores en los datos o quieres mejorar el repositorio, eres bienvenido a crear un _issue_ o enviar un _pull request_.
 
 ## Nota legal
 
