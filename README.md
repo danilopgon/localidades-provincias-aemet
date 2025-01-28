@@ -1,4 +1,4 @@
-# Provincias y Municipios para AEMET
+# Provincias y Municipios para la API de AEMET
 
 Este repositorio contiene archivos JSON actualizados con información sobre las provincias y municipios de España, adaptados específicamente para ser utilizados con la API de la AEMET.
 
