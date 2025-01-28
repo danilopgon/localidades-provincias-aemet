@@ -1,0 +1,160 @@
+[
+  { "id": "36020", "id_provincia": "36", "name": "Agolada" },
+  { "id": "36001", "id_provincia": "36", "name": "Arbo" },
+  { "id": "36003", "id_provincia": "36", "name": "Baiona" },
+  {
+    "id": "36002",
+    "id_provincia": "36",
+    "name": "Barro"
+  },
+  { "id": "36004", "id_provincia": "36", "name": "Bueu" },
+  {
+    "id": "36005",
+    "id_provincia": "36",
+    "name": "Caldas de Reis"
+  },
+  { "id": "36006", "id_provincia": "36", "name": "Cambados" },
+  {
+    "id": "36007",
+    "id_provincia": "36",
+    "name": "Campo Lameiro"
+  },
+  { "id": "36008", "id_provincia": "36", "name": "Cangas" },
+  { "id": "36009", "id_provincia": "36", "name": "Cañiza, A" },
+  { "id": "36010", "id_provincia": "36", "name": "Catoira" },
+  { "id": "36011", "id_provincia": "36", "name": "Cerdedo" },
+  { "id": "36012", "id_provincia": "36", "name": "Cotobade" },
+  {
+    "id": "36013",
+    "id_provincia": "36",
+    "name": "Covelo"
+  },
+  { "id": "36014", "id_provincia": "36", "name": "Crecente" },
+  { "id": "36015", "id_provincia": "36", "name": "Cuntis" },
+  {
+    "id": "36016",
+    "id_provincia": "36",
+    "name": "Dozón"
+  },
+  { "id": "36017", "id_provincia": "36", "name": "Estrada, A" },
+  { "id": "36018", "id_provincia": "36", "name": "Forcarei" },
+  {
+    "id": "36019",
+    "id_provincia": "36",
+    "name": "Fornelos de Montes"
+  },
+  { "id": "36021", "id_provincia": "36", "name": "Gondomar" },
+  { "id": "36022", "id_provincia": "36", "name": "Grove, O" },
+  { "id": "36023", "id_provincia": "36", "name": "Guarda, A" },
+  {
+    "id": "36901",
+    "id_provincia": "36",
+    "name": "Illa de Arousa, A"
+  },
+  { "id": "36024", "id_provincia": "36", "name": "Lalín" },
+  {
+    "id": "36025",
+    "id_provincia": "36",
+    "name": "Lama, A"
+  },
+  { "id": "36026", "id_provincia": "36", "name": "Marín" },
+  {
+    "id": "36027",
+    "id_provincia": "36",
+    "name": "Meaño"
+  },
+  { "id": "36028", "id_provincia": "36", "name": "Meis" },
+  { "id": "36029", "id_provincia": "36", "name": "Moaña" },
+  { "id": "36030", "id_provincia": "36", "name": "Mondariz" },
+  {
+    "id": "36031",
+    "id_provincia": "36",
+    "name": "Mondariz-Balneario"
+  },
+  {
+    "id": "36032",
+    "id_provincia": "36",
+    "name": "Moraña"
+  },
+  { "id": "36033", "id_provincia": "36", "name": "Mos" },
+  { "id": "36034", "id_provincia": "36", "name": "Neves, As" },
+  { "id": "36035", "id_provincia": "36", "name": "Nigrán" },
+  { "id": "36036", "id_provincia": "36", "name": "Oia" },
+  {
+    "id": "36037",
+    "id_provincia": "36",
+    "name": "Pazos de Borbén"
+  },
+  { "id": "36041", "id_provincia": "36", "name": "Poio" },
+  { "id": "36042", "id_provincia": "36", "name": "Ponteareas" },
+  {
+    "id": "36043",
+    "id_provincia": "36",
+    "name": "Ponte Caldelas"
+  },
+  {
+    "id": "36044",
+    "id_provincia": "36",
+    "name": "Pontecesures"
+  },
+  { "id": "36038", "id_provincia": "36", "name": "Pontevedra" },
+  {
+    "id": "36039",
+    "id_provincia": "36",
+    "name": "Porriño, O"
+  },
+  { "id": "36040", "id_provincia": "36", "name": "Portas" },
+  { "id": "36045", "id_provincia": "36", "name": "Redondela" },
+  {
+    "id": "36046",
+    "id_provincia": "36",
+    "name": "Ribadumia"
+  },
+  { "id": "36047", "id_provincia": "36", "name": "Rodeiro" },
+  {
+    "id": "36048",
+    "id_provincia": "36",
+    "name": "Rosal, O"
+  },
+  {
+    "id": "36049",
+    "id_provincia": "36",
+    "name": "Salceda de Caselas"
+  },
+  {
+    "id": "36050",
+    "id_provincia": "36",
+    "name": "Salvaterra de Miño"
+  },
+  { "id": "36051", "id_provincia": "36", "name": "Sanxenxo" },
+  { "id": "36052", "id_provincia": "36", "name": "Silleda" },
+  {
+    "id": "36053",
+    "id_provincia": "36",
+    "name": "Soutomaior"
+  },
+  {
+    "id": "36054",
+    "id_provincia": "36",
+    "name": "Tomiño"
+  },
+  { "id": "36055", "id_provincia": "36", "name": "Tui" },
+  { "id": "36056", "id_provincia": "36", "name": "Valga" },
+  { "id": "36057", "id_provincia": "36", "name": "Vigo" },
+  { "id": "36058", "id_provincia": "36", "name": "Vilaboa" },
+  {
+    "id": "36059",
+    "id_provincia": "36",
+    "name": "Vila de Cruces"
+  },
+  {
+    "id": "36060",
+    "id_provincia": "36",
+    "name": "Vilagarcía de Arousa"
+  },
+  {
+    "id": "36061",
+    "id_provincia": "36",
+    "name": "Vilanova de Arousa"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  { "id": "32001", "id_provincia": "32", "name": "Allariz" },
+  { "id": "32002", "id_provincia": "32", "name": "Amoeiro" },
+  {
+    "id": "32003",
+    "id_provincia": "32",
+    "name": "Arnoia, A"
+  },
+  {
+    "id": "32004",
+    "id_provincia": "32",
+    "name": "Avión"
+  },
+  { "id": "32005", "id_provincia": "32", "name": "Baltar" },
+  { "id": "32006", "id_provincia": "32", "name": "Bande" },
+  {
+    "id": "32007",
+    "id_provincia": "32",
+    "name": "Baños de Molgas"
+  },
+  { "id": "32008", "id_provincia": "32", "name": "Barbadás" },
+  {
+    "id": "32009",
+    "id_provincia": "32",
+    "name": "Barco de Valdeorras, O"
+  },
+  { "id": "32010", "id_provincia": "32", "name": "Beade" },
+  { "id": "32011", "id_provincia": "32", "name": "Beariz" },
+  { "id": "32012", "id_provincia": "32", "name": "Blancos, Os" },
+  { "id": "32013", "id_provincia": "32", "name": "Boborás" },
+  { "id": "32014", "id_provincia": "32", "name": "Bola, A" },
+  { "id": "32015", "id_provincia": "32", "name": "Bolo, O" },
+  {
+    "id": "32016",
+    "id_provincia": "32",
+    "name": "Calvos de Randín"
+  },
+  {
+    "id": "32018",
+    "id_provincia": "32",
+    "name": "Carballeda de Avia"
+  },
+  {
+    "id": "32017",
+    "id_provincia": "32",
+    "name": "Carballeda de Valdeorras"
+  },
+  {
+    "id": "32019",
+    "id_provincia": "32",
+    "name": "Carballiño, O"
+  },
+  {
+    "id": "32020",
+    "id_provincia": "32",
+    "name": "Cartelle"
+  },
+  {
+    "id": "32022",
+    "id_provincia": "32",
+    "name": "Castrelo de Miño"
+  },
+  {
+    "id": "32021",
+    "id_provincia": "32",
+    "name": "Castrelo do Val"
+  },
+  {
+    "id": "32023",
+    "id_provincia": "32",
+    "name": "Castro Caldelas"
+  },
+  { "id": "32024", "id_provincia": "32", "name": "Celanova" },
+  { "id": "32025", "id_provincia": "32", "name": "Cenlle" },
+  {
+    "id": "32029",
+    "id_provincia": "32",
+    "name": "Chandrexa de Queixa"
+  },
+  { "id": "32026", "id_provincia": "32", "name": "Coles" },
+  { "id": "32027", "id_provincia": "32", "name": "Cortegada" },
+  { "id": "32028", "id_provincia": "32", "name": "Cualedro" },
+  {
+    "id": "32030",
+    "id_provincia": "32",
+    "name": "Entrimo"
+  },
+  { "id": "32031", "id_provincia": "32", "name": "Esgos" },
+  {
+    "id": "32033",
+    "id_provincia": "32",
+    "name": "Gomesende"
+  },
+  { "id": "32034", "id_provincia": "32", "name": "Gudiña, A" },
+  { "id": "32035", "id_provincia": "32", "name": "Irixo, O" },
+  { "id": "32038", "id_provincia": "32", "name": "Larouco" },
+  { "id": "32039", "id_provincia": "32", "name": "Laza" },
+  {
+    "id": "32040",
+    "id_provincia": "32",
+    "name": "Leiro"
+  },
+  { "id": "32041", "id_provincia": "32", "name": "Lobeira" },
+  { "id": "32042", "id_provincia": "32", "name": "Lobios" },
+  { "id": "32043", "id_provincia": "32", "name": "Maceda" },
+  { "id": "32044", "id_provincia": "32", "name": "Manzaneda" },
+  { "id": "32045", "id_provincia": "32", "name": "Maside" },
+  { "id": "32046", "id_provincia": "32", "name": "Melón" },
+  { "id": "32047", "id_provincia": "32", "name": "Merca, A" },
+  { "id": "32048", "id_provincia": "32", "name": "Mezquita, A" },
+  {
+    "id": "32049",
+    "id_provincia": "32",
+    "name": "Montederramo"
+  },
+  { "id": "32050", "id_provincia": "32", "name": "Monterrei" },
+  {
+    "id": "32051",
+    "id_provincia": "32",
+    "name": "Muíños"
+  },
+  {
+    "id": "32052",
+    "id_provincia": "32",
+    "name": "Nogueira de Ramuín"
+  },
+  { "id": "32053", "id_provincia": "32", "name": "Oímbra" },
+  { "id": "32054", "id_provincia": "32", "name": "Ourense" },
+  {
+    "id": "32055",
+    "id_provincia": "32",
+    "name": "Paderne de Allariz"
+  },
+  {
+    "id": "32056",
+    "id_provincia": "32",
+    "name": "Padrenda"
+  },
+  {
+    "id": "32057",
+    "id_provincia": "32",
+    "name": "Parada de Sil"
+  },
+  {
+    "id": "32058",
+    "id_provincia": "32",
+    "name": "Pereiro de Aguiar, O"
+  },
+  { "id": "32059", "id_provincia": "32", "name": "Peroxa, A" },
+  { "id": "32060", "id_provincia": "32", "name": "Petín" },
+  { "id": "32061", "id_provincia": "32", "name": "Piñor" },
+  {
+    "id": "32063",
+    "id_provincia": "32",
+    "name": "Pobra de Trives, A"
+  },
+  {
+    "id": "32064",
+    "id_provincia": "32",
+    "name": "Pontedeva"
+  },
+  {
+    "id": "32062",
+    "id_provincia": "32",
+    "name": "Porqueira"
+  },
+  {
+    "id": "32065",
+    "id_provincia": "32",
+    "name": "Punxín"
+  },
+  {
+    "id": "32066",
+    "id_provincia": "32",
+    "name": "Quintela de Leirado"
+  },
+  {
+    "id": "32067",
+    "id_provincia": "32",
+    "name": "Rairiz de Veiga"
+  },
+  { "id": "32068", "id_provincia": "32", "name": "Ramirás" },
+  { "id": "32069", "id_provincia": "32", "name": "Ribadavia" },
+  { "id": "32071", "id_provincia": "32", "name": "Riós" },
+  {
+    "id": "32072",
+    "id_provincia": "32",
+    "name": "Rúa, A"
+  },
+  { "id": "32073", "id_provincia": "32", "name": "Rubiá" },
+  { "id": "32074", "id_provincia": "32", "name": "San Amaro" },
+  {
+    "id": "32075",
+    "id_provincia": "32",
+    "name": "San Cibrao das Viñas"
+  },
+  {
+    "id": "32076",
+    "id_provincia": "32",
+    "name": "San Cristovo de Cea"
+  },
+  { "id": "32077", "id_provincia": "32", "name": "Sandiás" },
+  {
+    "id": "32070",
+    "id_provincia": "32",
+    "name": "San Xoán de Río"
+  },
+  { "id": "32078", "id_provincia": "32", "name": "Sarreaus" },
+  { "id": "32079", "id_provincia": "32", "name": "Taboadela" },
+  { "id": "32080", "id_provincia": "32", "name": "Teixeira, A" },
+  { "id": "32081", "id_provincia": "32", "name": "Toén" },
+  { "id": "32082", "id_provincia": "32", "name": "Trasmiras" },
+  { "id": "32083", "id_provincia": "32", "name": "Veiga, A" },
+  { "id": "32084", "id_provincia": "32", "name": "Verea" },
+  { "id": "32085", "id_provincia": "32", "name": "Verín" },
+  {
+    "id": "32086",
+    "id_provincia": "32",
+    "name": "Viana do Bolo"
+  },
+  { "id": "32087", "id_provincia": "32", "name": "Vilamarín" },
+  {
+    "id": "32088",
+    "id_provincia": "32",
+    "name": "Vilamartín de Valdeorras"
+  },
+  {
+    "id": "32089",
+    "id_provincia": "32",
+    "name": "Vilar de Barrio"
+  },
+  {
+    "id": "32090",
+    "id_provincia": "32",
+    "name": "Vilar de Santos"
+  },
+  {
+    "id": "32091",
+    "id_provincia": "32",
+    "name": "Vilardevós"
+  },
+  {
+    "id": "32092",
+    "id_provincia": "32",
+    "name": "Vilariño de Conso"
+  },
+  {
+    "id": "32032",
+    "id_provincia": "32",
+    "name": "Xinzo de Limia"
+  },
+  {
+    "id": "32036",
+    "id_provincia": "32",
+    "name": "Xunqueira de Ambía"
+  },
+  {
+    "id": "32037",
+    "id_provincia": "32",
+    "name": "Xunqueira de Espadanedo"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "27001",
+    "id_provincia": "27",
+    "name": "Abadín"
+  },
+  { "id": "27002", "id_provincia": "27", "name": "Alfoz" },
+  {
+    "id": "27003",
+    "id_provincia": "27",
+    "name": "Antas de Ulla"
+  },
+  { "id": "27004", "id_provincia": "27", "name": "Baleira" },
+  { "id": "27901", "id_provincia": "27", "name": "Baralla" },
+  {
+    "id": "27005",
+    "id_provincia": "27",
+    "name": "Barreiros"
+  },
+  { "id": "27006", "id_provincia": "27", "name": "Becerreá" },
+  { "id": "27007", "id_provincia": "27", "name": "Begonte" },
+  { "id": "27008", "id_provincia": "27", "name": "Bóveda" },
+  { "id": "27902", "id_provincia": "27", "name": "Burela" },
+  {
+    "id": "27009",
+    "id_provincia": "27",
+    "name": "Carballedo"
+  },
+  {
+    "id": "27010",
+    "id_provincia": "27",
+    "name": "Castro de Rei"
+  },
+  { "id": "27011", "id_provincia": "27", "name": "Castroverde" },
+  {
+    "id": "27012",
+    "id_provincia": "27",
+    "name": "Cervantes"
+  },
+  { "id": "27013", "id_provincia": "27", "name": "Cervo" },
+  { "id": "27016", "id_provincia": "27", "name": "Chantada" },
+  { "id": "27014", "id_provincia": "27", "name": "Corgo, O" },
+  {
+    "id": "27015",
+    "id_provincia": "27",
+    "name": "Cospeito"
+  },
+  {
+    "id": "27017",
+    "id_provincia": "27",
+    "name": "Folgoso do Courel"
+  },
+  {
+    "id": "27018",
+    "id_provincia": "27",
+    "name": "Fonsagrada, A"
+  },
+  { "id": "27019", "id_provincia": "27", "name": "Foz" },
+  { "id": "27020", "id_provincia": "27", "name": "Friol" },
+  { "id": "27022", "id_provincia": "27", "name": "Guitiriz" },
+  {
+    "id": "27023",
+    "id_provincia": "27",
+    "name": "Guntín"
+  },
+  {
+    "id": "27024",
+    "id_provincia": "27",
+    "name": "Incio, O"
+  },
+  {
+    "id": "27026",
+    "id_provincia": "27",
+    "name": "Láncara"
+  },
+  {
+    "id": "27027",
+    "id_provincia": "27",
+    "name": "Lourenzá"
+  },
+  { "id": "27028", "id_provincia": "27", "name": "Lugo" },
+  { "id": "27029", "id_provincia": "27", "name": "Meira" },
+  { "id": "27030", "id_provincia": "27", "name": "Mondoñedo" },
+  {
+    "id": "27031",
+    "id_provincia": "27",
+    "name": "Monforte de Lemos"
+  },
+  { "id": "27032", "id_provincia": "27", "name": "Monterroso" },
+  { "id": "27033", "id_provincia": "27", "name": "Muras" },
+  {
+    "id": "27034",
+    "id_provincia": "27",
+    "name": "Navia de Suarna"
+  },
+  {
+    "id": "27035",
+    "id_provincia": "27",
+    "name": "Negueira de Muñiz"
+  },
+  { "id": "27037", "id_provincia": "27", "name": "Nogais, As" },
+  { "id": "27038", "id_provincia": "27", "name": "Ourol" },
+  {
+    "id": "27039",
+    "id_provincia": "27",
+    "name": "Outeiro de Rei"
+  },
+  {
+    "id": "27040",
+    "id_provincia": "27",
+    "name": "Palas de Rei"
+  },
+  {
+    "id": "27041",
+    "id_provincia": "27",
+    "name": "Pantón"
+  },
+  { "id": "27042", "id_provincia": "27", "name": "Paradela" },
+  { "id": "27043", "id_provincia": "27", "name": "Páramo, O" },
+  { "id": "27044", "id_provincia": "27", "name": "Pastoriza, A" },
+  {
+    "id": "27045",
+    "id_provincia": "27",
+    "name": "Pedrafita do Cebreiro"
+  },
+  {
+    "id": "27047",
+    "id_provincia": "27",
+    "name": "Pobra do Brollón, A"
+  },
+  { "id": "27046", "id_provincia": "27", "name": "Pol" },
+  { "id": "27048", "id_provincia": "27", "name": "Pontenova, A" },
+  {
+    "id": "27049",
+    "id_provincia": "27",
+    "name": "Portomarín"
+  },
+  { "id": "27050", "id_provincia": "27", "name": "Quiroga" },
+  { "id": "27056", "id_provincia": "27", "name": "Rábade" },
+  { "id": "27051", "id_provincia": "27", "name": "Ribadeo" },
+  {
+    "id": "27052",
+    "id_provincia": "27",
+    "name": "Ribas de Sil"
+  },
+  {
+    "id": "27053",
+    "id_provincia": "27",
+    "name": "Ribeira de Piquín"
+  },
+  {
+    "id": "27054",
+    "id_provincia": "27",
+    "name": "Riotorto"
+  },
+  { "id": "27055", "id_provincia": "27", "name": "Samos" },
+  { "id": "27057", "id_provincia": "27", "name": "Sarria" },
+  {
+    "id": "27058",
+    "id_provincia": "27",
+    "name": "Saviñao, O"
+  },
+  { "id": "27059", "id_provincia": "27", "name": "Sober" },
+  { "id": "27060", "id_provincia": "27", "name": "Taboada" },
+  { "id": "27061", "id_provincia": "27", "name": "Trabada" },
+  { "id": "27062", "id_provincia": "27", "name": "Triacastela" },
+  {
+    "id": "27063",
+    "id_provincia": "27",
+    "name": "Valadouro, O"
+  },
+  { "id": "27064", "id_provincia": "27", "name": "Vicedo, O" },
+  { "id": "27065", "id_provincia": "27", "name": "Vilalba" },
+  { "id": "27066", "id_provincia": "27", "name": "Viveiro" },
+  { "id": "27021", "id_provincia": "27", "name": "Xermade" },
+  { "id": "27025", "id_provincia": "27", "name": "Xove" }
+]

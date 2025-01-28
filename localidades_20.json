@@ -1,0 +1,138 @@
+[
+  {
+    "id": "20001",
+    "id_provincia": "20",
+    "name": "Abaltzisketa"
+  },
+  { "id": "20002", "id_provincia": "20", "name": "Aduna" },
+  { "id": "20016", "id_provincia": "20", "name": "Aia" },
+  {
+    "id": "20003",
+    "id_provincia": "20",
+    "name": "Aizarnazabal"
+  },
+  { "id": "20004", "id_provincia": "20", "name": "Albiztur" },
+  { "id": "20005", "id_provincia": "20", "name": "Alegia" },
+  { "id": "20006", "id_provincia": "20", "name": "Alkiza" },
+  { "id": "20906", "id_provincia": "20", "name": "Altzaga" },
+  { "id": "20007", "id_provincia": "20", "name": "Altzo" },
+  { "id": "20008", "id_provincia": "20", "name": "Amezketa" },
+  { "id": "20009", "id_provincia": "20", "name": "Andoain" },
+  { "id": "20010", "id_provincia": "20", "name": "Anoeta" },
+  { "id": "20011", "id_provincia": "20", "name": "Antzuola" },
+  { "id": "20012", "id_provincia": "20", "name": "Arama" },
+  {
+    "id": "20013",
+    "id_provincia": "20",
+    "name": "Aretxabaleta"
+  },
+  {
+    "id": "20055",
+    "id_provincia": "20",
+    "name": "Arrasate/Mondragón"
+  },
+  { "id": "20014", "id_provincia": "20", "name": "Asteasu" },
+  { "id": "20903", "id_provincia": "20", "name": "Astigarraga" },
+  { "id": "20015", "id_provincia": "20", "name": "Ataun" },
+  { "id": "20017", "id_provincia": "20", "name": "Azkoitia" },
+  { "id": "20018", "id_provincia": "20", "name": "Azpeitia" },
+  { "id": "20904", "id_provincia": "20", "name": "Baliarrain" },
+  { "id": "20019", "id_provincia": "20", "name": "Beasain" },
+  { "id": "20020", "id_provincia": "20", "name": "Beizama" },
+  { "id": "20021", "id_provincia": "20", "name": "Belauntza" },
+  { "id": "20022", "id_provincia": "20", "name": "Berastegi" },
+  { "id": "20074", "id_provincia": "20", "name": "Bergara" },
+  { "id": "20023", "id_provincia": "20", "name": "Berrobi" },
+  {
+    "id": "20024",
+    "id_provincia": "20",
+    "name": "Bidania-Goiatz"
+  },
+  { "id": "20029", "id_provincia": "20", "name": "Deba" },
+  {
+    "id": "20069",
+    "id_provincia": "20",
+    "name": "Donostia/San Sebastián"
+  },
+  { "id": "20030", "id_provincia": "20", "name": "Eibar" },
+  { "id": "20031", "id_provincia": "20", "name": "Elduain" },
+  { "id": "20033", "id_provincia": "20", "name": "Elgeta" },
+  { "id": "20032", "id_provincia": "20", "name": "Elgoibar" },
+  { "id": "20067", "id_provincia": "20", "name": "Errenteria" },
+  { "id": "20066", "id_provincia": "20", "name": "Errezil" },
+  { "id": "20034", "id_provincia": "20", "name": "Eskoriatza" },
+  {
+    "id": "20035",
+    "id_provincia": "20",
+    "name": "Ezkio-Itsaso"
+  },
+  { "id": "20038", "id_provincia": "20", "name": "Gabiria" },
+  { "id": "20037", "id_provincia": "20", "name": "Gaintza" },
+  { "id": "20907", "id_provincia": "20", "name": "Gaztelu" },
+  { "id": "20039", "id_provincia": "20", "name": "Getaria" },
+  { "id": "20040", "id_provincia": "20", "name": "Hernani" },
+  { "id": "20041", "id_provincia": "20", "name": "Hernialde" },
+  { "id": "20036", "id_provincia": "20", "name": "Hondarribia" },
+  { "id": "20042", "id_provincia": "20", "name": "Ibarra" },
+  { "id": "20043", "id_provincia": "20", "name": "Idiazabal" },
+  { "id": "20044", "id_provincia": "20", "name": "Ikaztegieta" },
+  { "id": "20045", "id_provincia": "20", "name": "Irun" },
+  { "id": "20046", "id_provincia": "20", "name": "Irura" },
+  { "id": "20047", "id_provincia": "20", "name": "Itsasondo" },
+  { "id": "20048", "id_provincia": "20", "name": "Larraul" },
+  {
+    "id": "20902",
+    "id_provincia": "20",
+    "name": "Lasarte-Oria"
+  },
+  { "id": "20049", "id_provincia": "20", "name": "Lazkao" },
+  { "id": "20050", "id_provincia": "20", "name": "Leaburu" },
+  { "id": "20051", "id_provincia": "20", "name": "Legazpi" },
+  { "id": "20052", "id_provincia": "20", "name": "Legorreta" },
+  {
+    "id": "20068",
+    "id_provincia": "20",
+    "name": "Leintz-Gatzaga"
+  },
+  { "id": "20053", "id_provincia": "20", "name": "Lezo" },
+  { "id": "20054", "id_provincia": "20", "name": "Lizartza" },
+  {
+    "id": "20901",
+    "id_provincia": "20",
+    "name": "Mendaro"
+  },
+  { "id": "20057", "id_provincia": "20", "name": "Mutiloa" },
+  { "id": "20056", "id_provincia": "20", "name": "Mutriku" },
+  { "id": "20063", "id_provincia": "20", "name": "Oiartzun" },
+  { "id": "20058", "id_provincia": "20", "name": "Olaberria" },
+  { "id": "20059", "id_provincia": "20", "name": "Oñati" },
+  { "id": "20076", "id_provincia": "20", "name": "Ordizia" },
+  { "id": "20905", "id_provincia": "20", "name": "Orendain" },
+  { "id": "20060", "id_provincia": "20", "name": "Orexa" },
+  { "id": "20061", "id_provincia": "20", "name": "Orio" },
+  { "id": "20062", "id_provincia": "20", "name": "Ormaiztegi" },
+  {
+    "id": "20064",
+    "id_provincia": "20",
+    "name": "Pasaia"
+  },
+  { "id": "20070", "id_provincia": "20", "name": "Segura" },
+  {
+    "id": "20065",
+    "id_provincia": "20",
+    "name": "Soraluze-Placencia de las Armas"
+  },
+  { "id": "20071", "id_provincia": "20", "name": "Tolosa" },
+  { "id": "20072", "id_provincia": "20", "name": "Urnieta" },
+  { "id": "20077", "id_provincia": "20", "name": "Urretxu" },
+  { "id": "20073", "id_provincia": "20", "name": "Usurbil" },
+  { "id": "20075", "id_provincia": "20", "name": "Villabona" },
+  { "id": "20078", "id_provincia": "20", "name": "Zaldibia" },
+  { "id": "20079", "id_provincia": "20", "name": "Zarautz" },
+  { "id": "20025", "id_provincia": "20", "name": "Zegama" },
+  { "id": "20026", "id_provincia": "20", "name": "Zerain" },
+  { "id": "20027", "id_provincia": "20", "name": "Zestoa" },
+  { "id": "20028", "id_provincia": "20", "name": "Zizurkil" },
+  { "id": "20081", "id_provincia": "20", "name": "Zumaia" },
+  { "id": "20080", "id_provincia": "20", "name": "Zumarraga" }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "id": "33001",
+    "id_provincia": "33",
+    "name": "Allande"
+  },
+  {
+    "id": "33002",
+    "id_provincia": "33",
+    "name": "Aller"
+  },
+  { "id": "33003", "id_provincia": "33", "name": "Amieva" },
+  { "id": "33004", "id_provincia": "33", "name": "Avilés" },
+  {
+    "id": "33005",
+    "id_provincia": "33",
+    "name": "Belmonte de Miranda"
+  },
+  {
+    "id": "33006",
+    "id_provincia": "33",
+    "name": "Bimenes"
+  },
+  { "id": "33007", "id_provincia": "33", "name": "Boal" },
+  {
+    "id": "33008",
+    "id_provincia": "33",
+    "name": "Cabrales"
+  },
+  {
+    "id": "33009",
+    "id_provincia": "33",
+    "name": "Cabranes"
+  },
+  { "id": "33010", "id_provincia": "33", "name": "Candamo" },
+  {
+    "id": "33011",
+    "id_provincia": "33",
+    "name": "Cangas del Narcea"
+  },
+  {
+    "id": "33012",
+    "id_provincia": "33",
+    "name": "Cangas de Onís"
+  },
+  { "id": "33013", "id_provincia": "33", "name": "Caravia" },
+  {
+    "id": "33014",
+    "id_provincia": "33",
+    "name": "Carreño"
+  },
+  { "id": "33015", "id_provincia": "33", "name": "Caso" },
+  {
+    "id": "33016",
+    "id_provincia": "33",
+    "name": "Castrillón"
+  },
+  { "id": "33017", "id_provincia": "33", "name": "Castropol" },
+  { "id": "33018", "id_provincia": "33", "name": "Coaña" },
+  { "id": "33019", "id_provincia": "33", "name": "Colunga" },
+  {
+    "id": "33020",
+    "id_provincia": "33",
+    "name": "Corvera de Asturias"
+  },
+  { "id": "33021", "id_provincia": "33", "name": "Cudillero" },
+  { "id": "33022", "id_provincia": "33", "name": "Degaña" },
+  {
+    "id": "33023",
+    "id_provincia": "33",
+    "name": "Franco, El"
+  },
+  {
+    "id": "33024",
+    "id_provincia": "33",
+    "name": "Gijón"
+  },
+  {
+    "id": "33025",
+    "id_provincia": "33",
+    "name": "Gozón"
+  },
+  { "id": "33026", "id_provincia": "33", "name": "Grado" },
+  {
+    "id": "33027",
+    "id_provincia": "33",
+    "name": "Grandas de Salime"
+  },
+  { "id": "33028", "id_provincia": "33", "name": "Ibias" },
+  { "id": "33029", "id_provincia": "33", "name": "Illano" },
+  { "id": "33030", "id_provincia": "33", "name": "Illas" },
+  {
+    "id": "33031",
+    "id_provincia": "33",
+    "name": "Langreo"
+  },
+  {
+    "id": "33032",
+    "id_provincia": "33",
+    "name": "Laviana"
+  },
+  { "id": "33033", "id_provincia": "33", "name": "Lena" },
+  { "id": "33035", "id_provincia": "33", "name": "Llanera" },
+  { "id": "33036", "id_provincia": "33", "name": "Llanes" },
+  {
+    "id": "33037",
+    "id_provincia": "33",
+    "name": "Mieres"
+  },
+  {
+    "id": "33038",
+    "id_provincia": "33",
+    "name": "Morcín"
+  },
+  {
+    "id": "33039",
+    "id_provincia": "33",
+    "name": "Muros de Nalón"
+  },
+  { "id": "33040", "id_provincia": "33", "name": "Nava" },
+  { "id": "33041", "id_provincia": "33", "name": "Navia" },
+  { "id": "33042", "id_provincia": "33", "name": "Noreña" },
+  {
+    "id": "33043",
+    "id_provincia": "33",
+    "name": "Onís"
+  },
+  { "id": "33044", "id_provincia": "33", "name": "Oviedo" },
+  {
+    "id": "33045",
+    "id_provincia": "33",
+    "name": "Parres"
+  },
+  {
+    "id": "33046",
+    "id_provincia": "33",
+    "name": "Peñamellera Alta"
+  },
+  {
+    "id": "33047",
+    "id_provincia": "33",
+    "name": "Peñamellera Baja"
+  },
+  { "id": "33048", "id_provincia": "33", "name": "Pesoz" },
+  {
+    "id": "33049",
+    "id_provincia": "33",
+    "name": "Piloña"
+  },
+  {
+    "id": "33050",
+    "id_provincia": "33",
+    "name": "Ponga"
+  },
+  { "id": "33051", "id_provincia": "33", "name": "Pravia" },
+  { "id": "33052", "id_provincia": "33", "name": "Proaza" },
+  {
+    "id": "33053",
+    "id_provincia": "33",
+    "name": "Quirós"
+  },
+  {
+    "id": "33054",
+    "id_provincia": "33",
+    "name": "Regueras, Las"
+  },
+  {
+    "id": "33055",
+    "id_provincia": "33",
+    "name": "Ribadedeva"
+  },
+  {
+    "id": "33056",
+    "id_provincia": "33",
+    "name": "Ribadesella"
+  },
+  {
+    "id": "33057",
+    "id_provincia": "33",
+    "name": "Ribera de Arriba"
+  },
+  { "id": "33058", "id_provincia": "33", "name": "Riosa" },
+  { "id": "33059", "id_provincia": "33", "name": "Salas" },
+  {
+    "id": "33060",
+    "id_provincia": "33",
+    "name": "San Martín del Rey Aurelio"
+  },
+  {
+    "id": "33061",
+    "id_provincia": "33",
+    "name": "San Martín de Oscos"
+  },
+  {
+    "id": "33062",
+    "id_provincia": "33",
+    "name": "Santa Eulalia de Oscos"
+  },
+  {
+    "id": "33063",
+    "id_provincia": "33",
+    "name": "San Tirso de Abres"
+  },
+  {
+    "id": "33064",
+    "id_provincia": "33",
+    "name": "Santo Adriano"
+  },
+  { "id": "33065", "id_provincia": "33", "name": "Sariego" },
+  {
+    "id": "33066",
+    "id_provincia": "33",
+    "name": "Siero"
+  },
+  {
+    "id": "33067",
+    "id_provincia": "33",
+    "name": "Sobrescobio"
+  },
+  {
+    "id": "33068",
+    "id_provincia": "33",
+    "name": "Somiedo"
+  },
+  {
+    "id": "33069",
+    "id_provincia": "33",
+    "name": "Soto del Barco"
+  },
+  {
+    "id": "33070",
+    "id_provincia": "33",
+    "name": "Tapia de Casariego"
+  },
+  { "id": "33071", "id_provincia": "33", "name": "Taramundi" },
+  { "id": "33072", "id_provincia": "33", "name": "Teverga" },
+  { "id": "33073", "id_provincia": "33", "name": "Tineo" },
+  {
+    "id": "33034",
+    "id_provincia": "33",
+    "name": "Valdés"
+  },
+  {
+    "id": "33074",
+    "id_provincia": "33",
+    "name": "Vegadeo"
+  },
+  {
+    "id": "33075",
+    "id_provincia": "33",
+    "name": "Villanueva de Oscos"
+  },
+  {
+    "id": "33076",
+    "id_provincia": "33",
+    "name": "Villaviciosa"
+  },
+  { "id": "33077", "id_provincia": "33", "name": "Villayón" },
+  {
+    "id": "33078",
+    "id_provincia": "33",
+    "name": "Yernes y Tameza"
+  }
+]

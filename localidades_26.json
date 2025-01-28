@@ -1,0 +1,444 @@
+[
+  { "id": "26001", "id_provincia": "26", "name": "Ábalos" },
+  { "id": "26002", "id_provincia": "26", "name": "Agoncillo" },
+  {
+    "id": "26003",
+    "id_provincia": "26",
+    "name": "Aguilar del Río Alhama"
+  },
+  {
+    "id": "26004",
+    "id_provincia": "26",
+    "name": "Ajamil de Cameros"
+  },
+  {
+    "id": "26005",
+    "id_provincia": "26",
+    "name": "Albelda de Iregua"
+  },
+  { "id": "26006", "id_provincia": "26", "name": "Alberite" },
+  { "id": "26007", "id_provincia": "26", "name": "Alcanadre" },
+  {
+    "id": "26008",
+    "id_provincia": "26",
+    "name": "Aldeanueva de Ebro"
+  },
+  { "id": "26009", "id_provincia": "26", "name": "Alesanco" },
+  { "id": "26010", "id_provincia": "26", "name": "Alesón" },
+  { "id": "26011", "id_provincia": "26", "name": "Alfaro" },
+  {
+    "id": "26012",
+    "id_provincia": "26",
+    "name": "Almarza de Cameros"
+  },
+  { "id": "26013", "id_provincia": "26", "name": "Anguciana" },
+  { "id": "26014", "id_provincia": "26", "name": "Anguiano" },
+  {
+    "id": "26015",
+    "id_provincia": "26",
+    "name": "Arenzana de Abajo"
+  },
+  {
+    "id": "26016",
+    "id_provincia": "26",
+    "name": "Arenzana de Arriba"
+  },
+  { "id": "26017", "id_provincia": "26", "name": "Arnedillo" },
+  { "id": "26018", "id_provincia": "26", "name": "Arnedo" },
+  { "id": "26019", "id_provincia": "26", "name": "Arrúbal" },
+  { "id": "26020", "id_provincia": "26", "name": "Ausejo" },
+  { "id": "26021", "id_provincia": "26", "name": "Autol" },
+  { "id": "26022", "id_provincia": "26", "name": "Azofra" },
+  { "id": "26023", "id_provincia": "26", "name": "Badarán" },
+  { "id": "26024", "id_provincia": "26", "name": "Bañares" },
+  {
+    "id": "26025",
+    "id_provincia": "26",
+    "name": "Baños de Rioja"
+  },
+  {
+    "id": "26026",
+    "id_provincia": "26",
+    "name": "Baños de Río Tobía"
+  },
+  { "id": "26027", "id_provincia": "26", "name": "Berceo" },
+  { "id": "26028", "id_provincia": "26", "name": "Bergasa" },
+  {
+    "id": "26029",
+    "id_provincia": "26",
+    "name": "Bergasillas Bajera"
+  },
+  { "id": "26030", "id_provincia": "26", "name": "Bezares" },
+  { "id": "26031", "id_provincia": "26", "name": "Bobadilla" },
+  {
+    "id": "26032",
+    "id_provincia": "26",
+    "name": "Brieva de Cameros"
+  },
+  { "id": "26033", "id_provincia": "26", "name": "Briñas" },
+  { "id": "26034", "id_provincia": "26", "name": "Briones" },
+  {
+    "id": "26035",
+    "id_provincia": "26",
+    "name": "Cabezón de Cameros"
+  },
+  { "id": "26036", "id_provincia": "26", "name": "Calahorra" },
+  { "id": "26037", "id_provincia": "26", "name": "Camprovín" },
+  {
+    "id": "26038",
+    "id_provincia": "26",
+    "name": "Canales de la Sierra"
+  },
+  {
+    "id": "26039",
+    "id_provincia": "26",
+    "name": "Canillas de Río Tuerto"
+  },
+  { "id": "26040", "id_provincia": "26", "name": "Cañas" },
+  { "id": "26041", "id_provincia": "26", "name": "Cárdenas" },
+  {
+    "id": "26042",
+    "id_provincia": "26",
+    "name": "Casalarreina"
+  },
+  {
+    "id": "26043",
+    "id_provincia": "26",
+    "name": "Castañares de Rioja"
+  },
+  { "id": "26044", "id_provincia": "26", "name": "Castroviejo" },
+  { "id": "26045", "id_provincia": "26", "name": "Cellorigo" },
+  { "id": "26046", "id_provincia": "26", "name": "Cenicero" },
+  {
+    "id": "26047",
+    "id_provincia": "26",
+    "name": "Cervera del Río Alhama"
+  },
+  { "id": "26048", "id_provincia": "26", "name": "Cidamón" },
+  { "id": "26049", "id_provincia": "26", "name": "Cihuri" },
+  { "id": "26050", "id_provincia": "26", "name": "Cirueña" },
+  { "id": "26051", "id_provincia": "26", "name": "Clavijo" },
+  { "id": "26052", "id_provincia": "26", "name": "Cordovín" },
+  { "id": "26053", "id_provincia": "26", "name": "Corera" },
+  { "id": "26054", "id_provincia": "26", "name": "Cornago" },
+  { "id": "26055", "id_provincia": "26", "name": "Corporales" },
+  {
+    "id": "26056",
+    "id_provincia": "26",
+    "name": "Cuzcurrita de Río Tirón"
+  },
+  {
+    "id": "26057",
+    "id_provincia": "26",
+    "name": "Daroca de Rioja"
+  },
+  { "id": "26058", "id_provincia": "26", "name": "Enciso" },
+  { "id": "26059", "id_provincia": "26", "name": "Entrena" },
+  { "id": "26060", "id_provincia": "26", "name": "Estollo" },
+  { "id": "26061", "id_provincia": "26", "name": "Ezcaray" },
+  { "id": "26062", "id_provincia": "26", "name": "Foncea" },
+  { "id": "26063", "id_provincia": "26", "name": "Fonzaleche" },
+  { "id": "26064", "id_provincia": "26", "name": "Fuenmayor" },
+  {
+    "id": "26065",
+    "id_provincia": "26",
+    "name": "Galbárruli"
+  },
+  { "id": "26066", "id_provincia": "26", "name": "Galilea" },
+  {
+    "id": "26067",
+    "id_provincia": "26",
+    "name": "Gallinero de Cameros"
+  },
+  { "id": "26068", "id_provincia": "26", "name": "Gimileo" },
+  { "id": "26069", "id_provincia": "26", "name": "Grañón" },
+  { "id": "26070", "id_provincia": "26", "name": "Grávalos" },
+  { "id": "26071", "id_provincia": "26", "name": "Haro" },
+  { "id": "26072", "id_provincia": "26", "name": "Herce" },
+  {
+    "id": "26073",
+    "id_provincia": "26",
+    "name": "Herramélluri"
+  },
+  { "id": "26074", "id_provincia": "26", "name": "Hervías" },
+  { "id": "26075", "id_provincia": "26", "name": "Hormilla" },
+  { "id": "26076", "id_provincia": "26", "name": "Hormilleja" },
+  {
+    "id": "26077",
+    "id_provincia": "26",
+    "name": "Hornillos de Cameros"
+  },
+  {
+    "id": "26078",
+    "id_provincia": "26",
+    "name": "Hornos de Moncalvillo"
+  },
+  { "id": "26079", "id_provincia": "26", "name": "Huércanos" },
+  { "id": "26080", "id_provincia": "26", "name": "Igea" },
+  {
+    "id": "26081",
+    "id_provincia": "26",
+    "name": "Jalón de Cameros"
+  },
+  {
+    "id": "26082",
+    "id_provincia": "26",
+    "name": "Laguna de Cameros"
+  },
+  {
+    "id": "26083",
+    "id_provincia": "26",
+    "name": "Lagunilla del Jubera"
+  },
+  { "id": "26084", "id_provincia": "26", "name": "Lardero" },
+  {
+    "id": "26086",
+    "id_provincia": "26",
+    "name": "Ledesma de la Cogolla"
+  },
+  { "id": "26087", "id_provincia": "26", "name": "Leiva" },
+  {
+    "id": "26088",
+    "id_provincia": "26",
+    "name": "Leza de Río Leza"
+  },
+  { "id": "26089", "id_provincia": "26", "name": "Logroño" },
+  { "id": "26091", "id_provincia": "26", "name": "Lumbreras" },
+  { "id": "26092", "id_provincia": "26", "name": "Manjarrés" },
+  {
+    "id": "26093",
+    "id_provincia": "26",
+    "name": "Mansilla de la Sierra"
+  },
+  {
+    "id": "26094",
+    "id_provincia": "26",
+    "name": "Manzanares de Rioja"
+  },
+  { "id": "26095", "id_provincia": "26", "name": "Matute" },
+  { "id": "26096", "id_provincia": "26", "name": "Medrano" },
+  { "id": "26098", "id_provincia": "26", "name": "Munilla" },
+  {
+    "id": "26099",
+    "id_provincia": "26",
+    "name": "Murillo de Río Leza"
+  },
+  {
+    "id": "26100",
+    "id_provincia": "26",
+    "name": "Muro de Aguas"
+  },
+  {
+    "id": "26101",
+    "id_provincia": "26",
+    "name": "Muro en Cameros"
+  },
+  { "id": "26102", "id_provincia": "26", "name": "Nájera" },
+  { "id": "26103", "id_provincia": "26", "name": "Nalda" },
+  { "id": "26104", "id_provincia": "26", "name": "Navajún" },
+  { "id": "26105", "id_provincia": "26", "name": "Navarrete" },
+  { "id": "26106", "id_provincia": "26", "name": "Nestares" },
+  {
+    "id": "26107",
+    "id_provincia": "26",
+    "name": "Nieva de Cameros"
+  },
+  { "id": "26109", "id_provincia": "26", "name": "Ochánduri" },
+  {
+    "id": "26108",
+    "id_provincia": "26",
+    "name": "Ocón"
+  },
+  { "id": "26110", "id_provincia": "26", "name": "Ojacastro" },
+  { "id": "26111", "id_provincia": "26", "name": "Ollauri" },
+  {
+    "id": "26112",
+    "id_provincia": "26",
+    "name": "Ortigosa de Cameros"
+  },
+  { "id": "26113", "id_provincia": "26", "name": "Pazuengos" },
+  { "id": "26114", "id_provincia": "26", "name": "Pedroso" },
+  { "id": "26115", "id_provincia": "26", "name": "Pinillos" },
+  { "id": "26117", "id_provincia": "26", "name": "Pradejón" },
+  { "id": "26118", "id_provincia": "26", "name": "Pradillo" },
+  { "id": "26119", "id_provincia": "26", "name": "Préjano" },
+  { "id": "26120", "id_provincia": "26", "name": "Quel" },
+  { "id": "26121", "id_provincia": "26", "name": "Rabanera" },
+  {
+    "id": "26122",
+    "id_provincia": "26",
+    "name": "Rasillo de Cameros, El"
+  },
+  { "id": "26123", "id_provincia": "26", "name": "Redal, El" },
+  { "id": "26124", "id_provincia": "26", "name": "Ribafrecha" },
+  {
+    "id": "26125",
+    "id_provincia": "26",
+    "name": "Rincón de Soto"
+  },
+  {
+    "id": "26126",
+    "id_provincia": "26",
+    "name": "Robres del Castillo"
+  },
+  { "id": "26127", "id_provincia": "26", "name": "Rodezno" },
+  { "id": "26128", "id_provincia": "26", "name": "Sajazarra" },
+  { "id": "26129", "id_provincia": "26", "name": "San Asensio" },
+  {
+    "id": "26130",
+    "id_provincia": "26",
+    "name": "San Millán de la Cogolla"
+  },
+  {
+    "id": "26131",
+    "id_provincia": "26",
+    "name": "San Millán de Yécora"
+  },
+  {
+    "id": "26132",
+    "id_provincia": "26",
+    "name": "San Román de Cameros"
+  },
+  {
+    "id": "26134",
+    "id_provincia": "26",
+    "name": "Santa Coloma"
+  },
+  {
+    "id": "26135",
+    "id_provincia": "26",
+    "name": "Santa Engracia del Jubera"
+  },
+  {
+    "id": "26136",
+    "id_provincia": "26",
+    "name": "Santa Eulalia Bajera"
+  },
+  {
+    "id": "26138",
+    "id_provincia": "26",
+    "name": "Santo Domingo de la Calzada"
+  },
+  {
+    "id": "26139",
+    "id_provincia": "26",
+    "name": "San Torcuato"
+  },
+  {
+    "id": "26140",
+    "id_provincia": "26",
+    "name": "Santurde de Rioja"
+  },
+  { "id": "26141", "id_provincia": "26", "name": "Santurdejo" },
+  {
+    "id": "26142",
+    "id_provincia": "26",
+    "name": "San Vicente de la Sonsierra"
+  },
+  { "id": "26143", "id_provincia": "26", "name": "Sojuela" },
+  { "id": "26144", "id_provincia": "26", "name": "Sorzano" },
+  { "id": "26145", "id_provincia": "26", "name": "Sotés" },
+  {
+    "id": "26146",
+    "id_provincia": "26",
+    "name": "Soto en Cameros"
+  },
+  { "id": "26147", "id_provincia": "26", "name": "Terroba" },
+  { "id": "26148", "id_provincia": "26", "name": "Tirgo" },
+  { "id": "26149", "id_provincia": "26", "name": "Tobía" },
+  { "id": "26150", "id_provincia": "26", "name": "Tormantos" },
+  {
+    "id": "26151",
+    "id_provincia": "26",
+    "name": "Torrecilla en Cameros"
+  },
+  {
+    "id": "26152",
+    "id_provincia": "26",
+    "name": "Torrecilla sobre Alesanco"
+  },
+  {
+    "id": "26153",
+    "id_provincia": "26",
+    "name": "Torre en Cameros"
+  },
+  {
+    "id": "26154",
+    "id_provincia": "26",
+    "name": "Torremontalbo"
+  },
+  { "id": "26155", "id_provincia": "26", "name": "Treviana" },
+  { "id": "26157", "id_provincia": "26", "name": "Tricio" },
+  { "id": "26158", "id_provincia": "26", "name": "Tudelilla" },
+  { "id": "26160", "id_provincia": "26", "name": "Uruñuela" },
+  { "id": "26161", "id_provincia": "26", "name": "Valdemadera" },
+  {
+    "id": "26162",
+    "id_provincia": "26",
+    "name": "Valgañón"
+  },
+  { "id": "26163", "id_provincia": "26", "name": "Ventosa" },
+  { "id": "26164", "id_provincia": "26", "name": "Ventrosa" },
+  { "id": "26165", "id_provincia": "26", "name": "Viguera" },
+  {
+    "id": "26166",
+    "id_provincia": "26",
+    "name": "Villalba de Rioja"
+  },
+  {
+    "id": "26167",
+    "id_provincia": "26",
+    "name": "Villalobar de Rioja"
+  },
+  {
+    "id": "26168",
+    "id_provincia": "26",
+    "name": "Villamediana de Iregua"
+  },
+  {
+    "id": "26169",
+    "id_provincia": "26",
+    "name": "Villanueva de Cameros"
+  },
+  {
+    "id": "26170",
+    "id_provincia": "26",
+    "name": "Villar de Arnedo, El"
+  },
+  {
+    "id": "26171",
+    "id_provincia": "26",
+    "name": "Villar de Torre"
+  },
+  { "id": "26172", "id_provincia": "26", "name": "Villarejo" },
+  { "id": "26173", "id_provincia": "26", "name": "Villarroya" },
+  {
+    "id": "26174",
+    "id_provincia": "26",
+    "name": "Villarta-Quintana"
+  },
+  { "id": "26175", "id_provincia": "26", "name": "Villavelayo" },
+  {
+    "id": "26176",
+    "id_provincia": "26",
+    "name": "Villaverde de Rioja"
+  },
+  {
+    "id": "26177",
+    "id_provincia": "26",
+    "name": "Villoslada de Cameros"
+  },
+  {
+    "id": "26178",
+    "id_provincia": "26",
+    "name": "Viniegra de Abajo"
+  },
+  {
+    "id": "26179",
+    "id_provincia": "26",
+    "name": "Viniegra de Arriba"
+  },
+  { "id": "26180", "id_provincia": "26", "name": "Zarratón" },
+  { "id": "26181", "id_provincia": "26", "name": "Zarzosa" },
+  { "id": "26183", "id_provincia": "26", "name": "Zorraquín" }
+]

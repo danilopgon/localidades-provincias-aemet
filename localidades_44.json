@@ -1,0 +1,634 @@
+[
+  { "id": "44001", "id_provincia": "44", "name": "Ababuj" },
+  { "id": "44002", "id_provincia": "44", "name": "Abejuela" },
+  { "id": "44003", "id_provincia": "44", "name": "Aguatón" },
+  { "id": "44004", "id_provincia": "44", "name": "Aguaviva" },
+  {
+    "id": "44005",
+    "id_provincia": "44",
+    "name": "Aguilar del Alfambra"
+  },
+  { "id": "44006", "id_provincia": "44", "name": "Alacón" },
+  { "id": "44007", "id_provincia": "44", "name": "Alba" },
+  {
+    "id": "44008",
+    "id_provincia": "44",
+    "name": "Albalate del Arzobispo"
+  },
+  {
+    "id": "44009",
+    "id_provincia": "44",
+    "name": "Albarracín"
+  },
+  { "id": "44010", "id_provincia": "44", "name": "Albentosa" },
+  { "id": "44011", "id_provincia": "44", "name": "Alcaine" },
+  {
+    "id": "44012",
+    "id_provincia": "44",
+    "name": "Alcalá de la Selva"
+  },
+  { "id": "44013", "id_provincia": "44", "name": "Alcañiz" },
+  { "id": "44014", "id_provincia": "44", "name": "Alcorisa" },
+  { "id": "44016", "id_provincia": "44", "name": "Alfambra" },
+  { "id": "44017", "id_provincia": "44", "name": "Aliaga" },
+  { "id": "44021", "id_provincia": "44", "name": "Allepuz" },
+  { "id": "44022", "id_provincia": "44", "name": "Alloza" },
+  { "id": "44023", "id_provincia": "44", "name": "Allueva" },
+  { "id": "44018", "id_provincia": "44", "name": "Almohaja" },
+  { "id": "44019", "id_provincia": "44", "name": "Alobras" },
+  {
+    "id": "44020",
+    "id_provincia": "44",
+    "name": "Alpeñés"
+  },
+  { "id": "44024", "id_provincia": "44", "name": "Anadón" },
+  { "id": "44025", "id_provincia": "44", "name": "Andorra" },
+  {
+    "id": "44026",
+    "id_provincia": "44",
+    "name": "Arcos de las Salinas"
+  },
+  {
+    "id": "44027",
+    "id_provincia": "44",
+    "name": "Arens de Lledó"
+  },
+  { "id": "44028", "id_provincia": "44", "name": "Argente" },
+  { "id": "44029", "id_provincia": "44", "name": "Ariño" },
+  { "id": "44031", "id_provincia": "44", "name": "Azaila" },
+  { "id": "44032", "id_provincia": "44", "name": "Bádenas" },
+  { "id": "44033", "id_provincia": "44", "name": "Báguena" },
+  { "id": "44034", "id_provincia": "44", "name": "Bañón" },
+  { "id": "44035", "id_provincia": "44", "name": "Barrachina" },
+  { "id": "44036", "id_provincia": "44", "name": "Bea" },
+  { "id": "44037", "id_provincia": "44", "name": "Beceite" },
+  { "id": "44039", "id_provincia": "44", "name": "Bello" },
+  {
+    "id": "44038",
+    "id_provincia": "44",
+    "name": "Belmonte de San José"
+  },
+  { "id": "44040", "id_provincia": "44", "name": "Berge" },
+  { "id": "44041", "id_provincia": "44", "name": "Bezas" },
+  { "id": "44042", "id_provincia": "44", "name": "Blancas" },
+  { "id": "44043", "id_provincia": "44", "name": "Blesa" },
+  { "id": "44044", "id_provincia": "44", "name": "Bordón" },
+  { "id": "44045", "id_provincia": "44", "name": "Bronchales" },
+  { "id": "44046", "id_provincia": "44", "name": "Bueña" },
+  {
+    "id": "44047",
+    "id_provincia": "44",
+    "name": "Burbáguena"
+  },
+  {
+    "id": "44048",
+    "id_provincia": "44",
+    "name": "Cabra de Mora"
+  },
+  { "id": "44049", "id_provincia": "44", "name": "Calaceite" },
+  { "id": "44050", "id_provincia": "44", "name": "Calamocha" },
+  { "id": "44051", "id_provincia": "44", "name": "Calanda" },
+  { "id": "44052", "id_provincia": "44", "name": "Calomarde" },
+  { "id": "44053", "id_provincia": "44", "name": "Camañas" },
+  {
+    "id": "44054",
+    "id_provincia": "44",
+    "name": "Camarena de la Sierra"
+  },
+  { "id": "44055", "id_provincia": "44", "name": "Camarillas" },
+  { "id": "44056", "id_provincia": "44", "name": "Caminreal" },
+  { "id": "44059", "id_provincia": "44", "name": "Cantavieja" },
+  {
+    "id": "44060",
+    "id_provincia": "44",
+    "name": "Cañada de Benatanduz"
+  },
+  {
+    "id": "44061",
+    "id_provincia": "44",
+    "name": "Cañada de Verich, La"
+  },
+  {
+    "id": "44062",
+    "id_provincia": "44",
+    "name": "Cañada Vellida"
+  },
+  {
+    "id": "44063",
+    "id_provincia": "44",
+    "name": "Cañizar del Olivar"
+  },
+  {
+    "id": "44064",
+    "id_provincia": "44",
+    "name": "Cascante del Río"
+  },
+  {
+    "id": "44065",
+    "id_provincia": "44",
+    "name": "Castejón de Tornos"
+  },
+  {
+    "id": "44066",
+    "id_provincia": "44",
+    "name": "Castel de Cabra"
+  },
+  {
+    "id": "44070",
+    "id_provincia": "44",
+    "name": "Castellar, El"
+  },
+  { "id": "44071", "id_provincia": "44", "name": "Castellote" },
+  { "id": "44067", "id_provincia": "44", "name": "Castelnou" },
+  {
+    "id": "44068",
+    "id_provincia": "44",
+    "name": "Castelserás"
+  },
+  { "id": "44074", "id_provincia": "44", "name": "Cedrillas" },
+  { "id": "44075", "id_provincia": "44", "name": "Celadas" },
+  { "id": "44076", "id_provincia": "44", "name": "Cella" },
+  {
+    "id": "44077",
+    "id_provincia": "44",
+    "name": "Cerollera, La"
+  },
+  {
+    "id": "44080",
+    "id_provincia": "44",
+    "name": "Codoñera, La"
+  },
+  { "id": "44082", "id_provincia": "44", "name": "Corbalán" },
+  {
+    "id": "44084",
+    "id_provincia": "44",
+    "name": "Cortes de Aragón"
+  },
+  { "id": "44085", "id_provincia": "44", "name": "Cosa" },
+  { "id": "44086", "id_provincia": "44", "name": "Cretas" },
+  { "id": "44087", "id_provincia": "44", "name": "Crivillén" },
+  { "id": "44088", "id_provincia": "44", "name": "Cuba, La" },
+  { "id": "44089", "id_provincia": "44", "name": "Cubla" },
+  { "id": "44090", "id_provincia": "44", "name": "Cucalón" },
+  { "id": "44092", "id_provincia": "44", "name": "Cuervo, El" },
+  {
+    "id": "44093",
+    "id_provincia": "44",
+    "name": "Cuevas de Almudén"
+  },
+  {
+    "id": "44094",
+    "id_provincia": "44",
+    "name": "Cuevas Labradas"
+  },
+  { "id": "44096", "id_provincia": "44", "name": "Ejulve" },
+  { "id": "44097", "id_provincia": "44", "name": "Escorihuela" },
+  { "id": "44099", "id_provincia": "44", "name": "Escucha" },
+  { "id": "44100", "id_provincia": "44", "name": "Estercuel" },
+  {
+    "id": "44101",
+    "id_provincia": "44",
+    "name": "Ferreruela de Huerva"
+  },
+  { "id": "44102", "id_provincia": "44", "name": "Fonfría" },
+  {
+    "id": "44103",
+    "id_provincia": "44",
+    "name": "Formiche Alto"
+  },
+  { "id": "44105", "id_provincia": "44", "name": "Fórnoles" },
+  { "id": "44106", "id_provincia": "44", "name": "Fortanete" },
+  { "id": "44107", "id_provincia": "44", "name": "Foz-Calanda" },
+  { "id": "44108", "id_provincia": "44", "name": "Fresneda, La" },
+  {
+    "id": "44109",
+    "id_provincia": "44",
+    "name": "Frías de Albarracín"
+  },
+  { "id": "44110", "id_provincia": "44", "name": "Fuenferrada" },
+  {
+    "id": "44111",
+    "id_provincia": "44",
+    "name": "Fuentes Calientes"
+  },
+  {
+    "id": "44112",
+    "id_provincia": "44",
+    "name": "Fuentes Claras"
+  },
+  {
+    "id": "44113",
+    "id_provincia": "44",
+    "name": "Fuentes de Rubielos"
+  },
+  {
+    "id": "44114",
+    "id_provincia": "44",
+    "name": "Fuentespalda"
+  },
+  { "id": "44115", "id_provincia": "44", "name": "Galve" },
+  { "id": "44116", "id_provincia": "44", "name": "Gargallo" },
+  {
+    "id": "44117",
+    "id_provincia": "44",
+    "name": "Gea de Albarracín"
+  },
+  {
+    "id": "44118",
+    "id_provincia": "44",
+    "name": "Ginebrosa, La"
+  },
+  { "id": "44119", "id_provincia": "44", "name": "Griegos" },
+  { "id": "44120", "id_provincia": "44", "name": "Guadalaviar" },
+  { "id": "44121", "id_provincia": "44", "name": "Gúdar" },
+  { "id": "44122", "id_provincia": "44", "name": "Híjar" },
+  {
+    "id": "44123",
+    "id_provincia": "44",
+    "name": "Hinojosa de Jarque"
+  },
+  {
+    "id": "44124",
+    "id_provincia": "44",
+    "name": "Hoz de la Vieja, La"
+  },
+  {
+    "id": "44125",
+    "id_provincia": "44",
+    "name": "Huesa del Común"
+  },
+  {
+    "id": "44126",
+    "id_provincia": "44",
+    "name": "Iglesuela del Cid, La"
+  },
+  { "id": "44127", "id_provincia": "44", "name": "Jabaloyas" },
+  {
+    "id": "44128",
+    "id_provincia": "44",
+    "name": "Jarque de la Val"
+  },
+  { "id": "44129", "id_provincia": "44", "name": "Jatiel" },
+  { "id": "44130", "id_provincia": "44", "name": "Jorcas" },
+  { "id": "44131", "id_provincia": "44", "name": "Josa" },
+  { "id": "44132", "id_provincia": "44", "name": "Lagueruela" },
+  { "id": "44133", "id_provincia": "44", "name": "Lanzuela" },
+  { "id": "44135", "id_provincia": "44", "name": "Libros" },
+  { "id": "44136", "id_provincia": "44", "name": "Lidón" },
+  {
+    "id": "44137",
+    "id_provincia": "44",
+    "name": "Linares de Mora"
+  },
+  { "id": "44141", "id_provincia": "44", "name": "Lledó" },
+  { "id": "44138", "id_provincia": "44", "name": "Loscos" },
+  { "id": "44142", "id_provincia": "44", "name": "Maicas" },
+  { "id": "44143", "id_provincia": "44", "name": "Manzanera" },
+  {
+    "id": "44144",
+    "id_provincia": "44",
+    "name": "Martín del Río"
+  },
+  {
+    "id": "44145",
+    "id_provincia": "44",
+    "name": "Mas de las Matas"
+  },
+  {
+    "id": "44146",
+    "id_provincia": "44",
+    "name": "Mata de los Olmos, La"
+  },
+  { "id": "44147", "id_provincia": "44", "name": "Mazaleón" },
+  {
+    "id": "44148",
+    "id_provincia": "44",
+    "name": "Mezquita de Jarque"
+  },
+  { "id": "44149", "id_provincia": "44", "name": "Mirambel" },
+  {
+    "id": "44150",
+    "id_provincia": "44",
+    "name": "Miravete de la Sierra"
+  },
+  { "id": "44151", "id_provincia": "44", "name": "Molinos" },
+  {
+    "id": "44152",
+    "id_provincia": "44",
+    "name": "Monforte de Moyuela"
+  },
+  {
+    "id": "44153",
+    "id_provincia": "44",
+    "name": "Monreal del Campo"
+  },
+  { "id": "44154", "id_provincia": "44", "name": "Monroyo" },
+  { "id": "44155", "id_provincia": "44", "name": "Montalbán" },
+  {
+    "id": "44156",
+    "id_provincia": "44",
+    "name": "Monteagudo del Castillo"
+  },
+  {
+    "id": "44157",
+    "id_provincia": "44",
+    "name": "Monterde de Albarracín"
+  },
+  {
+    "id": "44158",
+    "id_provincia": "44",
+    "name": "Mora de Rubielos"
+  },
+  { "id": "44159", "id_provincia": "44", "name": "Moscardón" },
+  { "id": "44160", "id_provincia": "44", "name": "Mosqueruela" },
+  { "id": "44161", "id_provincia": "44", "name": "Muniesa" },
+  {
+    "id": "44163",
+    "id_provincia": "44",
+    "name": "Noguera de Albarracín"
+  },
+  { "id": "44164", "id_provincia": "44", "name": "Nogueras" },
+  { "id": "44165", "id_provincia": "44", "name": "Nogueruelas" },
+  { "id": "44167", "id_provincia": "44", "name": "Obón" },
+  { "id": "44168", "id_provincia": "44", "name": "Odón" },
+  { "id": "44169", "id_provincia": "44", "name": "Ojos Negros" },
+  { "id": "44171", "id_provincia": "44", "name": "Olba" },
+  { "id": "44172", "id_provincia": "44", "name": "Oliete" },
+  { "id": "44173", "id_provincia": "44", "name": "Olmos, Los" },
+  {
+    "id": "44174",
+    "id_provincia": "44",
+    "name": "Orihuela del Tremedal"
+  },
+  { "id": "44175", "id_provincia": "44", "name": "Orrios" },
+  {
+    "id": "44176",
+    "id_provincia": "44",
+    "name": "Palomar de Arroyos"
+  },
+  { "id": "44177", "id_provincia": "44", "name": "Pancrudo" },
+  {
+    "id": "44178",
+    "id_provincia": "44",
+    "name": "Parras de Castellote, Las"
+  },
+  {
+    "id": "44179",
+    "id_provincia": "44",
+    "name": "Peñarroya de Tastavins"
+  },
+  { "id": "44180", "id_provincia": "44", "name": "Peracense" },
+  { "id": "44181", "id_provincia": "44", "name": "Peralejos" },
+  {
+    "id": "44182",
+    "id_provincia": "44",
+    "name": "Perales del Alfambra"
+  },
+  { "id": "44183", "id_provincia": "44", "name": "Pitarque" },
+  { "id": "44184", "id_provincia": "44", "name": "Plou" },
+  { "id": "44185", "id_provincia": "44", "name": "Pobo, El" },
+  {
+    "id": "44187",
+    "id_provincia": "44",
+    "name": "Portellada, La"
+  },
+  { "id": "44189", "id_provincia": "44", "name": "Pozondón" },
+  {
+    "id": "44190",
+    "id_provincia": "44",
+    "name": "Pozuel del Campo"
+  },
+  {
+    "id": "44191",
+    "id_provincia": "44",
+    "name": "Puebla de Híjar, La"
+  },
+  {
+    "id": "44192",
+    "id_provincia": "44",
+    "name": "Puebla de Valverde, La"
+  },
+  {
+    "id": "44193",
+    "id_provincia": "44",
+    "name": "Puertomingalvo"
+  },
+  { "id": "44194", "id_provincia": "44", "name": "Ráfales" },
+  { "id": "44195", "id_provincia": "44", "name": "Rillo" },
+  { "id": "44196", "id_provincia": "44", "name": "Riodeva" },
+  { "id": "44197", "id_provincia": "44", "name": "Ródenas" },
+  { "id": "44198", "id_provincia": "44", "name": "Royuela" },
+  { "id": "44199", "id_provincia": "44", "name": "Rubiales" },
+  {
+    "id": "44200",
+    "id_provincia": "44",
+    "name": "Rubielos de la Cérida"
+  },
+  {
+    "id": "44201",
+    "id_provincia": "44",
+    "name": "Rubielos de Mora"
+  },
+  { "id": "44203", "id_provincia": "44", "name": "Salcedillo" },
+  { "id": "44204", "id_provincia": "44", "name": "Saldón" },
+  {
+    "id": "44205",
+    "id_provincia": "44",
+    "name": "Samper de Calanda"
+  },
+  {
+    "id": "44206",
+    "id_provincia": "44",
+    "name": "San Agustín"
+  },
+  {
+    "id": "44207",
+    "id_provincia": "44",
+    "name": "San Martín del Río"
+  },
+  {
+    "id": "44208",
+    "id_provincia": "44",
+    "name": "Santa Cruz de Nogueras"
+  },
+  {
+    "id": "44209",
+    "id_provincia": "44",
+    "name": "Santa Eulalia"
+  },
+  { "id": "44210", "id_provincia": "44", "name": "Sarrión" },
+  {
+    "id": "44211",
+    "id_provincia": "44",
+    "name": "Segura de los Baños"
+  },
+  { "id": "44212", "id_provincia": "44", "name": "Seno" },
+  { "id": "44213", "id_provincia": "44", "name": "Singra" },
+  { "id": "44215", "id_provincia": "44", "name": "Terriente" },
+  { "id": "44216", "id_provincia": "44", "name": "Teruel" },
+  {
+    "id": "44217",
+    "id_provincia": "44",
+    "name": "Toril y Masegoso"
+  },
+  { "id": "44218", "id_provincia": "44", "name": "Tormón" },
+  { "id": "44219", "id_provincia": "44", "name": "Tornos" },
+  {
+    "id": "44220",
+    "id_provincia": "44",
+    "name": "Torralba de los Sisones"
+  },
+  {
+    "id": "44221",
+    "id_provincia": "44",
+    "name": "Torrecilla de Alcañiz"
+  },
+  {
+    "id": "44222",
+    "id_provincia": "44",
+    "name": "Torrecilla del Rebollar"
+  },
+  {
+    "id": "44223",
+    "id_provincia": "44",
+    "name": "Torre de Arcas"
+  },
+  {
+    "id": "44224",
+    "id_provincia": "44",
+    "name": "Torre de las Arcas"
+  },
+  {
+    "id": "44225",
+    "id_provincia": "44",
+    "name": "Torre del Compte"
+  },
+  {
+    "id": "44226",
+    "id_provincia": "44",
+    "name": "Torrelacárcel"
+  },
+  {
+    "id": "44227",
+    "id_provincia": "44",
+    "name": "Torre los Negros"
+  },
+  {
+    "id": "44228",
+    "id_provincia": "44",
+    "name": "Torremocha de Jiloca"
+  },
+  {
+    "id": "44229",
+    "id_provincia": "44",
+    "name": "Torres de Albarracín"
+  },
+  {
+    "id": "44230",
+    "id_provincia": "44",
+    "name": "Torrevelilla"
+  },
+  { "id": "44231", "id_provincia": "44", "name": "Torrijas" },
+  {
+    "id": "44232",
+    "id_provincia": "44",
+    "name": "Torrijo del Campo"
+  },
+  {
+    "id": "44234",
+    "id_provincia": "44",
+    "name": "Tramacastiel"
+  },
+  {
+    "id": "44235",
+    "id_provincia": "44",
+    "name": "Tramacastilla"
+  },
+  { "id": "44236", "id_provincia": "44", "name": "Tronchón" },
+  {
+    "id": "44237",
+    "id_provincia": "44",
+    "name": "Urrea de Gaén"
+  },
+  { "id": "44238", "id_provincia": "44", "name": "Utrillas" },
+  { "id": "44239", "id_provincia": "44", "name": "Valacloche" },
+  { "id": "44240", "id_provincia": "44", "name": "Valbona" },
+  {
+    "id": "44241",
+    "id_provincia": "44",
+    "name": "Valdealgorfa"
+  },
+  { "id": "44243", "id_provincia": "44", "name": "Valdecuenca" },
+  {
+    "id": "44244",
+    "id_provincia": "44",
+    "name": "Valdelinares"
+  },
+  { "id": "44245", "id_provincia": "44", "name": "Valdeltormo" },
+  {
+    "id": "44246",
+    "id_provincia": "44",
+    "name": "Valderrobres"
+  },
+  { "id": "44247", "id_provincia": "44", "name": "Valjunquera" },
+  {
+    "id": "44249",
+    "id_provincia": "44",
+    "name": "Vallecillo, El"
+  },
+  {
+    "id": "44250",
+    "id_provincia": "44",
+    "name": "Veguillas de la Sierra"
+  },
+  {
+    "id": "44251",
+    "id_provincia": "44",
+    "name": "Villafranca del Campo"
+  },
+  {
+    "id": "44252",
+    "id_provincia": "44",
+    "name": "Villahermosa del Campo"
+  },
+  {
+    "id": "44256",
+    "id_provincia": "44",
+    "name": "Villanueva del Rebollar de la Sierra"
+  },
+  {
+    "id": "44257",
+    "id_provincia": "44",
+    "name": "Villar del Cobo"
+  },
+  {
+    "id": "44258",
+    "id_provincia": "44",
+    "name": "Villar del Salz"
+  },
+  {
+    "id": "44260",
+    "id_provincia": "44",
+    "name": "Villarluengo"
+  },
+  {
+    "id": "44261",
+    "id_provincia": "44",
+    "name": "Villarquemado"
+  },
+  {
+    "id": "44262",
+    "id_provincia": "44",
+    "name": "Villarroya de los Pinares"
+  },
+  { "id": "44263", "id_provincia": "44", "name": "Villastar" },
+  { "id": "44264", "id_provincia": "44", "name": "Villel" },
+  { "id": "44265", "id_provincia": "44", "name": "Vinaceite" },
+  { "id": "44266", "id_provincia": "44", "name": "Visiedo" },
+  {
+    "id": "44267",
+    "id_provincia": "44",
+    "name": "Vivel del Río Martín"
+  },
+  { "id": "44268", "id_provincia": "44", "name": "Zoma, La" }
+]

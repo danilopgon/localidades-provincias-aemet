@@ -1,0 +1,141 @@
+[
+  { "id": "07002", "id_provincia": "07", "name": "Alaior" },
+  { "id": "07001", "id_provincia": "07", "name": "Alaró" },
+  { "id": "07003", "id_provincia": "07", "name": "Alcúdia" },
+  { "id": "07004", "id_provincia": "07", "name": "Algaida" },
+  { "id": "07005", "id_provincia": "07", "name": "Andratx" },
+  { "id": "07901", "id_provincia": "07", "name": "Ariany" },
+  { "id": "07006", "id_provincia": "07", "name": "Art\u00e0" },
+  { "id": "07007", "id_provincia": "07", "name": "Banyalbufar" },
+  { "id": "07008", "id_provincia": "07", "name": "Binissalem" },
+  { "id": "07009", "id_provincia": "07", "name": "Búger" },
+  { "id": "07010", "id_provincia": "07", "name": "Bunyola" },
+  { "id": "07011", "id_provincia": "07", "name": "Calvi\u00e0" },
+  { "id": "07012", "id_provincia": "07", "name": "Campanet" },
+  { "id": "07013", "id_provincia": "07", "name": "Campos" },
+  { "id": "07014", "id_provincia": "07", "name": "Capdepera" },
+  { "id": "07064", "id_provincia": "07", "name": "Castell, Es" },
+  {
+    "id": "07015",
+    "id_provincia": "07",
+    "name": "Ciutadella de Menorca"
+  },
+  { "id": "07016", "id_provincia": "07", "name": "Consell" },
+  { "id": "07017", "id_provincia": "07", "name": "Costitx" },
+  { "id": "07018", "id_provincia": "07", "name": "Dei\u00e0" },
+  { "id": "07026", "id_provincia": "07", "name": "Eivissa" },
+  { "id": "07019", "id_provincia": "07", "name": "Escorca" },
+  { "id": "07020", "id_provincia": "07", "name": "Esporles" },
+  { "id": "07021", "id_provincia": "07", "name": "Estellencs" },
+  { "id": "07022", "id_provincia": "07", "name": "Felanitx" },
+  { "id": "07023", "id_provincia": "07", "name": "Ferreries" },
+  {
+    "id": "07024",
+    "id_provincia": "07",
+    "name": "Formentera"
+  },
+  { "id": "07025", "id_provincia": "07", "name": "Fornalutx" },
+  { "id": "07027", "id_provincia": "07", "name": "Inca" },
+  {
+    "id": "07028",
+    "id_provincia": "07",
+    "name": "Lloret de Vistalegre"
+  },
+  { "id": "07029", "id_provincia": "07", "name": "Lloseta" },
+  { "id": "07030", "id_provincia": "07", "name": "Llubí" },
+  { "id": "07031", "id_provincia": "07", "name": "Llucmajor" },
+  { "id": "07033", "id_provincia": "07", "name": "Manacor" },
+  {
+    "id": "07034",
+    "id_provincia": "07",
+    "name": "Mancor de la Vall"
+  },
+  {
+    "id": "07032",
+    "id_provincia": "07",
+    "name": "Maó-Mahón"
+  },
+  {
+    "id": "07035",
+    "id_provincia": "07",
+    "name": "Maria de la Salut"
+  },
+  {
+    "id": "07036",
+    "id_provincia": "07",
+    "name": "Marratxí"
+  },
+  { "id": "07037", "id_provincia": "07", "name": "Mercadal, Es" },
+  {
+    "id": "07902",
+    "id_provincia": "07",
+    "name": "Migjorn Gran, Es"
+  },
+  { "id": "07038", "id_provincia": "07", "name": "Montu\u00efri" },
+  { "id": "07039", "id_provincia": "07", "name": "Muro" },
+  { "id": "07040", "id_provincia": "07", "name": "Palma de Mallorca" },
+  { "id": "07041", "id_provincia": "07", "name": "Petra" },
+  { "id": "07044", "id_provincia": "07", "name": "Pobla, Sa" },
+  { "id": "07042", "id_provincia": "07", "name": "Pollen\u00e7a" },
+  { "id": "07043", "id_provincia": "07", "name": "Porreres" },
+  { "id": "07045", "id_provincia": "07", "name": "Puigpunyent" },
+  { "id": "07059", "id_provincia": "07", "name": "Salines, Ses" },
+  {
+    "id": "07053",
+    "id_provincia": "07",
+    "name": "Santa Eug\u00e8nia"
+  },
+  {
+    "id": "07054",
+    "id_provincia": "07",
+    "name": "Santa Eul\u00e0ria des Riu"
+  },
+  {
+    "id": "07055",
+    "id_provincia": "07",
+    "name": "Santa Margalida"
+  },
+  {
+    "id": "07056",
+    "id_provincia": "07",
+    "name": "Santa María del Camí"
+  },
+  {
+    "id": "07046",
+    "id_provincia": "07",
+    "name": "Sant Antoni de Portmany"
+  },
+  { "id": "07057", "id_provincia": "07", "name": "Santanyí" },
+  { "id": "07049", "id_provincia": "07", "name": "Sant Joan" },
+  {
+    "id": "07050",
+    "id_provincia": "07",
+    "name": "Sant Joan de Labritja"
+  },
+  {
+    "id": "07048",
+    "id_provincia": "07",
+    "name": "Sant Josep de sa Talaia"
+  },
+  {
+    "id": "07051",
+    "id_provincia": "07",
+    "name": "Sant Lloren\u00e7 des Cardassar"
+  },
+  {
+    "id": "07052",
+    "id_provincia": "07",
+    "name": "Sant Lluís"
+  },
+  { "id": "07058", "id_provincia": "07", "name": "Selva" },
+  { "id": "07047", "id_provincia": "07", "name": "Sencelles" },
+  { "id": "07060", "id_provincia": "07", "name": "Sineu" },
+  { "id": "07061", "id_provincia": "07", "name": "Sóller" },
+  { "id": "07062", "id_provincia": "07", "name": "Son Servera" },
+  { "id": "07063", "id_provincia": "07", "name": "Valldemossa" },
+  {
+    "id": "07065",
+    "id_provincia": "07",
+    "name": "Vilafranca de Bonany"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  { "id": "35001", "id_provincia": "35", "name": "Agaete" },
+  { "id": "35002", "id_provincia": "35", "name": "Agüimes" },
+  {
+    "id": "35020",
+    "id_provincia": "35",
+    "name": "Aldea de San Nicolás, La"
+  },
+  { "id": "35003", "id_provincia": "35", "name": "Antigua" },
+  { "id": "35004", "id_provincia": "35", "name": "Arrecife" },
+  { "id": "35005", "id_provincia": "35", "name": "Artenara" },
+  { "id": "35006", "id_provincia": "35", "name": "Arucas" },
+  { "id": "35007", "id_provincia": "35", "name": "Betancuria" },
+  { "id": "35008", "id_provincia": "35", "name": "Firgas" },
+  { "id": "35009", "id_provincia": "35", "name": "Gáldar" },
+  { "id": "35010", "id_provincia": "35", "name": "Haría" },
+  { "id": "35011", "id_provincia": "35", "name": "Ingenio" },
+  { "id": "35012", "id_provincia": "35", "name": "Mogán" },
+  { "id": "35013", "id_provincia": "35", "name": "Moya" },
+  { "id": "35014", "id_provincia": "35", "name": "Oliva, La" },
+  { "id": "35015", "id_provincia": "35", "name": "Pájara" },
+  {
+    "id": "35016",
+    "id_provincia": "35",
+    "name": "Palmas de Gran Canaria, Las"
+  },
+  {
+    "id": "35017",
+    "id_provincia": "35",
+    "name": "Puerto del Rosario"
+  },
+  {
+    "id": "35018",
+    "id_provincia": "35",
+    "name": "San Bartolomé"
+  },
+  {
+    "id": "35019",
+    "id_provincia": "35",
+    "name": "San Bartolomé de Tirajana"
+  },
+  {
+    "id": "35021",
+    "id_provincia": "35",
+    "name": "Santa Brígida"
+  },
+  {
+    "id": "35022",
+    "id_provincia": "35",
+    "name": "Santa Lucía de Tirajana"
+  },
+  {
+    "id": "35023",
+    "id_provincia": "35",
+    "name": "Santa María de Guía de Gran Canaria"
+  },
+  { "id": "35024", "id_provincia": "35", "name": "Teguise" },
+  { "id": "35025", "id_provincia": "35", "name": "Tejeda" },
+  { "id": "35026", "id_provincia": "35", "name": "Telde" },
+  { "id": "35027", "id_provincia": "35", "name": "Teror" },
+  { "id": "35028", "id_provincia": "35", "name": "Tías" },
+  { "id": "35029", "id_provincia": "35", "name": "Tinajo" },
+  { "id": "35030", "id_provincia": "35", "name": "Tuineje" },
+  { "id": "35032", "id_provincia": "35", "name": "Valleseco" },
+  {
+    "id": "35031",
+    "id_provincia": "35",
+    "name": "Valsequillo de Gran Canaria"
+  },
+  {
+    "id": "35033",
+    "id_provincia": "35",
+    "name": "Vega de San Mateo"
+  },
+  { "id": "35034", "id_provincia": "35", "name": "Yaiza" }
+]

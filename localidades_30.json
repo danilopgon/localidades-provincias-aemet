@@ -1,0 +1,95 @@
+[
+  { "id": "30001", "id_provincia": "30", "name": "Abanilla" },
+  { "id": "30002", "id_provincia": "30", "name": "Abarán" },
+  { "id": "30003", "id_provincia": "30", "name": "Águilas" },
+  { "id": "30004", "id_provincia": "30", "name": "Albudeite" },
+  {
+    "id": "30005",
+    "id_provincia": "30",
+    "name": "Alcantarilla"
+  },
+  {
+    "id": "30902",
+    "id_provincia": "30",
+    "name": "Alcázares, Los"
+  },
+  { "id": "30006", "id_provincia": "30", "name": "Aledo" },
+  { "id": "30007", "id_provincia": "30", "name": "Alguazas" },
+  {
+    "id": "30008",
+    "id_provincia": "30",
+    "name": "Alhama de Murcia"
+  },
+  { "id": "30009", "id_provincia": "30", "name": "Archena" },
+  { "id": "30010", "id_provincia": "30", "name": "Beniel" },
+  { "id": "30011", "id_provincia": "30", "name": "Blanca" },
+  { "id": "30012", "id_provincia": "30", "name": "Bullas" },
+  { "id": "30013", "id_provincia": "30", "name": "Calasparra" },
+  {
+    "id": "30014",
+    "id_provincia": "30",
+    "name": "Campos del Río"
+  },
+  {
+    "id": "30015",
+    "id_provincia": "30",
+    "name": "Caravaca de la Cruz"
+  },
+  { "id": "30016", "id_provincia": "30", "name": "Cartagena" },
+  { "id": "30017", "id_provincia": "30", "name": "Cehegín" },
+  { "id": "30018", "id_provincia": "30", "name": "Ceutí" },
+  { "id": "30019", "id_provincia": "30", "name": "Cieza" },
+  { "id": "30020", "id_provincia": "30", "name": "Fortuna" },
+  {
+    "id": "30021",
+    "id_provincia": "30",
+    "name": "Fuente Álamo de Murcia"
+  },
+  { "id": "30022", "id_provincia": "30", "name": "Jumilla" },
+  { "id": "30023", "id_provincia": "30", "name": "Librilla" },
+  { "id": "30024", "id_provincia": "30", "name": "Lorca" },
+  { "id": "30025", "id_provincia": "30", "name": "Lorquí" },
+  { "id": "30026", "id_provincia": "30", "name": "Mazarrón" },
+  {
+    "id": "30027",
+    "id_provincia": "30",
+    "name": "Molina de Segura"
+  },
+  { "id": "30028", "id_provincia": "30", "name": "Moratalla" },
+  { "id": "30029", "id_provincia": "30", "name": "Mula" },
+  { "id": "30030", "id_provincia": "30", "name": "Murcia" },
+  { "id": "30031", "id_provincia": "30", "name": "Ojós" },
+  { "id": "30032", "id_provincia": "30", "name": "Pliego" },
+  {
+    "id": "30033",
+    "id_provincia": "30",
+    "name": "Puerto Lumbreras"
+  },
+  { "id": "30034", "id_provincia": "30", "name": "Ricote" },
+  { "id": "30035", "id_provincia": "30", "name": "San Javier" },
+  {
+    "id": "30036",
+    "id_provincia": "30",
+    "name": "San Pedro del Pinatar"
+  },
+  { "id": "30901", "id_provincia": "30", "name": "Santomera" },
+  {
+    "id": "30037",
+    "id_provincia": "30",
+    "name": "Torre-Pacheco"
+  },
+  {
+    "id": "30038",
+    "id_provincia": "30",
+    "name": "Torres de Cotillas, Las"
+  },
+  { "id": "30039", "id_provincia": "30", "name": "Totana" },
+  { "id": "30040", "id_provincia": "30", "name": "Ulea" },
+  { "id": "30041", "id_provincia": "30", "name": "Unión, La" },
+  {
+    "id": "30042",
+    "id_provincia": "30",
+    "name": "Villanueva del Río Segura"
+  },
+  { "id": "30043", "id_provincia": "30", "name": "Yecla" }
+]

@@ -1,0 +1,201 @@
+[
+  { "id": "14001", "id_provincia": "14", "name": "Adamuz" },
+  {
+    "id": "14002",
+    "id_provincia": "14",
+    "name": "Aguilar de la Frontera"
+  },
+  { "id": "14003", "id_provincia": "14", "name": "Alcaracejos" },
+  { "id": "14004", "id_provincia": "14", "name": "Almedinilla" },
+  {
+    "id": "14005",
+    "id_provincia": "14",
+    "name": "Almodóvar del Río"
+  },
+  { "id": "14006", "id_provincia": "14", "name": "Añora" },
+  { "id": "14007", "id_provincia": "14", "name": "Baena" },
+  {
+    "id": "14008",
+    "id_provincia": "14",
+    "name": "Belalcázar"
+  },
+  { "id": "14009", "id_provincia": "14", "name": "Belmez" },
+  { "id": "14010", "id_provincia": "14", "name": "Benamejí" },
+  {
+    "id": "14011",
+    "id_provincia": "14",
+    "name": "Blázquez, Los"
+  },
+  { "id": "14012", "id_provincia": "14", "name": "Bujalance" },
+  { "id": "14013", "id_provincia": "14", "name": "Cabra" },
+  {
+    "id": "14014",
+    "id_provincia": "14",
+    "name": "Cañete de las Torres"
+  },
+  { "id": "14015", "id_provincia": "14", "name": "Carcabuey" },
+  { "id": "14016", "id_provincia": "14", "name": "Cardeña" },
+  { "id": "14017", "id_provincia": "14", "name": "Carlota, La" },
+  { "id": "14018", "id_provincia": "14", "name": "Carpio, El" },
+  {
+    "id": "14019",
+    "id_provincia": "14",
+    "name": "Castro del Río"
+  },
+  { "id": "14020", "id_provincia": "14", "name": "Conquista" },
+  { "id": "14021", "id_provincia": "14", "name": "Córdoba" },
+  {
+    "id": "14022",
+    "id_provincia": "14",
+    "name": "Doña Mencía"
+  },
+  { "id": "14023", "id_provincia": "14", "name": "Dos Torres" },
+  {
+    "id": "14024",
+    "id_provincia": "14",
+    "name": "Encinas Reales"
+  },
+  { "id": "14025", "id_provincia": "14", "name": "Espejo" },
+  { "id": "14026", "id_provincia": "14", "name": "Espiel" },
+  {
+    "id": "14027",
+    "id_provincia": "14",
+    "name": "Fernán-Núñez"
+  },
+  {
+    "id": "14028",
+    "id_provincia": "14",
+    "name": "Fuente la Lancha"
+  },
+  {
+    "id": "14029",
+    "id_provincia": "14",
+    "name": "Fuente Obejuna"
+  },
+  {
+    "id": "14030",
+    "id_provincia": "14",
+    "name": "Fuente Palmera"
+  },
+  {
+    "id": "14031",
+    "id_provincia": "14",
+    "name": "Fuente-Tójar"
+  },
+  {
+    "id": "14032",
+    "id_provincia": "14",
+    "name": "Granjuela, La"
+  },
+  {
+    "id": "14033",
+    "id_provincia": "14",
+    "name": "Guadalcázar"
+  },
+  { "id": "14034", "id_provincia": "14", "name": "Guijo, El" },
+  {
+    "id": "14035",
+    "id_provincia": "14",
+    "name": "Hinojosa del Duque"
+  },
+  {
+    "id": "14036",
+    "id_provincia": "14",
+    "name": "Hornachuelos"
+  },
+  { "id": "14037", "id_provincia": "14", "name": "Iznájar" },
+  { "id": "14038", "id_provincia": "14", "name": "Lucena" },
+  { "id": "14039", "id_provincia": "14", "name": "Luque" },
+  {
+    "id": "14040",
+    "id_provincia": "14",
+    "name": "Montalbán de Córdoba"
+  },
+  { "id": "14041", "id_provincia": "14", "name": "Montemayor" },
+  { "id": "14042", "id_provincia": "14", "name": "Montilla" },
+  { "id": "14043", "id_provincia": "14", "name": "Montoro" },
+  { "id": "14044", "id_provincia": "14", "name": "Monturque" },
+  { "id": "14045", "id_provincia": "14", "name": "Moriles" },
+  {
+    "id": "14046",
+    "id_provincia": "14",
+    "name": "Nueva Carteya"
+  },
+  { "id": "14047", "id_provincia": "14", "name": "Obejo" },
+  { "id": "14048", "id_provincia": "14", "name": "Palenciana" },
+  {
+    "id": "14049",
+    "id_provincia": "14",
+    "name": "Palma del Río"
+  },
+  { "id": "14050", "id_provincia": "14", "name": "Pedro Abad" },
+  { "id": "14051", "id_provincia": "14", "name": "Pedroche" },
+  {
+    "id": "14052",
+    "id_provincia": "14",
+    "name": "Peñarroya-Pueblonuevo"
+  },
+  { "id": "14053", "id_provincia": "14", "name": "Posadas" },
+  { "id": "14054", "id_provincia": "14", "name": "Pozoblanco" },
+  {
+    "id": "14055",
+    "id_provincia": "14",
+    "name": "Priego de Córdoba"
+  },
+  {
+    "id": "14056",
+    "id_provincia": "14",
+    "name": "Puente Genil"
+  },
+  { "id": "14057", "id_provincia": "14", "name": "Rambla, La" },
+  { "id": "14058", "id_provincia": "14", "name": "Rute" },
+  {
+    "id": "14059",
+    "id_provincia": "14",
+    "name": "San Sebastián de los Ballesteros"
+  },
+  { "id": "14060", "id_provincia": "14", "name": "Santaella" },
+  {
+    "id": "14061",
+    "id_provincia": "14",
+    "name": "Santa Eufemia"
+  },
+  { "id": "14062", "id_provincia": "14", "name": "Torrecampo" },
+  { "id": "14063", "id_provincia": "14", "name": "Valenzuela" },
+  { "id": "14064", "id_provincia": "14", "name": "Valsequillo" },
+  { "id": "14065", "id_provincia": "14", "name": "Victoria, La" },
+  {
+    "id": "14066",
+    "id_provincia": "14",
+    "name": "Villa del Río"
+  },
+  {
+    "id": "14067",
+    "id_provincia": "14",
+    "name": "Villafranca de Córdoba"
+  },
+  { "id": "14068", "id_provincia": "14", "name": "Villaharta" },
+  {
+    "id": "14069",
+    "id_provincia": "14",
+    "name": "Villanueva de Córdoba"
+  },
+  {
+    "id": "14070",
+    "id_provincia": "14",
+    "name": "Villanueva del Duque"
+  },
+  {
+    "id": "14071",
+    "id_provincia": "14",
+    "name": "Villanueva del Rey"
+  },
+  { "id": "14072", "id_provincia": "14", "name": "Villaralto" },
+  {
+    "id": "14073",
+    "id_provincia": "14",
+    "name": "Villaviciosa de Córdoba"
+  },
+  { "id": "14074", "id_provincia": "14", "name": "Viso, El" },
+  { "id": "14075", "id_provincia": "14", "name": "Zuheros" }
+]

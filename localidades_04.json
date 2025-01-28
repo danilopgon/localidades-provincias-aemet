@@ -1,0 +1,188 @@
+[
+  { "id": "04001", "id_provincia": "04", "name": "Abla" },
+  { "id": "04002", "id_provincia": "04", "name": "Abrucena" },
+  { "id": "04003", "id_provincia": "04", "name": "Adra" },
+  { "id": "04004", "id_provincia": "04", "name": "Albánchez" },
+  { "id": "04005", "id_provincia": "04", "name": "Alboloduy" },
+  { "id": "04006", "id_provincia": "04", "name": "Albox" },
+  { "id": "04007", "id_provincia": "04", "name": "Alcolea" },
+  { "id": "04008", "id_provincia": "04", "name": "Alcóntar" },
+  {
+    "id": "04009",
+    "id_provincia": "04",
+    "name": "Alcudia de Monteagud"
+  },
+  { "id": "04010", "id_provincia": "04", "name": "Alhabia" },
+  {
+    "id": "04011",
+    "id_provincia": "04",
+    "name": "Alhama de Almería"
+  },
+  { "id": "04012", "id_provincia": "04", "name": "Alicún" },
+  { "id": "04013", "id_provincia": "04", "name": "Almería" },
+  { "id": "04014", "id_provincia": "04", "name": "Almócita" },
+  { "id": "04015", "id_provincia": "04", "name": "Alsodux" },
+  { "id": "04016", "id_provincia": "04", "name": "Antas" },
+  { "id": "04017", "id_provincia": "04", "name": "Arboleas" },
+  {
+    "id": "04018",
+    "id_provincia": "04",
+    "name": "Armuña de Almanzora"
+  },
+  { "id": "04019", "id_provincia": "04", "name": "Bacares" },
+  { "id": "04020", "id_provincia": "04", "name": "Bayárcal" },
+  { "id": "04021", "id_provincia": "04", "name": "Bayarque" },
+  { "id": "04022", "id_provincia": "04", "name": "Bédar" },
+  { "id": "04023", "id_provincia": "04", "name": "Beires" },
+  { "id": "04024", "id_provincia": "04", "name": "Benahadux" },
+  { "id": "04026", "id_provincia": "04", "name": "Benitagla" },
+  { "id": "04027", "id_provincia": "04", "name": "Benizalón" },
+  { "id": "04028", "id_provincia": "04", "name": "Bentarique" },
+  { "id": "04029", "id_provincia": "04", "name": "Berja" },
+  { "id": "04030", "id_provincia": "04", "name": "Canjáyar" },
+  { "id": "04031", "id_provincia": "04", "name": "Cantoria" },
+  { "id": "04032", "id_provincia": "04", "name": "Carboneras" },
+  {
+    "id": "04033",
+    "id_provincia": "04",
+    "name": "Castro de Filabres"
+  },
+  { "id": "04036", "id_provincia": "04", "name": "Chercos" },
+  { "id": "04037", "id_provincia": "04", "name": "Chirivel" },
+  { "id": "04034", "id_provincia": "04", "name": "Cóbdar" },
+  {
+    "id": "04035",
+    "id_provincia": "04",
+    "name": "Cuevas del Almanzora"
+  },
+  { "id": "04038", "id_provincia": "04", "name": "Dalías" },
+  { "id": "04902", "id_provincia": "04", "name": "Ejido, El" },
+  { "id": "04041", "id_provincia": "04", "name": "Enix" },
+  { "id": "04043", "id_provincia": "04", "name": "Felix" },
+  { "id": "04044", "id_provincia": "04", "name": "Fines" },
+  { "id": "04045", "id_provincia": "04", "name": "Fiñana" },
+  { "id": "04046", "id_provincia": "04", "name": "Fondón" },
+  { "id": "04047", "id_provincia": "04", "name": "Gádor" },
+  {
+    "id": "04048",
+    "id_provincia": "04",
+    "name": "Gallardos, Los"
+  },
+  { "id": "04049", "id_provincia": "04", "name": "Garrucha" },
+  { "id": "04050", "id_provincia": "04", "name": "Gérgal" },
+  { "id": "04051", "id_provincia": "04", "name": "Huécija" },
+  {
+    "id": "04052",
+    "id_provincia": "04",
+    "name": "Huércal de Almería"
+  },
+  {
+    "id": "04053",
+    "id_provincia": "04",
+    "name": "Huércal-Overa"
+  },
+  { "id": "04054", "id_provincia": "04", "name": "Illar" },
+  {
+    "id": "04055",
+    "id_provincia": "04",
+    "name": "Instinción"
+  },
+  { "id": "04056", "id_provincia": "04", "name": "Laroya" },
+  {
+    "id": "04057",
+    "id_provincia": "04",
+    "name": "Láujar de Andarax"
+  },
+  { "id": "04058", "id_provincia": "04", "name": "Líjar" },
+  { "id": "04059", "id_provincia": "04", "name": "Lubrín" },
+  {
+    "id": "04060",
+    "id_provincia": "04",
+    "name": "Lucainena de las Torres"
+  },
+  { "id": "04061", "id_provincia": "04", "name": "Lúcar" },
+  { "id": "04062", "id_provincia": "04", "name": "Macael" },
+  { "id": "04063", "id_provincia": "04", "name": "María" },
+  { "id": "04064", "id_provincia": "04", "name": "Mojácar" },
+  { "id": "04903", "id_provincia": "04", "name": "Mojonera, La" },
+  { "id": "04065", "id_provincia": "04", "name": "Nacimiento" },
+  { "id": "04066", "id_provincia": "04", "name": "Níjar" },
+  { "id": "04067", "id_provincia": "04", "name": "Ohanes" },
+  {
+    "id": "04068",
+    "id_provincia": "04",
+    "name": "Olula de Castro"
+  },
+  {
+    "id": "04069",
+    "id_provincia": "04",
+    "name": "Olula del Río"
+  },
+  { "id": "04070", "id_provincia": "04", "name": "Oria" },
+  { "id": "04071", "id_provincia": "04", "name": "Padules" },
+  { "id": "04072", "id_provincia": "04", "name": "Partaloa" },
+  {
+    "id": "04073",
+    "id_provincia": "04",
+    "name": "Paterna del Río"
+  },
+  { "id": "04074", "id_provincia": "04", "name": "Pechina" },
+  { "id": "04075", "id_provincia": "04", "name": "Pulpí" },
+  { "id": "04076", "id_provincia": "04", "name": "Purchena" },
+  { "id": "04077", "id_provincia": "04", "name": "Rágol" },
+  { "id": "04078", "id_provincia": "04", "name": "Rioja" },
+  {
+    "id": "04079",
+    "id_provincia": "04",
+    "name": "Roquetas de Mar"
+  },
+  {
+    "id": "04080",
+    "id_provincia": "04",
+    "name": "Santa Cruz de Marchena"
+  },
+  {
+    "id": "04081",
+    "id_provincia": "04",
+    "name": "Santa Fe de Mondújar"
+  },
+  { "id": "04082", "id_provincia": "04", "name": "Senés" },
+  { "id": "04083", "id_provincia": "04", "name": "Serón" },
+  { "id": "04084", "id_provincia": "04", "name": "Sierro" },
+  { "id": "04085", "id_provincia": "04", "name": "Somontín" },
+  { "id": "04086", "id_provincia": "04", "name": "Sorbas" },
+  { "id": "04087", "id_provincia": "04", "name": "Suflí" },
+  { "id": "04088", "id_provincia": "04", "name": "Tabernas" },
+  { "id": "04089", "id_provincia": "04", "name": "Taberno" },
+  { "id": "04090", "id_provincia": "04", "name": "Tahal" },
+  { "id": "04091", "id_provincia": "04", "name": "Terque" },
+  { "id": "04092", "id_provincia": "04", "name": "Tíjola" },
+  {
+    "id": "04901",
+    "id_provincia": "04",
+    "name": "Tres Villas, Las"
+  },
+  { "id": "04093", "id_provincia": "04", "name": "Turre" },
+  { "id": "04094", "id_provincia": "04", "name": "Turrillas" },
+  {
+    "id": "04095",
+    "id_provincia": "04",
+    "name": "Uleila del Campo"
+  },
+  { "id": "04096", "id_provincia": "04", "name": "Urrácal" },
+  { "id": "04097", "id_provincia": "04", "name": "Velefique" },
+  {
+    "id": "04098",
+    "id_provincia": "04",
+    "name": "Vélez-Blanco"
+  },
+  {
+    "id": "04099",
+    "id_provincia": "04",
+    "name": "Vélez-Rubio"
+  },
+  { "id": "04100", "id_provincia": "04", "name": "Vera" },
+  { "id": "04101", "id_provincia": "04", "name": "Viator" },
+  { "id": "04102", "id_provincia": "04", "name": "Vícar" },
+  { "id": "04103", "id_provincia": "04", "name": "Zurgena" }
+]

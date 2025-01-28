@@ -1,0 +1,572 @@
+[
+  { "id": "46001", "id_provincia": "46", "name": "Ademuz" },
+  { "id": "46002", "id_provincia": "46", "name": "Ador" },
+  { "id": "46004", "id_provincia": "46", "name": "Agullent" },
+  {
+    "id": "46042",
+    "id_provincia": "46",
+    "name": "Aielo de Malferit"
+  },
+  {
+    "id": "46043",
+    "id_provincia": "46",
+    "name": "Aielo de Rugat"
+  },
+  { "id": "46005", "id_provincia": "46", "name": "Alaqu\u00e0s" },
+  { "id": "46006", "id_provincia": "46", "name": "Albaida" },
+  { "id": "46007", "id_provincia": "46", "name": "Albal" },
+  {
+    "id": "46008",
+    "id_provincia": "46",
+    "name": "Albalat de la Ribera"
+  },
+  {
+    "id": "46009",
+    "id_provincia": "46",
+    "name": "Albalat dels Sorells"
+  },
+  {
+    "id": "46010",
+    "id_provincia": "46",
+    "name": "Albalat dels Tarongers"
+  },
+  { "id": "46011", "id_provincia": "46", "name": "Alberic" },
+  { "id": "46012", "id_provincia": "46", "name": "Alborache" },
+  { "id": "46013", "id_provincia": "46", "name": "Alboraya" },
+  { "id": "46014", "id_provincia": "46", "name": "Albuixech" },
+  {
+    "id": "46016",
+    "id_provincia": "46",
+    "name": "Alc\u00e0ntera de Xúquer"
+  },
+  { "id": "46015", "id_provincia": "46", "name": "Alc\u00e0sser" },
+  { "id": "46018", "id_provincia": "46", "name": "Alcublas" },
+  {
+    "id": "46019",
+    "id_provincia": "46",
+    "name": "Alcúdia, l'"
+  },
+  {
+    "id": "46020",
+    "id_provincia": "46",
+    "name": "Alcúdia de Crespins, l'"
+  },
+  { "id": "46021", "id_provincia": "46", "name": "Aldaia" },
+  { "id": "46022", "id_provincia": "46", "name": "Alfafar" },
+  {
+    "id": "46024",
+    "id_provincia": "46",
+    "name": "Alfara de la Baronia"
+  },
+  {
+    "id": "46025",
+    "id_provincia": "46",
+    "name": "Alfara del Patriarca"
+  },
+  { "id": "46026", "id_provincia": "46", "name": "Alfarp" },
+  { "id": "46027", "id_provincia": "46", "name": "Alfarrasí" },
+  { "id": "46023", "id_provincia": "46", "name": "Alfauir" },
+  {
+    "id": "46028",
+    "id_provincia": "46",
+    "name": "Algar de Palancia"
+  },
+  { "id": "46029", "id_provincia": "46", "name": "Algemesí" },
+  {
+    "id": "46030",
+    "id_provincia": "46",
+    "name": "Algimia de Alfara"
+  },
+  { "id": "46031", "id_provincia": "46", "name": "Alginet" },
+  { "id": "46032", "id_provincia": "46", "name": "Alm\u00e0ssera" },
+  { "id": "46033", "id_provincia": "46", "name": "Almiser\u00e0" },
+  { "id": "46034", "id_provincia": "46", "name": "Almoines" },
+  { "id": "46035", "id_provincia": "46", "name": "Almussafes" },
+  { "id": "46036", "id_provincia": "46", "name": "Alpuente" },
+  {
+    "id": "46037",
+    "id_provincia": "46",
+    "name": "Alqueria de la Comtessa, l'"
+  },
+  { "id": "46017", "id_provincia": "46", "name": "Alzira" },
+  { "id": "46038", "id_provincia": "46", "name": "Andilla" },
+  { "id": "46039", "id_provincia": "46", "name": "Anna" },
+  { "id": "46040", "id_provincia": "46", "name": "Antella" },
+  {
+    "id": "46041",
+    "id_provincia": "46",
+    "name": "Aras de los Olmos"
+  },
+  {
+    "id": "46003",
+    "id_provincia": "46",
+    "name": "Atzeneta d'Albaida"
+  },
+  { "id": "46044", "id_provincia": "46", "name": "Ayora" },
+  { "id": "46046", "id_provincia": "46", "name": "Barx" },
+  { "id": "46045", "id_provincia": "46", "name": "Barxeta" },
+  { "id": "46047", "id_provincia": "46", "name": "B\u00e8lgida" },
+  { "id": "46048", "id_provincia": "46", "name": "Bellreguard" },
+  { "id": "46049", "id_provincia": "46", "name": "Bellús" },
+  { "id": "46050", "id_provincia": "46", "name": "Benagéber" },
+  { "id": "46051", "id_provincia": "46", "name": "Benaguasil" },
+  { "id": "46052", "id_provincia": "46", "name": "Benavites" },
+  { "id": "46053", "id_provincia": "46", "name": "Beneixida" },
+  {
+    "id": "46054",
+    "id_provincia": "46",
+    "name": "Benetússer"
+  },
+  { "id": "46055", "id_provincia": "46", "name": "Beniarjó" },
+  { "id": "46056", "id_provincia": "46", "name": "Beniatjar" },
+  { "id": "46057", "id_provincia": "46", "name": "Benicolet" },
+  {
+    "id": "46904",
+    "id_provincia": "46",
+    "name": "Benicull de Xúquer"
+  },
+  { "id": "46060", "id_provincia": "46", "name": "Benifaió" },
+  {
+    "id": "46059",
+    "id_provincia": "46",
+    "name": "Benifairó de la Valldigna"
+  },
+  {
+    "id": "46058",
+    "id_provincia": "46",
+    "name": "Benifairó de les Valls"
+  },
+  { "id": "46061", "id_provincia": "46", "name": "Beniflá" },
+  { "id": "46062", "id_provincia": "46", "name": "Benig\u00e0nim" },
+  { "id": "46063", "id_provincia": "46", "name": "Benimodo" },
+  { "id": "46064", "id_provincia": "46", "name": "Benimuslem" },
+  { "id": "46065", "id_provincia": "46", "name": "Beniparrell" },
+  {
+    "id": "46066",
+    "id_provincia": "46",
+    "name": "Benirredr\u00e0"
+  },
+  { "id": "46067", "id_provincia": "46", "name": "Benisanó" },
+  { "id": "46068", "id_provincia": "46", "name": "Benissoda" },
+  { "id": "46069", "id_provincia": "46", "name": "Benisuera" },
+  { "id": "46070", "id_provincia": "46", "name": "Bétera" },
+  { "id": "46071", "id_provincia": "46", "name": "Bicorp" },
+  { "id": "46072", "id_provincia": "46", "name": "Bocairent" },
+  { "id": "46073", "id_provincia": "46", "name": "Bolbaite" },
+  {
+    "id": "46074",
+    "id_provincia": "46",
+    "name": "Bonrep\u00f2s i Mirambell"
+  },
+  { "id": "46075", "id_provincia": "46", "name": "Bufali" },
+  { "id": "46076", "id_provincia": "46", "name": "Bugarra" },
+  { "id": "46077", "id_provincia": "46", "name": "Buñol" },
+  { "id": "46078", "id_provincia": "46", "name": "Burjassot" },
+  { "id": "46079", "id_provincia": "46", "name": "Calles" },
+  {
+    "id": "46080",
+    "id_provincia": "46",
+    "name": "Camporrobles"
+  },
+  { "id": "46081", "id_provincia": "46", "name": "Canals" },
+  {
+    "id": "46082",
+    "id_provincia": "46",
+    "name": "Canet d'En Berenguer"
+  },
+  { "id": "46083", "id_provincia": "46", "name": "Carcaixent" },
+  { "id": "46084", "id_provincia": "46", "name": "C\u00e0rcer" },
+  { "id": "46085", "id_provincia": "46", "name": "Carlet" },
+  { "id": "46086", "id_provincia": "46", "name": "Carrícola" },
+  { "id": "46087", "id_provincia": "46", "name": "Casas Altas" },
+  { "id": "46088", "id_provincia": "46", "name": "Casas Bajas" },
+  { "id": "46089", "id_provincia": "46", "name": "Casinos" },
+  {
+    "id": "46090",
+    "id_provincia": "46",
+    "name": "Castelló de Rugat"
+  },
+  {
+    "id": "46091",
+    "id_provincia": "46",
+    "name": "Castellonet de la Conquesta"
+  },
+  {
+    "id": "46092",
+    "id_provincia": "46",
+    "name": "Castielfabib"
+  },
+  { "id": "46093", "id_provincia": "46", "name": "Catadau" },
+  { "id": "46094", "id_provincia": "46", "name": "Catarroja" },
+  {
+    "id": "46095",
+    "id_provincia": "46",
+    "name": "Caudete de las Fuentes"
+  },
+  { "id": "46096", "id_provincia": "46", "name": "Cerd\u00e0" },
+  { "id": "46107", "id_provincia": "46", "name": "Chella" },
+  { "id": "46106", "id_provincia": "46", "name": "Chelva" },
+  { "id": "46108", "id_provincia": "46", "name": "Chera" },
+  { "id": "46109", "id_provincia": "46", "name": "Cheste" },
+  { "id": "46111", "id_provincia": "46", "name": "Chiva" },
+  { "id": "46112", "id_provincia": "46", "name": "Chulilla" },
+  { "id": "46097", "id_provincia": "46", "name": "Cofrentes" },
+  { "id": "46098", "id_provincia": "46", "name": "Corbera" },
+  {
+    "id": "46099",
+    "id_provincia": "46",
+    "name": "Cortes de Pallás"
+  },
+  { "id": "46100", "id_provincia": "46", "name": "Cotes" },
+  { "id": "46105", "id_provincia": "46", "name": "Cullera" },
+  { "id": "46113", "id_provincia": "46", "name": "Daimús" },
+  { "id": "46114", "id_provincia": "46", "name": "Domeño" },
+  { "id": "46115", "id_provincia": "46", "name": "Dos Aguas" },
+  { "id": "46116", "id_provincia": "46", "name": "Eliana, l'" },
+  { "id": "46117", "id_provincia": "46", "name": "Emperador" },
+  { "id": "46118", "id_provincia": "46", "name": "Enguera" },
+  { "id": "46119", "id_provincia": "46", "name": "\u00c8nova, l'" },
+  { "id": "46120", "id_provincia": "46", "name": "Estivella" },
+  { "id": "46121", "id_provincia": "46", "name": "Estubeny" },
+  { "id": "46122", "id_provincia": "46", "name": "Faura" },
+  { "id": "46123", "id_provincia": "46", "name": "Favara" },
+  { "id": "46126", "id_provincia": "46", "name": "Foios" },
+  {
+    "id": "46124",
+    "id_provincia": "46",
+    "name": "Fontanars dels Alforins"
+  },
+  {
+    "id": "46127",
+    "id_provincia": "46",
+    "name": "Font d'En Carr\u00f2s, la"
+  },
+  {
+    "id": "46128",
+    "id_provincia": "46",
+    "name": "Font de la Figuera, la"
+  },
+  { "id": "46125", "id_provincia": "46", "name": "Fortaleny" },
+  {
+    "id": "46129",
+    "id_provincia": "46",
+    "name": "Fuenterrobles"
+  },
+  { "id": "46131", "id_provincia": "46", "name": "Gandia" },
+  { "id": "46902", "id_provincia": "46", "name": "Gátova" },
+  { "id": "46130", "id_provincia": "46", "name": "Gavarda" },
+  { "id": "46132", "id_provincia": "46", "name": "Genovés" },
+  { "id": "46133", "id_provincia": "46", "name": "Gestalgar" },
+  { "id": "46134", "id_provincia": "46", "name": "Gilet" },
+  { "id": "46135", "id_provincia": "46", "name": "Godella" },
+  { "id": "46136", "id_provincia": "46", "name": "Godelleta" },
+  {
+    "id": "46137",
+    "id_provincia": "46",
+    "name": "Granja de la Costera, la"
+  },
+  {
+    "id": "46138",
+    "id_provincia": "46",
+    "name": "Guadasséquies"
+  },
+  { "id": "46139", "id_provincia": "46", "name": "Guadassuar" },
+  {
+    "id": "46140",
+    "id_provincia": "46",
+    "name": "Guardamar de la Safor"
+  },
+  { "id": "46141", "id_provincia": "46", "name": "Higueruelas" },
+  { "id": "46142", "id_provincia": "46", "name": "Jalance" },
+  { "id": "46144", "id_provincia": "46", "name": "Jarafuel" },
+  {
+    "id": "46154",
+    "id_provincia": "46",
+    "name": "Llanera de Ranes"
+  },
+  { "id": "46155", "id_provincia": "46", "name": "Llaurí" },
+  { "id": "46147", "id_provincia": "46", "name": "Llíria" },
+  {
+    "id": "46151",
+    "id_provincia": "46",
+    "name": "Llocnou d'En Fenollet"
+  },
+  {
+    "id": "46152",
+    "id_provincia": "46",
+    "name": "Llocnou de la Corona"
+  },
+  {
+    "id": "46153",
+    "id_provincia": "46",
+    "name": "Llocnou de Sant Jeroni"
+  },
+  { "id": "46156", "id_provincia": "46", "name": "Llombai" },
+  {
+    "id": "46157",
+    "id_provincia": "46",
+    "name": "Llosa de Ranes, la"
+  },
+  { "id": "46150", "id_provincia": "46", "name": "Llutxent" },
+  { "id": "46148", "id_provincia": "46", "name": "Loriguilla" },
+  {
+    "id": "46149",
+    "id_provincia": "46",
+    "name": "Losa del Obispo"
+  },
+  { "id": "46158", "id_provincia": "46", "name": "Macastre" },
+  { "id": "46159", "id_provincia": "46", "name": "Manises" },
+  { "id": "46160", "id_provincia": "46", "name": "Manuel" },
+  { "id": "46161", "id_provincia": "46", "name": "Marines" },
+  {
+    "id": "46162",
+    "id_provincia": "46",
+    "name": "Massalavés"
+  },
+  {
+    "id": "46163",
+    "id_provincia": "46",
+    "name": "Massalfassar"
+  },
+  {
+    "id": "46164",
+    "id_provincia": "46",
+    "name": "Massamagrell"
+  },
+  { "id": "46165", "id_provincia": "46", "name": "Massanassa" },
+  { "id": "46166", "id_provincia": "46", "name": "Meliana" },
+  { "id": "46167", "id_provincia": "46", "name": "Millares" },
+  { "id": "46168", "id_provincia": "46", "name": "Miramar" },
+  { "id": "46169", "id_provincia": "46", "name": "Mislata" },
+  {
+    "id": "46170",
+    "id_provincia": "46",
+    "name": "Mogente/Moixent"
+  },
+  { "id": "46171", "id_provincia": "46", "name": "Moncada" },
+  { "id": "46173", "id_provincia": "46", "name": "Montaverner" },
+  { "id": "46174", "id_provincia": "46", "name": "Montesa" },
+  {
+    "id": "46175",
+    "id_provincia": "46",
+    "name": "Montitxelvo/Montichelvo"
+  },
+  {
+    "id": "46176",
+    "id_provincia": "46",
+    "name": "Montroi/Montroy"
+  },
+  { "id": "46172", "id_provincia": "46", "name": "Montserrat" },
+  { "id": "46177", "id_provincia": "46", "name": "Museros" },
+  { "id": "46178", "id_provincia": "46", "name": "Náquera" },
+  { "id": "46179", "id_provincia": "46", "name": "Navarrés" },
+  {
+    "id": "46180",
+    "id_provincia": "46",
+    "name": "Novelé/Novetl\u00e8"
+  },
+  { "id": "46181", "id_provincia": "46", "name": "Oliva" },
+  { "id": "46183", "id_provincia": "46", "name": "Olleria, l'" },
+  { "id": "46182", "id_provincia": "46", "name": "Olocau" },
+  { "id": "46184", "id_provincia": "46", "name": "Ontinyent" },
+  { "id": "46185", "id_provincia": "46", "name": "Otos" },
+  { "id": "46186", "id_provincia": "46", "name": "Paiporta" },
+  {
+    "id": "46187",
+    "id_provincia": "46",
+    "name": "Palma de Gandía"
+  },
+  { "id": "46188", "id_provincia": "46", "name": "Palmera" },
+  { "id": "46189", "id_provincia": "46", "name": "Palomar, el" },
+  { "id": "46190", "id_provincia": "46", "name": "Paterna" },
+  { "id": "46191", "id_provincia": "46", "name": "Pedralba" },
+  { "id": "46192", "id_provincia": "46", "name": "Petrés" },
+  { "id": "46193", "id_provincia": "46", "name": "Picanya" },
+  { "id": "46194", "id_provincia": "46", "name": "Picassent" },
+  { "id": "46195", "id_provincia": "46", "name": "Piles" },
+  { "id": "46196", "id_provincia": "46", "name": "Pinet" },
+  {
+    "id": "46199",
+    "id_provincia": "46",
+    "name": "Pobla de Farnals, la"
+  },
+  {
+    "id": "46200",
+    "id_provincia": "46",
+    "name": "Pobla del Duc, la"
+  },
+  {
+    "id": "46202",
+    "id_provincia": "46",
+    "name": "Pobla de Vallbona, la"
+  },
+  {
+    "id": "46203",
+    "id_provincia": "46",
+    "name": "Pobla Llarga, la"
+  },
+  {
+    "id": "46197",
+    "id_provincia": "46",
+    "name": "Poliny\u00e0 de Xúquer"
+  },
+  { "id": "46198", "id_provincia": "46", "name": "Potries" },
+  { "id": "46205", "id_provincia": "46", "name": "Pu\u00e7ol" },
+  {
+    "id": "46201",
+    "id_provincia": "46",
+    "name": "Puebla de San Miguel"
+  },
+  {
+    "id": "46204",
+    "id_provincia": "46",
+    "name": "Puig de Santa María, el"
+  },
+  {
+    "id": "46101",
+    "id_provincia": "46",
+    "name": "Quart de les Valls"
+  },
+  {
+    "id": "46102",
+    "id_provincia": "46",
+    "name": "Quart de Poblet"
+  },
+  { "id": "46103", "id_provincia": "46", "name": "Quartell" },
+  { "id": "46104", "id_provincia": "46", "name": "Quatretonda" },
+  { "id": "46206", "id_provincia": "46", "name": "Quesa" },
+  { "id": "46207", "id_provincia": "46", "name": "Rafelbunyol" },
+  { "id": "46208", "id_provincia": "46", "name": "Rafelcofer" },
+  { "id": "46209", "id_provincia": "46", "name": "Rafelguaraf" },
+  {
+    "id": "46210",
+    "id_provincia": "46",
+    "name": "Ráfol de Salem"
+  },
+  { "id": "46212", "id_provincia": "46", "name": "Real" },
+  {
+    "id": "46211",
+    "id_provincia": "46",
+    "name": "Real de Gandía"
+  },
+  { "id": "46213", "id_provincia": "46", "name": "Requena" },
+  {
+    "id": "46214",
+    "id_provincia": "46",
+    "name": "Riba-roja de Túria"
+  },
+  { "id": "46215", "id_provincia": "46", "name": "Riola" },
+  { "id": "46216", "id_provincia": "46", "name": "Rocafort" },
+  {
+    "id": "46217",
+    "id_provincia": "46",
+    "name": "Rotgl\u00e0 i Corber\u00e0"
+  },
+  { "id": "46218", "id_provincia": "46", "name": "Rótova" },
+  { "id": "46219", "id_provincia": "46", "name": "Rugat" },
+  {
+    "id": "46220",
+    "id_provincia": "46",
+    "name": "Sagunto/Sagunt"
+  },
+  { "id": "46221", "id_provincia": "46", "name": "Salem" },
+  {
+    "id": "46903",
+    "id_provincia": "46",
+    "name": "San Antonio de Benagéber"
+  },
+  { "id": "46222", "id_provincia": "46", "name": "Sant Joanet" },
+  { "id": "46223", "id_provincia": "46", "name": "Sedaví" },
+  { "id": "46224", "id_provincia": "46", "name": "Segart" },
+  { "id": "46225", "id_provincia": "46", "name": "Sellent" },
+  { "id": "46226", "id_provincia": "46", "name": "Sempere" },
+  { "id": "46227", "id_provincia": "46", "name": "Senyera" },
+  { "id": "46228", "id_provincia": "46", "name": "Serra" },
+  { "id": "46229", "id_provincia": "46", "name": "Siete Aguas" },
+  { "id": "46230", "id_provincia": "46", "name": "Silla" },
+  {
+    "id": "46231",
+    "id_provincia": "46",
+    "name": "Simat de la Valldigna"
+  },
+  { "id": "46232", "id_provincia": "46", "name": "Sinarcas" },
+  { "id": "46233", "id_provincia": "46", "name": "Sollana" },
+  {
+    "id": "46234",
+    "id_provincia": "46",
+    "name": "Sot de Chera"
+  },
+  { "id": "46235", "id_provincia": "46", "name": "Sueca" },
+  {
+    "id": "46236",
+    "id_provincia": "46",
+    "name": "Sumac\u00e0rcer"
+  },
+  {
+    "id": "46237",
+    "id_provincia": "46",
+    "name": "Tavernes Blanques"
+  },
+  {
+    "id": "46238",
+    "id_provincia": "46",
+    "name": "Tavernes de la Valldigna"
+  },
+  {
+    "id": "46239",
+    "id_provincia": "46",
+    "name": "Teresa de Cofrentes"
+  },
+  { "id": "46240", "id_provincia": "46", "name": "Terrateig" },
+  { "id": "46241", "id_provincia": "46", "name": "Titaguas" },
+  { "id": "46242", "id_provincia": "46", "name": "Torrebaja" },
+  { "id": "46243", "id_provincia": "46", "name": "Torrella" },
+  { "id": "46244", "id_provincia": "46", "name": "Torrent" },
+  {
+    "id": "46245",
+    "id_provincia": "46",
+    "name": "Torres Torres"
+  },
+  { "id": "46246", "id_provincia": "46", "name": "Tous" },
+  { "id": "46247", "id_provincia": "46", "name": "Tuéjar" },
+  { "id": "46248", "id_provincia": "46", "name": "Turís" },
+  { "id": "46249", "id_provincia": "46", "name": "Utiel" },
+  { "id": "46250", "id_provincia": "46", "name": "Valencia" },
+  { "id": "46251", "id_provincia": "46", "name": "Vallada" },
+  { "id": "46252", "id_provincia": "46", "name": "Vallanca" },
+  { "id": "46253", "id_provincia": "46", "name": "Vallés" },
+  {
+    "id": "46254",
+    "id_provincia": "46",
+    "name": "Venta del Moro"
+  },
+  {
+    "id": "46255",
+    "id_provincia": "46",
+    "name": "Vilallonga/Villalonga"
+  },
+  { "id": "46256", "id_provincia": "46", "name": "Vilamarxant" },
+  {
+    "id": "46257",
+    "id_provincia": "46",
+    "name": "Villanueva de Castellón"
+  },
+  {
+    "id": "46258",
+    "id_provincia": "46",
+    "name": "Villar del Arzobispo"
+  },
+  {
+    "id": "46259",
+    "id_provincia": "46",
+    "name": "Villargordo del Cabriel"
+  },
+  { "id": "46260", "id_provincia": "46", "name": "Vinalesa" },
+  { "id": "46145", "id_provincia": "46", "name": "X\u00e0tiva" },
+  { "id": "46143", "id_provincia": "46", "name": "Xeraco" },
+  { "id": "46146", "id_provincia": "46", "name": "Xeresa" },
+  { "id": "46110", "id_provincia": "46", "name": "Xirivella" },
+  { "id": "46261", "id_provincia": "46", "name": "Yátova" },
+  { "id": "46262", "id_provincia": "46", "name": "Yesa, La" },
+  { "id": "46263", "id_provincia": "46", "name": "Zarra" }
+]

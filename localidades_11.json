@@ -1,0 +1,138 @@
+[
+  {
+    "id": "11001",
+    "id_provincia": "11",
+    "name": "Alcalá de los Gazules"
+  },
+  {
+    "id": "11002",
+    "id_provincia": "11",
+    "name": "Alcalá del Valle"
+  },
+  { "id": "11003", "id_provincia": "11", "name": "Algar" },
+  { "id": "11004", "id_provincia": "11", "name": "Algeciras" },
+  { "id": "11005", "id_provincia": "11", "name": "Algodonales" },
+  {
+    "id": "11006",
+    "id_provincia": "11",
+    "name": "Arcos de la Frontera"
+  },
+  { "id": "11007", "id_provincia": "11", "name": "Barbate" },
+  { "id": "11008", "id_provincia": "11", "name": "Barrios, Los" },
+  {
+    "id": "11901",
+    "id_provincia": "11",
+    "name": "Benalup-Casas Viejas"
+  },
+  { "id": "11009", "id_provincia": "11", "name": "Benaocaz" },
+  { "id": "11010", "id_provincia": "11", "name": "Bornos" },
+  { "id": "11011", "id_provincia": "11", "name": "Bosque, El" },
+  { "id": "11012", "id_provincia": "11", "name": "Cádiz" },
+  {
+    "id": "11013",
+    "id_provincia": "11",
+    "name": "Castellar de la Frontera"
+  },
+  {
+    "id": "11015",
+    "id_provincia": "11",
+    "name": "Chiclana de la Frontera"
+  },
+  { "id": "11016", "id_provincia": "11", "name": "Chipiona" },
+  {
+    "id": "11014",
+    "id_provincia": "11",
+    "name": "Conil de la Frontera"
+  },
+  { "id": "11017", "id_provincia": "11", "name": "Espera" },
+  { "id": "11018", "id_provincia": "11", "name": "Gastor, El" },
+  { "id": "11019", "id_provincia": "11", "name": "Grazalema" },
+  {
+    "id": "11020",
+    "id_provincia": "11",
+    "name": "Jerez de la Frontera"
+  },
+  {
+    "id": "11021",
+    "id_provincia": "11",
+    "name": "Jimena de la Frontera"
+  },
+  {
+    "id": "11022",
+    "id_provincia": "11",
+    "name": "Línea de la Concepción, La"
+  },
+  {
+    "id": "11023",
+    "id_provincia": "11",
+    "name": "Medina-Sidonia"
+  },
+  { "id": "11024", "id_provincia": "11", "name": "Olvera" },
+  {
+    "id": "11025",
+    "id_provincia": "11",
+    "name": "Paterna de Rivera"
+  },
+  {
+    "id": "11026",
+    "id_provincia": "11",
+    "name": "Prado del Rey"
+  },
+  {
+    "id": "11027",
+    "id_provincia": "11",
+    "name": "Puerto de Santa María, El"
+  },
+  { "id": "11028", "id_provincia": "11", "name": "Puerto Real" },
+  {
+    "id": "11029",
+    "id_provincia": "11",
+    "name": "Puerto Serrano"
+  },
+  { "id": "11030", "id_provincia": "11", "name": "Rota" },
+  {
+    "id": "11031",
+    "id_provincia": "11",
+    "name": "San Fernando"
+  },
+  {
+    "id": "11902",
+    "id_provincia": "11",
+    "name": "San José del Valle"
+  },
+  {
+    "id": "11032",
+    "id_provincia": "11",
+    "name": "Sanlúcar de Barrameda"
+  },
+  { "id": "11033", "id_provincia": "11", "name": "San Roque" },
+  {
+    "id": "11034",
+    "id_provincia": "11",
+    "name": "Setenil de las Bodegas"
+  },
+  { "id": "11035", "id_provincia": "11", "name": "Tarifa" },
+  {
+    "id": "11036",
+    "id_provincia": "11",
+    "name": "Torre Alháquime"
+  },
+  { "id": "11037", "id_provincia": "11", "name": "Trebujena" },
+  { "id": "11038", "id_provincia": "11", "name": "Ubrique" },
+  {
+    "id": "11039",
+    "id_provincia": "11",
+    "name": "Vejer de la Frontera"
+  },
+  {
+    "id": "11040",
+    "id_provincia": "11",
+    "name": "Villaluenga del Rosario"
+  },
+  {
+    "id": "11041",
+    "id_provincia": "11",
+    "name": "Villamartín"
+  },
+  { "id": "11042", "id_provincia": "11", "name": "Zahara" }
+]

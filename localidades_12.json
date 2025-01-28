@@ -1,0 +1,357 @@
+[
+  { "id": "12002", "id_provincia": "12", "name": "Aín" },
+  {
+    "id": "12003",
+    "id_provincia": "12",
+    "name": "Alboc\u00e0sser"
+  },
+  {
+    "id": "12004",
+    "id_provincia": "12",
+    "name": "Alcal\u00e0 de Xivert"
+  },
+  { "id": "12005", "id_provincia": "12", "name": "Alcora, l'" },
+  {
+    "id": "12006",
+    "id_provincia": "12",
+    "name": "Alcudia de Veo"
+  },
+  {
+    "id": "12007",
+    "id_provincia": "12",
+    "name": "Alfondeguilla"
+  },
+  {
+    "id": "12008",
+    "id_provincia": "12",
+    "name": "Algimia de Almonacid"
+  },
+  {
+    "id": "12009",
+    "id_provincia": "12",
+    "name": "Almazora/Almassora"
+  },
+  { "id": "12010", "id_provincia": "12", "name": "Almedíjar" },
+  { "id": "12011", "id_provincia": "12", "name": "Almenara" },
+  {
+    "id": "12901",
+    "id_provincia": "12",
+    "name": "Alqueries, les/Alquerías del Niño Perdido"
+  },
+  { "id": "12012", "id_provincia": "12", "name": "Altura" },
+  { "id": "12013", "id_provincia": "12", "name": "Arañuel" },
+  {
+    "id": "12014",
+    "id_provincia": "12",
+    "name": "Ares del Maestrat"
+  },
+  { "id": "12015", "id_provincia": "12", "name": "Argelita" },
+  { "id": "12016", "id_provincia": "12", "name": "Artana" },
+  {
+    "id": "12001",
+    "id_provincia": "12",
+    "name": "Atzeneta del Maestrat"
+  },
+  { "id": "12017", "id_provincia": "12", "name": "Ayódar" },
+  { "id": "12018", "id_provincia": "12", "name": "Azuébar" },
+  { "id": "12020", "id_provincia": "12", "name": "Barracas" },
+  { "id": "12022", "id_provincia": "12", "name": "Bejís" },
+  { "id": "12024", "id_provincia": "12", "name": "Benafer" },
+  { "id": "12025", "id_provincia": "12", "name": "Benafigos" },
+  { "id": "12026", "id_provincia": "12", "name": "Benasal" },
+  { "id": "12027", "id_provincia": "12", "name": "Benicarló" },
+  {
+    "id": "12028",
+    "id_provincia": "12",
+    "name": "Benicasim/Benic\u00e0ssim"
+  },
+  { "id": "12029", "id_provincia": "12", "name": "Benlloch" },
+  { "id": "12021", "id_provincia": "12", "name": "Betxí" },
+  {
+    "id": "12032",
+    "id_provincia": "12",
+    "name": "Borriana/Burriana"
+  },
+  { "id": "12031", "id_provincia": "12", "name": "Borriol" },
+  { "id": "12033", "id_provincia": "12", "name": "Cabanes" },
+  { "id": "12034", "id_provincia": "12", "name": "C\u00e0lig" },
+  {
+    "id": "12036",
+    "id_provincia": "12",
+    "name": "Canet lo Roig"
+  },
+  {
+    "id": "12037",
+    "id_provincia": "12",
+    "name": "Castell de Cabres"
+  },
+  { "id": "12038", "id_provincia": "12", "name": "Castellfort" },
+  { "id": "12039", "id_provincia": "12", "name": "Castellnovo" },
+  {
+    "id": "12040",
+    "id_provincia": "12",
+    "name": "Castellón de la Plana/Castelló de la Plana"
+  },
+  {
+    "id": "12041",
+    "id_provincia": "12",
+    "name": "Castillo de Villamalefa"
+  },
+  { "id": "12042", "id_provincia": "12", "name": "Catí" },
+  { "id": "12043", "id_provincia": "12", "name": "Caudiel" },
+  {
+    "id": "12044",
+    "id_provincia": "12",
+    "name": "Cervera del Maestre"
+  },
+  {
+    "id": "12053",
+    "id_provincia": "12",
+    "name": "Chilches/Xilxes"
+  },
+  {
+    "id": "12055",
+    "id_provincia": "12",
+    "name": "Chodos/Xodos"
+  },
+  { "id": "12056", "id_provincia": "12", "name": "Chóvar" },
+  { "id": "12045", "id_provincia": "12", "name": "Cinctorres" },
+  { "id": "12046", "id_provincia": "12", "name": "Cirat" },
+  {
+    "id": "12048",
+    "id_provincia": "12",
+    "name": "Cortes de Arenoso"
+  },
+  { "id": "12049", "id_provincia": "12", "name": "Costur" },
+  {
+    "id": "12050",
+    "id_provincia": "12",
+    "name": "Coves de Vinrom\u00e0, les"
+  },
+  { "id": "12051", "id_provincia": "12", "name": "Culla" },
+  { "id": "12057", "id_provincia": "12", "name": "Eslida" },
+  { "id": "12058", "id_provincia": "12", "name": "Espadilla" },
+  { "id": "12059", "id_provincia": "12", "name": "Fanzara" },
+  { "id": "12060", "id_provincia": "12", "name": "Figueroles" },
+  { "id": "12061", "id_provincia": "12", "name": "Forcall" },
+  {
+    "id": "12063",
+    "id_provincia": "12",
+    "name": "Fuente la Reina"
+  },
+  {
+    "id": "12064",
+    "id_provincia": "12",
+    "name": "Fuentes de Ayódar"
+  },
+  { "id": "12065", "id_provincia": "12", "name": "Gaibiel" },
+  { "id": "12067", "id_provincia": "12", "name": "Geldo" },
+  { "id": "12068", "id_provincia": "12", "name": "Herbés" },
+  { "id": "12069", "id_provincia": "12", "name": "Higueras" },
+  { "id": "12070", "id_provincia": "12", "name": "Jana, la" },
+  { "id": "12071", "id_provincia": "12", "name": "Jérica" },
+  { "id": "12074", "id_provincia": "12", "name": "Llosa, la" },
+  {
+    "id": "12072",
+    "id_provincia": "12",
+    "name": "Lucena del Cid"
+  },
+  { "id": "12073", "id_provincia": "12", "name": "Ludiente" },
+  {
+    "id": "12075",
+    "id_provincia": "12",
+    "name": "Mata de Morella, la"
+  },
+  { "id": "12076", "id_provincia": "12", "name": "Matet" },
+  { "id": "12077", "id_provincia": "12", "name": "Moncofa" },
+  { "id": "12078", "id_provincia": "12", "name": "Montán" },
+  { "id": "12079", "id_provincia": "12", "name": "Montanejos" },
+  { "id": "12080", "id_provincia": "12", "name": "Morella" },
+  { "id": "12081", "id_provincia": "12", "name": "Navajas" },
+  { "id": "12082", "id_provincia": "12", "name": "Nules" },
+  {
+    "id": "12083",
+    "id_provincia": "12",
+    "name": "Olocau del Rey"
+  },
+  { "id": "12084", "id_provincia": "12", "name": "Onda" },
+  {
+    "id": "12085",
+    "id_provincia": "12",
+    "name": "Oropesa del Mar/Orpesa"
+  },
+  { "id": "12087", "id_provincia": "12", "name": "Palanques" },
+  { "id": "12088", "id_provincia": "12", "name": "Pavías" },
+  {
+    "id": "12089",
+    "id_provincia": "12",
+    "name": "Peníscola/Peñíscola"
+  },
+  {
+    "id": "12090",
+    "id_provincia": "12",
+    "name": "Pina de Montalgrao"
+  },
+  {
+    "id": "12093",
+    "id_provincia": "12",
+    "name": "Pobla de Benifass\u00e0, la"
+  },
+  {
+    "id": "12094",
+    "id_provincia": "12",
+    "name": "Pobla Tornesa, la"
+  },
+  {
+    "id": "12091",
+    "id_provincia": "12",
+    "name": "Portell de Morella"
+  },
+  {
+    "id": "12092",
+    "id_provincia": "12",
+    "name": "Puebla de Arenoso"
+  },
+  { "id": "12095", "id_provincia": "12", "name": "Ribesalbes" },
+  { "id": "12096", "id_provincia": "12", "name": "Rossell" },
+  { "id": "12097", "id_provincia": "12", "name": "Sacañet" },
+  {
+    "id": "12098",
+    "id_provincia": "12",
+    "name": "Salzadella, la"
+  },
+  {
+    "id": "12101",
+    "id_provincia": "12",
+    "name": "San Rafael del Río"
+  },
+  {
+    "id": "12102",
+    "id_provincia": "12",
+    "name": "Santa Magdalena de Pulpis"
+  },
+  {
+    "id": "12902",
+    "id_provincia": "12",
+    "name": "Sant Joan de Moró"
+  },
+  {
+    "id": "12099",
+    "id_provincia": "12",
+    "name": "Sant Jordi/San Jorge"
+  },
+  { "id": "12100", "id_provincia": "12", "name": "Sant Mateu" },
+  { "id": "12104", "id_provincia": "12", "name": "Segorbe" },
+  {
+    "id": "12103",
+    "id_provincia": "12",
+    "name": "Serratella, la"
+  },
+  {
+    "id": "12105",
+    "id_provincia": "12",
+    "name": "Sierra Engarcerán"
+  },
+  { "id": "12106", "id_provincia": "12", "name": "Soneja" },
+  {
+    "id": "12107",
+    "id_provincia": "12",
+    "name": "Sot de Ferrer"
+  },
+  {
+    "id": "12108",
+    "id_provincia": "12",
+    "name": "Sueras/Suera"
+  },
+  { "id": "12109", "id_provincia": "12", "name": "Tales" },
+  { "id": "12110", "id_provincia": "12", "name": "Teresa" },
+  { "id": "12111", "id_provincia": "12", "name": "Tírig" },
+  { "id": "12112", "id_provincia": "12", "name": "Todolella" },
+  { "id": "12113", "id_provincia": "12", "name": "Toga" },
+  { "id": "12114", "id_provincia": "12", "name": "Torás" },
+  { "id": "12115", "id_provincia": "12", "name": "Toro, El" },
+  {
+    "id": "12116",
+    "id_provincia": "12",
+    "name": "Torralba del Pinar"
+  },
+  { "id": "12117", "id_provincia": "12", "name": "Torreblanca" },
+  { "id": "12118", "id_provincia": "12", "name": "Torrechiva" },
+  {
+    "id": "12119",
+    "id_provincia": "12",
+    "name": "Torre d'En Besora, la"
+  },
+  {
+    "id": "12120",
+    "id_provincia": "12",
+    "name": "Torre d'en Doménec, la"
+  },
+  { "id": "12121", "id_provincia": "12", "name": "Traiguera" },
+  {
+    "id": "12122",
+    "id_provincia": "12",
+    "name": "Useras/Useres, les"
+  },
+  { "id": "12123", "id_provincia": "12", "name": "Vallat" },
+  { "id": "12124", "id_provincia": "12", "name": "Vall d'Alba" },
+  {
+    "id": "12126",
+    "id_provincia": "12",
+    "name": "Vall d'Uixó, la"
+  },
+  {
+    "id": "12125",
+    "id_provincia": "12",
+    "name": "Vall de Almonacid"
+  },
+  { "id": "12127", "id_provincia": "12", "name": "Vallibona" },
+  { "id": "12128", "id_provincia": "12", "name": "Vilafamés" },
+  {
+    "id": "12132",
+    "id_provincia": "12",
+    "name": "Vilanova d'Alcolea"
+  },
+  {
+    "id": "12134",
+    "id_provincia": "12",
+    "name": "Vilar de Canes"
+  },
+  { "id": "12135", "id_provincia": "12", "name": "Vila-real" },
+  {
+    "id": "12136",
+    "id_provincia": "12",
+    "name": "Vilavella, la"
+  },
+  {
+    "id": "12129",
+    "id_provincia": "12",
+    "name": "Villafranca del Cid/Vilafranca"
+  },
+  {
+    "id": "12130",
+    "id_provincia": "12",
+    "name": "Villahermosa del Río"
+  },
+  { "id": "12131", "id_provincia": "12", "name": "Villamalur" },
+  {
+    "id": "12133",
+    "id_provincia": "12",
+    "name": "Villanueva de Viver"
+  },
+  { "id": "12137", "id_provincia": "12", "name": "Villores" },
+  { "id": "12138", "id_provincia": "12", "name": "Vinar\u00f2s" },
+  {
+    "id": "12139",
+    "id_provincia": "12",
+    "name": "Vistabella del Maestrat"
+  },
+  { "id": "12140", "id_provincia": "12", "name": "Viver" },
+  { "id": "12052", "id_provincia": "12", "name": "Xert" },
+  {
+    "id": "12141",
+    "id_provincia": "12",
+    "name": "Zorita del Maestrazgo"
+  },
+  { "id": "12142", "id_provincia": "12", "name": "Zucaina" }
+]

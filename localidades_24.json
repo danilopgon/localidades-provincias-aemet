@@ -1,0 +1,757 @@
+[
+  { "id": "24001", "id_provincia": "24", "name": "Acebedo" },
+  { "id": "24002", "id_provincia": "24", "name": "Algadefe" },
+  {
+    "id": "24003",
+    "id_provincia": "24",
+    "name": "Alija del Infantado"
+  },
+  { "id": "24004", "id_provincia": "24", "name": "Almanza" },
+  { "id": "24005", "id_provincia": "24", "name": "Antigua, La" },
+  { "id": "24006", "id_provincia": "24", "name": "Ardón" },
+  { "id": "24007", "id_provincia": "24", "name": "Arganza" },
+  { "id": "24008", "id_provincia": "24", "name": "Astorga" },
+  { "id": "24009", "id_provincia": "24", "name": "Balboa" },
+  {
+    "id": "24010",
+    "id_provincia": "24",
+    "name": "Bañeza, La"
+  },
+  { "id": "24011", "id_provincia": "24", "name": "Barjas" },
+  {
+    "id": "24012",
+    "id_provincia": "24",
+    "name": "Barrios de Luna, Los"
+  },
+  { "id": "24014", "id_provincia": "24", "name": "Bembibre" },
+  {
+    "id": "24015",
+    "id_provincia": "24",
+    "name": "Benavides"
+  },
+  { "id": "24016", "id_provincia": "24", "name": "Benuza" },
+  {
+    "id": "24017",
+    "id_provincia": "24",
+    "name": "Bercianos del Páramo"
+  },
+  {
+    "id": "24018",
+    "id_provincia": "24",
+    "name": "Bercianos del Real Camino"
+  },
+  {
+    "id": "24019",
+    "id_provincia": "24",
+    "name": "Berlanga del Bierzo"
+  },
+  {
+    "id": "24020",
+    "id_provincia": "24",
+    "name": "Boca de Huérgano"
+  },
+  { "id": "24021", "id_provincia": "24", "name": "Boñar" },
+  { "id": "24022", "id_provincia": "24", "name": "Borrenes" },
+  { "id": "24023", "id_provincia": "24", "name": "Brazuelo" },
+  {
+    "id": "24024",
+    "id_provincia": "24",
+    "name": "Burgo Ranero, El"
+  },
+  { "id": "24025", "id_provincia": "24", "name": "Burón" },
+  {
+    "id": "24026",
+    "id_provincia": "24",
+    "name": "Bustillo del Páramo"
+  },
+  {
+    "id": "24027",
+    "id_provincia": "24",
+    "name": "Cabañas Raras"
+  },
+  {
+    "id": "24028",
+    "id_provincia": "24",
+    "name": "Cabreros del Río"
+  },
+  { "id": "24029", "id_provincia": "24", "name": "Cabrillanes" },
+  { "id": "24030", "id_provincia": "24", "name": "Cacabelos" },
+  {
+    "id": "24031",
+    "id_provincia": "24",
+    "name": "Calzada del Coto"
+  },
+  { "id": "24032", "id_provincia": "24", "name": "Campazas" },
+  {
+    "id": "24033",
+    "id_provincia": "24",
+    "name": "Campo de Villavidel"
+  },
+  { "id": "24034", "id_provincia": "24", "name": "Camponaraya" },
+  { "id": "24036", "id_provincia": "24", "name": "Candín" },
+  { "id": "24037", "id_provincia": "24", "name": "Cármenes" },
+  { "id": "24038", "id_provincia": "24", "name": "Carracedelo" },
+  {
+    "id": "24039",
+    "id_provincia": "24",
+    "name": "Carrizo"
+  },
+  { "id": "24040", "id_provincia": "24", "name": "Carrocera" },
+  { "id": "24041", "id_provincia": "24", "name": "Carucedo" },
+  {
+    "id": "24042",
+    "id_provincia": "24",
+    "name": "Castilfalé"
+  },
+  {
+    "id": "24043",
+    "id_provincia": "24",
+    "name": "Castrillo de Cabrera"
+  },
+  {
+    "id": "24044",
+    "id_provincia": "24",
+    "name": "Castrillo de la Valduerna"
+  },
+  {
+    "id": "24046",
+    "id_provincia": "24",
+    "name": "Castrocalbón"
+  },
+  {
+    "id": "24047",
+    "id_provincia": "24",
+    "name": "Castrocontrigo"
+  },
+  {
+    "id": "24049",
+    "id_provincia": "24",
+    "name": "Castropodame"
+  },
+  {
+    "id": "24050",
+    "id_provincia": "24",
+    "name": "Castrotierra de Valmadrigal"
+  },
+  { "id": "24051", "id_provincia": "24", "name": "Cea" },
+  { "id": "24052", "id_provincia": "24", "name": "Cebanico" },
+  {
+    "id": "24053",
+    "id_provincia": "24",
+    "name": "Cebrones del Río"
+  },
+  {
+    "id": "24065",
+    "id_provincia": "24",
+    "name": "Chozas de Abajo"
+  },
+  {
+    "id": "24054",
+    "id_provincia": "24",
+    "name": "Cimanes de la Vega"
+  },
+  {
+    "id": "24055",
+    "id_provincia": "24",
+    "name": "Cimanes del Tejar"
+  },
+  { "id": "24056", "id_provincia": "24", "name": "Cistierna" },
+  { "id": "24057", "id_provincia": "24", "name": "Congosto" },
+  {
+    "id": "24058",
+    "id_provincia": "24",
+    "name": "Corbillos de los Oteros"
+  },
+  { "id": "24059", "id_provincia": "24", "name": "Corullón" },
+  { "id": "24060", "id_provincia": "24", "name": "Crémenes" },
+  { "id": "24061", "id_provincia": "24", "name": "Cuadros" },
+  {
+    "id": "24062",
+    "id_provincia": "24",
+    "name": "Cubillas de los Oteros"
+  },
+  {
+    "id": "24063",
+    "id_provincia": "24",
+    "name": "Cubillas de Rueda"
+  },
+  {
+    "id": "24064",
+    "id_provincia": "24",
+    "name": "Cubillos del Sil"
+  },
+  { "id": "24066", "id_provincia": "24", "name": "Destriana" },
+  { "id": "24067", "id_provincia": "24", "name": "Encinedo" },
+  { "id": "24068", "id_provincia": "24", "name": "Ercina, La" },
+  {
+    "id": "24069",
+    "id_provincia": "24",
+    "name": "Escobar de Campos"
+  },
+  { "id": "24070", "id_provincia": "24", "name": "Fabero" },
+  {
+    "id": "24071",
+    "id_provincia": "24",
+    "name": "Folgoso de la Ribera"
+  },
+  {
+    "id": "24073",
+    "id_provincia": "24",
+    "name": "Fresno de la Vega"
+  },
+  {
+    "id": "24074",
+    "id_provincia": "24",
+    "name": "Fuentes de Carbajal"
+  },
+  {
+    "id": "24076",
+    "id_provincia": "24",
+    "name": "Garrafe de Torío"
+  },
+  {
+    "id": "24077",
+    "id_provincia": "24",
+    "name": "Gordaliza del Pino"
+  },
+  { "id": "24078", "id_provincia": "24", "name": "Gordoncillo" },
+  { "id": "24079", "id_provincia": "24", "name": "Gradefes" },
+  {
+    "id": "24080",
+    "id_provincia": "24",
+    "name": "Grajal de Campos"
+  },
+  {
+    "id": "24081",
+    "id_provincia": "24",
+    "name": "Gusendos de los Oteros"
+  },
+  {
+    "id": "24082",
+    "id_provincia": "24",
+    "name": "Hospital de Órbigo"
+  },
+  { "id": "24083", "id_provincia": "24", "name": "Igüeña" },
+  { "id": "24084", "id_provincia": "24", "name": "Izagre" },
+  {
+    "id": "24086",
+    "id_provincia": "24",
+    "name": "Joarilla de las Matas"
+  },
+  {
+    "id": "24087",
+    "id_provincia": "24",
+    "name": "Laguna Dalga"
+  },
+  {
+    "id": "24088",
+    "id_provincia": "24",
+    "name": "Laguna de Negrillos"
+  },
+  { "id": "24089", "id_provincia": "24", "name": "León" },
+  {
+    "id": "24092",
+    "id_provincia": "24",
+    "name": "Llamas de la Ribera"
+  },
+  { "id": "24090", "id_provincia": "24", "name": "Lucillo" },
+  {
+    "id": "24091",
+    "id_provincia": "24",
+    "name": "Luyego"
+  },
+  {
+    "id": "24093",
+    "id_provincia": "24",
+    "name": "Magaz de Cepeda"
+  },
+  {
+    "id": "24094",
+    "id_provincia": "24",
+    "name": "Mansilla de las Mulas"
+  },
+  {
+    "id": "24095",
+    "id_provincia": "24",
+    "name": "Mansilla Mayor"
+  },
+  { "id": "24096", "id_provincia": "24", "name": "Maraña" },
+  {
+    "id": "24097",
+    "id_provincia": "24",
+    "name": "Matadeón de los Oteros"
+  },
+  {
+    "id": "24098",
+    "id_provincia": "24",
+    "name": "Matallana de Torío"
+  },
+  {
+    "id": "24099",
+    "id_provincia": "24",
+    "name": "Matanza"
+  },
+  { "id": "24100", "id_provincia": "24", "name": "Molinaseca" },
+  {
+    "id": "24101",
+    "id_provincia": "24",
+    "name": "Murias de Paredes"
+  },
+  {
+    "id": "24102",
+    "id_provincia": "24",
+    "name": "Noceda del Bierzo"
+  },
+  { "id": "24103", "id_provincia": "24", "name": "Oencia" },
+  {
+    "id": "24104",
+    "id_provincia": "24",
+    "name": "Omañas, Las"
+  },
+  { "id": "24105", "id_provincia": "24", "name": "Onzonilla" },
+  {
+    "id": "24106",
+    "id_provincia": "24",
+    "name": "Oseja de Sajambre"
+  },
+  {
+    "id": "24107",
+    "id_provincia": "24",
+    "name": "Pajares de los Oteros"
+  },
+  {
+    "id": "24108",
+    "id_provincia": "24",
+    "name": "Palacios de la Valduerna"
+  },
+  {
+    "id": "24109",
+    "id_provincia": "24",
+    "name": "Palacios del Sil"
+  },
+  {
+    "id": "24110",
+    "id_provincia": "24",
+    "name": "Páramo del Sil"
+  },
+  { "id": "24112", "id_provincia": "24", "name": "Peranzanes" },
+  {
+    "id": "24113",
+    "id_provincia": "24",
+    "name": "Pobladura de Pelayo García"
+  },
+  {
+    "id": "24114",
+    "id_provincia": "24",
+    "name": "Pola de Gordón, La"
+  },
+  { "id": "24115", "id_provincia": "24", "name": "Ponferrada" },
+  {
+    "id": "24116",
+    "id_provincia": "24",
+    "name": "Posada de Valdeón"
+  },
+  {
+    "id": "24117",
+    "id_provincia": "24",
+    "name": "Pozuelo del Páramo"
+  },
+  {
+    "id": "24118",
+    "id_provincia": "24",
+    "name": "Prado de la Guzpeña"
+  },
+  {
+    "id": "24119",
+    "id_provincia": "24",
+    "name": "Priaranza del Bierzo"
+  },
+  { "id": "24120", "id_provincia": "24", "name": "Prioro" },
+  {
+    "id": "24121",
+    "id_provincia": "24",
+    "name": "Puebla de Lillo"
+  },
+  {
+    "id": "24122",
+    "id_provincia": "24",
+    "name": "Puente de Domingo Flórez"
+  },
+  {
+    "id": "24123",
+    "id_provincia": "24",
+    "name": "Quintana del Castillo"
+  },
+  {
+    "id": "24124",
+    "id_provincia": "24",
+    "name": "Quintana del Marco"
+  },
+  {
+    "id": "24125",
+    "id_provincia": "24",
+    "name": "Quintana y Congosto"
+  },
+  {
+    "id": "24127",
+    "id_provincia": "24",
+    "name": "Regueras de Arriba"
+  },
+  { "id": "24129", "id_provincia": "24", "name": "Reyero" },
+  { "id": "24130", "id_provincia": "24", "name": "Riaño" },
+  {
+    "id": "24131",
+    "id_provincia": "24",
+    "name": "Riego de la Vega"
+  },
+  { "id": "24132", "id_provincia": "24", "name": "Riello" },
+  {
+    "id": "24133",
+    "id_provincia": "24",
+    "name": "Rioseco de Tapia"
+  },
+  { "id": "24134", "id_provincia": "24", "name": "Robla, La" },
+  {
+    "id": "24136",
+    "id_provincia": "24",
+    "name": "Roperuelos del Páramo"
+  },
+  { "id": "24137", "id_provincia": "24", "name": "Sabero" },
+  { "id": "24139", "id_provincia": "24", "name": "Sahagún" },
+  {
+    "id": "24141",
+    "id_provincia": "24",
+    "name": "San Adrián del Valle"
+  },
+  {
+    "id": "24142",
+    "id_provincia": "24",
+    "name": "San Andrés del Rabanedo"
+  },
+  { "id": "24143", "id_provincia": "24", "name": "Sancedo" },
+  {
+    "id": "24144",
+    "id_provincia": "24",
+    "name": "San Cristóbal de la Polantera"
+  },
+  {
+    "id": "24145",
+    "id_provincia": "24",
+    "name": "San Emiliano"
+  },
+  {
+    "id": "24146",
+    "id_provincia": "24",
+    "name": "San Esteban de Nogales"
+  },
+  {
+    "id": "24148",
+    "id_provincia": "24",
+    "name": "San Justo de la Vega"
+  },
+  {
+    "id": "24149",
+    "id_provincia": "24",
+    "name": "San Millán de los Caballeros"
+  },
+  {
+    "id": "24150",
+    "id_provincia": "24",
+    "name": "San Pedro Bercianos"
+  },
+  {
+    "id": "24151",
+    "id_provincia": "24",
+    "name": "Santa Colomba de Curueño"
+  },
+  {
+    "id": "24152",
+    "id_provincia": "24",
+    "name": "Santa Colomba de Somoza"
+  },
+  {
+    "id": "24153",
+    "id_provincia": "24",
+    "name": "Santa Cristina de Valmadrigal"
+  },
+  {
+    "id": "24154",
+    "id_provincia": "24",
+    "name": "Santa Elena de Jamuz"
+  },
+  {
+    "id": "24155",
+    "id_provincia": "24",
+    "name": "Santa María de la Isla"
+  },
+  {
+    "id": "24156",
+    "id_provincia": "24",
+    "name": "Santa María del Monte de Cea"
+  },
+  {
+    "id": "24157",
+    "id_provincia": "24",
+    "name": "Santa María del Páramo"
+  },
+  {
+    "id": "24158",
+    "id_provincia": "24",
+    "name": "Santa María de Ordás"
+  },
+  {
+    "id": "24159",
+    "id_provincia": "24",
+    "name": "Santa Marina del Rey"
+  },
+  {
+    "id": "24160",
+    "id_provincia": "24",
+    "name": "Santas Martas"
+  },
+  {
+    "id": "24161",
+    "id_provincia": "24",
+    "name": "Santiago Millas"
+  },
+  {
+    "id": "24162",
+    "id_provincia": "24",
+    "name": "Santovenia de la Valdoncina"
+  },
+  {
+    "id": "24163",
+    "id_provincia": "24",
+    "name": "Sariegos"
+  },
+  {
+    "id": "24164",
+    "id_provincia": "24",
+    "name": "Sena de Luna"
+  },
+  { "id": "24165", "id_provincia": "24", "name": "Sobrado" },
+  {
+    "id": "24166",
+    "id_provincia": "24",
+    "name": "Soto de la Vega"
+  },
+  {
+    "id": "24167",
+    "id_provincia": "24",
+    "name": "Soto y Amío"
+  },
+  {
+    "id": "24168",
+    "id_provincia": "24",
+    "name": "Toral de los Guzmanes"
+  },
+  {
+    "id": "24206",
+    "id_provincia": "24",
+    "name": "Toral de los Vados"
+  },
+  { "id": "24169", "id_provincia": "24", "name": "Toreno" },
+  {
+    "id": "24170",
+    "id_provincia": "24",
+    "name": "Torre del Bierzo"
+  },
+  { "id": "24171", "id_provincia": "24", "name": "Trabadelo" },
+  { "id": "24172", "id_provincia": "24", "name": "Truchas" },
+  { "id": "24173", "id_provincia": "24", "name": "Turcia" },
+  {
+    "id": "24174",
+    "id_provincia": "24",
+    "name": "Urdiales del Páramo"
+  },
+  { "id": "24175", "id_provincia": "24", "name": "Valdefresno" },
+  {
+    "id": "24176",
+    "id_provincia": "24",
+    "name": "Valdefuentes del Páramo"
+  },
+  {
+    "id": "24177",
+    "id_provincia": "24",
+    "name": "Valdelugueros"
+  },
+  { "id": "24178", "id_provincia": "24", "name": "Valdemora" },
+  {
+    "id": "24179",
+    "id_provincia": "24",
+    "name": "Valdepiélago"
+  },
+  {
+    "id": "24180",
+    "id_provincia": "24",
+    "name": "Valdepolo"
+  },
+  { "id": "24181", "id_provincia": "24", "name": "Valderas" },
+  {
+    "id": "24182",
+    "id_provincia": "24",
+    "name": "Valderrey"
+  },
+  {
+    "id": "24183",
+    "id_provincia": "24",
+    "name": "Valderrueda"
+  },
+  {
+    "id": "24184",
+    "id_provincia": "24",
+    "name": "Valdesamario"
+  },
+  {
+    "id": "24185",
+    "id_provincia": "24",
+    "name": "Val de San Lorenzo"
+  },
+  { "id": "24187", "id_provincia": "24", "name": "Valdevimbre" },
+  {
+    "id": "24188",
+    "id_provincia": "24",
+    "name": "Valencia de Don Juan"
+  },
+  { "id": "24191", "id_provincia": "24", "name": "Vallecillo" },
+  {
+    "id": "24189",
+    "id_provincia": "24",
+    "name": "Valverde de la Virgen"
+  },
+  {
+    "id": "24190",
+    "id_provincia": "24",
+    "name": "Valverde-Enrique"
+  },
+  { "id": "24193", "id_provincia": "24", "name": "Vecilla, La" },
+  { "id": "24194", "id_provincia": "24", "name": "Vegacervera" },
+  {
+    "id": "24196",
+    "id_provincia": "24",
+    "name": "Vega de Espinareda"
+  },
+  {
+    "id": "24197",
+    "id_provincia": "24",
+    "name": "Vega de Infanzones"
+  },
+  {
+    "id": "24198",
+    "id_provincia": "24",
+    "name": "Vega de Valcarce"
+  },
+  { "id": "24199", "id_provincia": "24", "name": "Vegaquemada" },
+  {
+    "id": "24201",
+    "id_provincia": "24",
+    "name": "Vegas del Condado"
+  },
+  { "id": "24202", "id_provincia": "24", "name": "Villablino" },
+  { "id": "24203", "id_provincia": "24", "name": "Villabraz" },
+  {
+    "id": "24205",
+    "id_provincia": "24",
+    "name": "Villadangos del Páramo"
+  },
+  {
+    "id": "24207",
+    "id_provincia": "24",
+    "name": "Villademor de la Vega"
+  },
+  {
+    "id": "24209",
+    "id_provincia": "24",
+    "name": "Villafranca del Bierzo"
+  },
+  {
+    "id": "24210",
+    "id_provincia": "24",
+    "name": "Villagatón"
+  },
+  { "id": "24211", "id_provincia": "24", "name": "Villamandos" },
+  {
+    "id": "24901",
+    "id_provincia": "24",
+    "name": "Villamanín"
+  },
+  {
+    "id": "24212",
+    "id_provincia": "24",
+    "name": "Villamañán"
+  },
+  {
+    "id": "24213",
+    "id_provincia": "24",
+    "name": "Villamartín de Don Sancho"
+  },
+  { "id": "24214", "id_provincia": "24", "name": "Villamejil" },
+  { "id": "24215", "id_provincia": "24", "name": "Villamol" },
+  {
+    "id": "24216",
+    "id_provincia": "24",
+    "name": "Villamontán de la Valduerna"
+  },
+  {
+    "id": "24217",
+    "id_provincia": "24",
+    "name": "Villamoratiel de las Matas"
+  },
+  {
+    "id": "24218",
+    "id_provincia": "24",
+    "name": "Villanueva de las Manzanas"
+  },
+  {
+    "id": "24219",
+    "id_provincia": "24",
+    "name": "Villaobispo de Otero"
+  },
+  {
+    "id": "24902",
+    "id_provincia": "24",
+    "name": "Villaornate y Castro"
+  },
+  {
+    "id": "24221",
+    "id_provincia": "24",
+    "name": "Villaquejida"
+  },
+  {
+    "id": "24222",
+    "id_provincia": "24",
+    "name": "Villaquilambre"
+  },
+  {
+    "id": "24223",
+    "id_provincia": "24",
+    "name": "Villarejo de Órbigo"
+  },
+  {
+    "id": "24224",
+    "id_provincia": "24",
+    "name": "Villares de Órbigo"
+  },
+  {
+    "id": "24225",
+    "id_provincia": "24",
+    "name": "Villasabariego"
+  },
+  {
+    "id": "24226",
+    "id_provincia": "24",
+    "name": "Villaselán"
+  },
+  { "id": "24227", "id_provincia": "24", "name": "Villaturiel" },
+  { "id": "24228", "id_provincia": "24", "name": "Villazala" },
+  {
+    "id": "24229",
+    "id_provincia": "24",
+    "name": "Villazanzo de Valderaduey"
+  },
+  {
+    "id": "24230",
+    "id_provincia": "24",
+    "name": "Zotes del Páramo"
+  }
+]
